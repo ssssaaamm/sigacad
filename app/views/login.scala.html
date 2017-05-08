@@ -1,0 +1,30 @@
+@import helper._
+
+@css = {
+    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/login.css")">
+}
+@base("Login",css){
+
+
+<div class="login">
+    <h1>Iniciar Sesión</h1>
+    @if(flash.containsKey("no_registered")){
+        <div class="alert alert-danger" role="alert">
+            <p>@flash.get("no_registered")</p>
+        </div>
+    }
+    
+    @if(flash.containsKey("no_password")){
+        <div class="alert alert-warning" role="alert">
+            <p>@flash.get("no_password")</p>
+        </div>
+    }
+    <form id="login-form" action="@routes.HomeController.login_post" method="post" role="form">
+        @CSRF.formField
+        <input type="text" name="username" placeholder="Username" required="required" />
+        <input type="password" name="password" placeholder="Password" required="required" />
+        <button type="submit" class="btn btn-primary btn-block btn-large">Login</button>
+    </form>
+</div>
+
+}

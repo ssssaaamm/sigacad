@@ -2,8 +2,23 @@
 # This file defines all application routes (Higher priority routes first)
 # ~~~~
 
-# An example controller showing a sample home page
-GET     /                           controllers.HomeController.index
+
 
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
+
+
+# RUTAS Comunes
+GET     /                           controllers.HomeController.home
+GET     /login                      controllers.HomeController.login
+POST    /login                      controllers.HomeController.login_post
+
+# RUTAS DEL AdministradorController
+GET     /administrador                                   controllers.AdministradorController.home
+GET     /administrador/usuarios                          controllers.AdministradorController.usuarios
+
+# RUTAS DEL Estrategico
+GET     /estrategico                           controllers.EstrategicoController.home
+
+# RUTAS DEL Tactico
+GET     /tactico                         controllers.TacticoController.home

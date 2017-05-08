@@ -7,4 +7,13 @@ lazy val root = (project in file(".")).enablePlugins(PlayJava)
 
 scalaVersion := "2.11.11"
 
+libraryDependencies ++= Seq(
+  javaJdbc,
+  cache,
+  "org.postgresql" % "postgresql" % "9.4.1212"
+)
+
 libraryDependencies += filters
+
+lazy val myProject = (project in file("."))
+  .enablePlugins(PlayJava, PlayEbean)
