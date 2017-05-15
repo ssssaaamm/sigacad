@@ -12,10 +12,14 @@ GET     /assets/*file               controllers.Assets.versioned(path="/public",
 GET     /                           controllers.HomeController.home
 GET     /login                      controllers.HomeController.login
 POST    /login                      controllers.HomeController.login_post
+GET     /logout                     controllers.HomeController.logout
 
 # RUTAS DEL AdministradorController
 GET     /administrador                                   controllers.AdministradorController.home
 GET     /administrador/usuarios                          controllers.AdministradorController.usuarios
+POST     /administrador/usuarios/new                      controllers.AdministradorController.usuario_new
+POST     /administrador/usuarios/edit/:id                 controllers.AdministradorController.usuario_edit(id: Long)
+POST     /administrador/usuarios/remove/:id               controllers.AdministradorController.usuario_remove(id: Long)
 
 # RUTAS DEL Estrategico
 GET     /estrategico                           controllers.EstrategicoController.home

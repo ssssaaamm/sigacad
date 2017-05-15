@@ -73,4 +73,20 @@ public class HomeController extends Controller {
 
     }
 
+    public Result logout() {
+
+
+        /*validacion de usuario logeado*/
+        String username = session("username");
+        
+        if(username == null){
+            return redirect(routes.HomeController.login());
+        }
+        /*validacion de usuario logeado*/
+
+
+        session().clear();
+        return redirect(routes.HomeController.login());
+    }
+
 }

@@ -13,7 +13,7 @@ libraryDependencies ++= Seq(
   "org.postgresql" % "postgresql" % "9.4.1212"
 )
 
-libraryDependencies += filters
+
 
 lazy val myProject = (project in file("."))
   .enablePlugins(PlayJava, PlayEbean)

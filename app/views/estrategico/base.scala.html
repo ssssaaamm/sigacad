@@ -24,21 +24,63 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="/administrador"><span class="glyphicon glyphicon-user"></span> @session().get("username") <i class="fa fa-circle" style="color: green"></i></a>
+                    <a class="navbar-brand" href="#"><span class="glyphicon glyphicon-user"></span> @session().get("username") <i class="fa fa-circle" style="color: green"></i></a>
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
                     <ul class="nav navbar-nav">
 
-                        @if(activo=="usuarios"){
+                        @if(activo=="1"){
                             <li class="active">
                         }else{
                             <li>
                         }
-                            <a href="@routes.AdministradorController.usuarios">Usuarios<span style="font-size:16px;" class="pull-right hidden-xs showopacity glyphicon glyphicon-user"></span></a>
+                            <a href="#" class="text-center">Resumen Materias mas Reprobadas<span style="font-size:16px;" class="pull-right hidden-xs showopacity glyphicon glyphicon-book"></span></a>
                         </li>
                         
-            
+
+                        @if(activo=="2"){
+                            <li class="active">
+                        }else{
+                            <li>
+                        }
+                            <a href="#" class="text-center">Resumen Cantidad de Repetidos por Materia<span style="font-size:16px;" class="pull-right hidden-xs showopacity glyphicon glyphicon-duplicate"></span></a>
+                        </li>
+
+                        @if(activo=="3"){
+                            <li class="active">
+                        }else{
+                            <li>
+                        }
+                            <a href="#" class="text-center">Resumen Estudiantes que se Retiran de la FIA<span style="font-size:16px;" class="pull-right hidden-xs showopacity glyphicon glyphicon-arrow-right"></span></a>
+                        </li>
+
+                        @if(activo=="4"){
+                            <li class="active">
+                        }else{
+                            <li>
+                        }
+                            <a href="#" class="text-center">Promedio de Años que un Estudiante tarde en Egresar<span style="font-size:16px;" class="pull-right hidden-xs showopacity glyphicon glyphicon-hourglass"></span></a>
+                        </li>
+
+
+                        @if(activo=="5"){
+                            <li class="active">
+                        }else{
+                            <li>
+                        }
+                            <a href="#" class="text-center">Resumen de Materias mas Repetidas<span style="font-size:16px;" class="pull-right hidden-xs showopacity glyphicon glyphicon-book"></span></a>
+                        </li>
+
+
+                        @if(activo=="6"){
+                            <li class="active">
+                        }else{
+                            <li>
+                        }
+                            <a href="#" class="text-center">Resumen de Materias mas Retiradas<span style="font-size:16px;" class="pull-right hidden-xs showopacity glyphicon glyphicon-book"></span></a>
+                        </li>
+
 
                         @if(activo=="ajustes"){
                             <li class="dropdown active">
@@ -55,8 +97,8 @@
                         <li>
                             <a href="@routes.HomeController.logout">Salir<span style="font-size:16px;" class="pull-right hidden-xs showopacity glyphicon glyphicon-off"></span></a>
                         </li>
-
-
+                        
+                        
                     </ul>
                 </div>
             </div>

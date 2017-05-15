@@ -6,7 +6,7 @@ import play.data.*;
 import java.util.*;
 import java.io.File;
 
-import views.html.*;
+import views.html.tactico.*;
 import models.*;
 /**
  * This controller contains an action to handle HTTP requests
@@ -21,7 +21,7 @@ public class TacticoController extends Controller {
      * <code>GET</code> request with a path of <code>/</code>.
      */
     public Result home() {
-        return ok("tactico works!");
+        return ok(welcome.render());
     }
 
 }
