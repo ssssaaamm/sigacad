@@ -24,4 +24,12 @@ public class EstrategicoController extends Controller {
         return ok(welcome.render());
     }
 
+    public Result e_rep4(){
+        return ok(e_rep4.render());
+    }
+
+    public Result procesar_rep4(){
+        return ok("procesando reporte 4");
+    }
+
 }

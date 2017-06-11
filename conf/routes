@@ -23,6 +23,12 @@ POST     /administrador/usuarios/remove/:id               controllers.Administra
 
 # RUTAS DEL Estrategico
 GET     /estrategico                           controllers.EstrategicoController.home
+GET     /estrategico/rep4                      controllers.EstrategicoController.e_rep4
+POST     /estrategico/rep4                     controllers.EstrategicoController.procesar_rep4
 
 # RUTAS DEL Tactico
-GET     /tactico                         controllers.TacticoController.home
+GET     /tactico                       controllers.TacticoController.home
+GET     /tactico/rep2                  controllers.TacticoController.e_rep2
+POST     /tactico/rep2                 controllers.TacticoController.procesar_rep2
+GET     /tactico/rep5                  controllers.TacticoController.e_rep5
+POST     /tactico/rep5                 controllers.TacticoController.procesar_rep5
