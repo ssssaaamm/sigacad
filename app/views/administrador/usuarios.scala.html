@@ -22,9 +22,9 @@
 	<script>
 		$('.modal').on('hidden.bs.modal', function () {
 			if(window.location.pathname!='@routes.AdministradorController.usuarios'){
-				
+
 				window.location='@routes.AdministradorController.usuarios';
-			}	
+			}
 		});
 	</script>
 }
@@ -38,7 +38,7 @@
 
 
 @administrador.base("Administrar Usuarios","Gestion de usuarios","usuarios",css,js,breadcrumb){
-	
+
 
 	<button type="button" id="main-add-button" class="btn btn-primary" data-toggle="modal" data-target="#mod-new"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Agregar Usuario</button>
 
@@ -59,12 +59,12 @@
 		<!-- Modal content-->
 		<div class="modal-content">
 			@form(action=routes.AdministradorController.usuario_new()){
-				 
+
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
 					<h4 class="modal-title">Agregar nuevo usuario</h4>
 				</div>
-				
+
 				<!--Errores globales y automaticos del formulario se muestran-->
 				@if(usuario_form.hasGlobalErrors) {
 					@for(error <- usuario_form.globalErrors) {
@@ -98,14 +98,21 @@
 	        		 </div>
 
 
-					@for(error <- usuario_form("tipo.id").errors) {
-						<div class="alert alert-danger">
+					@for(error <- usuario_form(".id").errors) {
+						<div class="form-group">
 							<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+
 							<strong>@Messages(error.messages, error.arguments.toArray: _*)</strong>
 						</div>
 					}
 	        		 <div class="form-group">
-						@select(usuario_form("tipo.id"), options(TipoUsuario.options), '_showConstraints -> false , '_showErrors -> false,'class -> "form-control", 'placeholder -> "Tipo de Usuario",'_label -> "Tipo de Usuario: ")
+					<!--	@select(usuario_form(".id"), options(TipoUsuario.options), '_showConstraints -> false , '_showErrors -> false,'class -> "form-control", 'placeholder -> "Tipo de Usuario",'_label -> "Tipo de Usuario: ")
+					--><select class="Form-control" id="TipoUsuario" name="TipoUsuario">
+								<option value="1"> Administrador</option>
+								<option value="2"> Tactico</option>
+								<option value="3"> Estrategico</option>
+					</select>
+
 					 </div>
 
 
@@ -155,7 +162,7 @@
 		</div>
 	</div>
 
-                	
+
 
 
 
@@ -185,7 +192,7 @@
 				<tr>
 					<td>@usuario.id</td>
 					<td>@usuario.nombre</td>
-					<td>@usuario.tipo.nombre</td>
+					<td>@usuario.tipo</td>
 					<td>@usuario.username</td>
 					<td><button class="btn btn-success btn-xs" data-toggle="modal" data-target="#mod-edit-@usuario.id"><span class="glyphicon glyphicon-edit"></span> Editar</button></td>
 					<td><button class="btn btn-danger btn-xs" data-toggle="modal" data-target="#mod-remove-@usuario.id"><span class="glyphicon glyphicon-trash"></span> Eliminar</button></td>
@@ -195,18 +202,18 @@
 
 				<!-- Modal -->
 				<div class="modal fade" id="mod-edit-@usuario.id" role="dialog">
-					
+
 					<div class="modal-dialog">
 
 					<!-- Modal content-->
 					<div class="modal-content">
 						@form(action=routes.AdministradorController.usuario_edit(usuario.id)){
-							
+
 							<div class="modal-header">
 								<button type="button" class="close" data-dismiss="modal">&times;</button>
 								<h4 class="modal-title">Editar usuario: @usuario.nombre</h4>
 								</div>
-								
+
 								<!--Errores globales y automaticos del formulario se muestran-->
 								@if(usuario_form.hasGlobalErrors) {
 									@for(error <- usuario_form.globalErrors) {
@@ -239,7 +246,7 @@
 											<strong>@Messages(error.messages, error.arguments.toArray: _*)</strong>
 										</div>
 									}
-					        		 <div class="form-group">
+					()        		 <div class="form-group">
 					        		 	@inputText(usuario.getForm()("nombre"), '_showConstraints -> false , '_showErrors -> false,'class -> "form-control", 'placeholder -> "Nombre del usuario", '_label -> "Nombre: ")
 					        		 </div>
 
@@ -251,7 +258,7 @@
 										</div>
 									}
 					        		 <div class="form-group">
-										@select(usuario.getForm()("tipo.id"), options(TipoUsuario.options), '_showConstraints -> false , '_showErrors -> false,'class -> "form-control", 'placeholder -> "Tipo de Usuario",'_label -> "Tipo de Usuario: ")
+										@select(usuario.getForm()("tipo.id"), options(TipoUsuario.options), '_showConstraints -> false , '_showErrors -> false,'class -> "form-control", 'placeholder -> " de Usuario",'_label -> " de Usuario: ")
 									 </div>
 
 
@@ -323,7 +330,7 @@
 							</div>
 							<div class="modal-footer">
 								<form>
-								<button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>							
+								<button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
 								<button type="submit" class="btn btn-danger" formmethod="POST" formaction="@routes.AdministradorController.usuario_remove(usuario.id)"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Eliminar</button>
 								</form>
 							</div>

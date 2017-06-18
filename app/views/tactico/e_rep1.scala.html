@@ -24,18 +24,18 @@
 
 @breadcrumb = {
 	<ul class="breadcrumb">
-		<li class=""><a href="/estrategico">Estratégico</a></li>
-		<li class="active"><a href="#">Reporte 4</a></li>
+		<li class=""><a href="/tactico">Tactico</a></li>
+		<li class="active"><a href="#">Reporte 1</a></li>
 	</ul>
 }
 
 
-@estrategico.base("Reporte 4","Resumen Promedio de años que los estudiante egresados demoran en culminar la carrera, según carrera y promosión. ","4",css,js,breadcrumb){
+@tactico.base("Reporte 1","Semi-Resumen de Alumnos con rendimiento más bajo por carrera y año.","1",css,js,breadcrumb){
 
     <br>
     <br>
 
-    <form class="form-horizontal" role="form" method="post" action="@routes.EstrategicoController.procesar_rep4">
+    <form class="form-horizontal" role="form" method="post" action="@routes.TacticoController.procesar_rep2">
 
             <div class="row">
                 <div class="col-sm-3"></div>
@@ -50,30 +50,28 @@
                                 <option value="ind">Ing. Industrial</option>
                                 <option value="mec">Ing. Mecanica</option>
                                 <option value="qui">Ing. Química</option>
-                                <option value="ele">Ing. Electrica</option>
-                                <option value="ali">Ing. Alimentos</option>
                                 <option value="sis">Ing. Sistemas</option>
                             </select>
                         </div>
                     </div>
 
                     <div class="form-group">
-                        <label for="carrera" class="col-sm-2 control-label">Desde Promoción</label>
+                        <label for="fecha" class="col-sm-2 control-label">Año</label>
                         <div class="col-sm-10">
                             <div class="colinput-append date" id="dp1" data-date="12-02-2012" data-date-format="dd-mm-yyyy">
                                 <input type="text" id="txtDateDesde" name="fecha_inicio" class="datepicker form-control" data-provide="datepicker" placeholder="Seleccione" />
                             </div>
                         </div>
                     </div>
-
                     <div class="form-group">
-                        <label for="carrera" class="col-sm-2 control-label">Hasta Promoción</label>
-                        <div class="col-sm-10">
-                            <div class="colinput-append date" id="dp2" data-date="12-02-2012" data-date-format="dd-mm-yyyy">
-                                <input type="text" id="txtDateHasta" name="fecha_inicio" class="datepicker form-control" data-provide="datepicker" placeholder="Seleccione" />
-                            </div>
-                        </div>
+                        <label for="carrera" class="col-sm-2 control-label">Maximo Registro</label>
+                           <div class="col-sm-10">
+                                        <div class="colinput-append date" id="max">
+                                        <input type="text" id="max" name="max" class="form-control" placeholder="Introducir " />
+                                      </div>
+                          </div>
                     </div>
+
 
                     <div class="form-group">
                         <div class="col-sm-2"></div>

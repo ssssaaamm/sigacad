@@ -23,7 +23,24 @@ public class EstrategicoController extends Controller {
     public Result home() {
         return ok(welcome.render());
     }
-
+    public Result e_rep1(){
+      return ok(e_rep1.render());
+    }
+    public Result procesar_rep1(){
+      return ok("procesar reporte 1");
+    }
+    public Result e_rep2(){
+      return ok(e_rep2.render());
+    }
+    public Result procesar_rep2(){
+      return ok("procesar reporte 2");
+    }
+    public Result e_rep3(){
+      return ok(e_rep3.render());
+    }
+    public Result procesar_rep3(){
+      return ok("procesar reporte 3");
+    }
     public Result e_rep4(){
         return ok(e_rep4.render());
     }
@@ -31,5 +48,18 @@ public class EstrategicoController extends Controller {
     public Result procesar_rep4(){
         return ok("procesando reporte 4");
     }
+    public Result e_rep5(){
+        return ok(e_rep5.render());
+    }
 
+    public Result procesar_rep5(){
+        return ok("procesando reporte 5");
+    }
+    public Result e_rep6(){
+        return ok(e_rep6.render());
+    }
+
+    public Result procesar_rep6(){
+        return ok("procesando reporte 6");
+    }
 }

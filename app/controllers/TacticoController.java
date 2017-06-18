@@ -23,6 +23,13 @@ public class TacticoController extends Controller {
     public Result home() {
         return ok(welcome.render());
     }
+    public Result e_rep1(){
+        return ok(e_rep1.render());
+    }
+
+    public Result procesar_rep1(){
+        return ok("procesando reporte 1");
+    }
 
     public Result e_rep2(){
         return ok(e_rep2.render());
@@ -31,7 +38,20 @@ public class TacticoController extends Controller {
     public Result procesar_rep2(){
         return ok("procesando reporte 2");
     }
+    public Result e_rep3(){
+        return ok(e_rep3.render());
+    }
 
+    public Result procesar_rep3(){
+        return ok("procesando reporte 3");
+    }
+    public Result e_rep4(){
+        return ok(e_rep4.render());
+    }
+
+    public Result procesar_rep4(){
+        return ok("procesando reporte 4");
+    }
     public Result e_rep5(){
         return ok(e_rep5.render());
     }

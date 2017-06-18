@@ -23,12 +23,29 @@ POST     /administrador/usuarios/remove/:id               controllers.Administra
 
 # RUTAS DEL Estrategico
 GET     /estrategico                           controllers.EstrategicoController.home
+GET     /estrategico/rep1                      controllers.EstrategicoController.e_rep1
+GET     /estrategico/rep2                      controllers.EstrategicoController.e_rep2
+GET     /estrategico/rep3                      controllers.EstrategicoController.e_rep3
 GET     /estrategico/rep4                      controllers.EstrategicoController.e_rep4
-POST     /estrategico/rep4                     controllers.EstrategicoController.procesar_rep4
+GET     /estrategico/rep5                      controllers.EstrategicoController.e_rep5
+GET     /estrategico/rep6                      controllers.EstrategicoController.e_rep6
 
+POST    /estrategico/rep1                      controllers.EstrategicoController.procesar_rep1
+POST    /estrategico/rep2                      controllers.EstrategicoController.procesar_rep2
+POST    /estrategico/rep3                      controllers.EstrategicoController.procesar_rep3
+POST     /estrategico/rep4                     controllers.EstrategicoController.procesar_rep4
+POST     /estrategico/rep5                     controllers.EstrategicoController.procesar_rep5
+POST     /estrategico/rep6                     controllers.EstrategicoController.procesar_rep6
 # RUTAS DEL Tactico
 GET     /tactico                       controllers.TacticoController.home
+GET     /tactico/rep1                  controllers.TacticoController.e_rep1
 GET     /tactico/rep2                  controllers.TacticoController.e_rep2
-POST     /tactico/rep2                 controllers.TacticoController.procesar_rep2
+GET     /tactico/rep3                  controllers.TacticoController.e_rep3
+GET     /tactico/rep4                  controllers.TacticoController.e_rep4
 GET     /tactico/rep5                  controllers.TacticoController.e_rep5
+
+POST     /tactico/rep1                 controllers.TacticoController.procesar_rep1
+POST     /tactico/rep2                 controllers.TacticoController.procesar_rep2
+POST     /tactico/rep3                 controllers.TacticoController.procesar_rep3
+POST     /tactico/rep4                 controllers.TacticoController.procesar_rep4
 POST     /tactico/rep5                 controllers.TacticoController.procesar_rep5
