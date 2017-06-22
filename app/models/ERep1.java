@@ -19,4 +19,6 @@ public class ERep1 extends Model{
 	public Integer ciclo; 
 	public Integer reprobados;
 
+
+	public static Finder<Long, ERep1> find = new Finder<Long,ERep1>(ERep1.class);
 }

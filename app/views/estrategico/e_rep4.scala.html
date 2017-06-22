@@ -45,14 +45,14 @@
                         <label for="carrera" class="col-sm-2 control-label">Carrera</label>
                         <div class="col-sm-10">
                             <select class="form-control" id="carrera" name="carrera">
-                                <option value="arq">Arquitectura</option>
-                                <option value="civ">Ing. Civil</option>
-                                <option value="ind">Ing. Industrial</option>
-                                <option value="mec">Ing. Mecanica</option>
-                                <option value="qui">Ing. Química</option>
-                                <option value="ele">Ing. Electrica</option>
-                                <option value="ali">Ing. Alimentos</option>
-                                <option value="sis">Ing. Sistemas</option>
+                                <option value="Arquitectura">Arquitectura</option>
+                                <option value="Ing. Civil">Ing. Civil</option>
+                                <option value="Ing. Industrial">Ing. Industrial</option>
+                                <option value="Ing. Mecanica">Ing. Mecanica</option>
+                                <option value="Ing. Química">Ing. Química</option>
+                                <option value="Ing. Electrica">Ing. Electrica</option>
+                                <option value="Ing. Alimentos">Ing. Alimentos</option>
+                                <option value="Ing. Sistemas">Ing. Sistemas</option>
                             </select>
                         </div>
                     </div>
@@ -61,7 +61,7 @@
                         <label for="carrera" class="col-sm-2 control-label">Desde Promoción</label>
                         <div class="col-sm-10">
                             <div class="colinput-append date" id="dp1" data-date="12-02-2012" data-date-format="dd-mm-yyyy">
-                                <input type="text" id="txtDateDesde" name="fecha_inicio" class="datepicker form-control" data-provide="datepicker" placeholder="Seleccione" />
+                                <input type="text" name="desde" id="txtDateDesde" class="datepicker form-control" data-provide="datepicker" placeholder="Seleccione" />
                             </div>
                         </div>
                     </div>
@@ -70,7 +70,7 @@
                         <label for="carrera" class="col-sm-2 control-label">Hasta Promoción</label>
                         <div class="col-sm-10">
                             <div class="colinput-append date" id="dp2" data-date="12-02-2012" data-date-format="dd-mm-yyyy">
-                                <input type="text" id="txtDateHasta" name="fecha_inicio" class="datepicker form-control" data-provide="datepicker" placeholder="Seleccione" />
+                                <input type="text" id="txtDateHasta" name="hasta" class="datepicker form-control" data-provide="datepicker" placeholder="Seleccione" />
                             </div>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                     <div class="form-group">
                         <div class="col-sm-2"></div>
                         <div class="col-sm-5">
-                            <button type="submit" class="btn btn-default col-sm-12">Cancelar</button>
+                            <a href="@routes.EstrategicoController.home()" class="btn btn-default col-sm-12">Cancelar</a>
                         </div>
                         <div class="col-sm-5">
                             <button type="submit" class="btn btn-success col-sm-12">Procesar</button>

@@ -17,4 +17,5 @@ public class TRep4 extends Model{
 	public String alumno;
 	public String carne;
 
+	public static Finder<Long, TRep4> find = new Finder<Long,TRep4>(TRep4.class);
 } 

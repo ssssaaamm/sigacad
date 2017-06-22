@@ -18,4 +18,5 @@ public class TRep3 extends Model{
 	public String carne;
 	public Double cum;
 
+	public static Finder<Long, TRep3> find = new Finder<Long,TRep3>(TRep3.class);
 } 

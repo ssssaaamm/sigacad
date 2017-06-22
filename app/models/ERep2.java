@@ -20,6 +20,6 @@ public class ERep2 extends Model{
 	public Integer evaluaciones;
     public Integer  repetidos;
 
-
+	public static Finder<Long, ERep2> find = new Finder<Long,ERep2>(ERep2.class);
 
 }

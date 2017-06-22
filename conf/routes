@@ -36,6 +36,17 @@ POST    /estrategico/rep3                      controllers.EstrategicoController
 POST     /estrategico/rep4                     controllers.EstrategicoController.procesar_rep4
 POST     /estrategico/rep5                     controllers.EstrategicoController.procesar_rep5
 POST     /estrategico/rep6                     controllers.EstrategicoController.procesar_rep6
+
+
+POST     /estrategico/pdf_rep1                     controllers.EstrategicoController.pdf_rep1
+POST     /estrategico/pdf_rep2                    controllers.EstrategicoController.pdf_rep2
+POST     /estrategico/pdf_rep3                     controllers.EstrategicoController.pdf_rep3
+POST     /estrategico/pdf_rep4                     controllers.EstrategicoController.pdf_rep4
+POST     /estrategico/pdf_rep5                     controllers.EstrategicoController.pdf_rep5
+POST     /estrategico/pdf_rep6                     controllers.EstrategicoController.pdf_rep6
+
+
+
 # RUTAS DEL Tactico
 GET     /tactico                       controllers.TacticoController.home
 GET     /tactico/rep1                  controllers.TacticoController.e_rep1
@@ -49,3 +60,9 @@ POST     /tactico/rep2                 controllers.TacticoController.procesar_re
 POST     /tactico/rep3                 controllers.TacticoController.procesar_rep3
 POST     /tactico/rep4                 controllers.TacticoController.procesar_rep4
 POST     /tactico/rep5                 controllers.TacticoController.procesar_rep5
+
+POST     /tactico/pdf_rep1                 controllers.TacticoController.pdf_rep1
+POST     /tactico/pdf_rep2                 controllers.TacticoController.pdf_rep2
+POST     /tactico/pdf_rep3                 controllers.TacticoController.pdf_rep3
+POST     /tactico/pdf_rep4                 controllers.TacticoController.pdf_rep4
+POST     /tactico/pdf_rep5                 controllers.TacticoController.pdf_rep5

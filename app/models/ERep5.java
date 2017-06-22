@@ -19,4 +19,5 @@ public class ERep5 extends Model{
 	public String materia;
 	public Integer reinscritos;
 	
+	public static Finder<Long, ERep5> find = new Finder<Long,ERep5>(ERep5.class);
 } 

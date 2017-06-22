@@ -17,6 +17,6 @@ public class ERep4 extends Model{
 	public Integer promocion;
 	public Integer promedio;
 
-
+	public static Finder<Long, ERep4> find = new Finder<Long,ERep4>(ERep4.class);
 
 } 

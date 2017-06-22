@@ -10,7 +10,8 @@ scalaVersion := "2.11.11"
 libraryDependencies ++= Seq(
   javaJdbc,
   cache,
-  "org.postgresql" % "postgresql" % "9.4.1212"
+  "org.postgresql" % "postgresql" % "9.4.1212",
+  "it.innove" % "play2-pdf" % "1.5.1"
 )
 
 

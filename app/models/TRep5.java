@@ -17,4 +17,5 @@ public class TRep5 extends Model{
 	public String materia;
 	public Integer poblacion;
 
+	public static Finder<Long, TRep5> find = new Finder<Long,TRep5>(TRep5.class);
 } 

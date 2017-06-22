@@ -20,4 +20,6 @@ public class TRep2 extends Model{
 	public String materia;
 	public Integer aprobados;
     public Integer reprobados;
+
+	public static Finder<Long, TRep2> find = new Finder<Long,TRep2>(TRep2.class);
 } 

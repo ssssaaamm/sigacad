@@ -17,6 +17,6 @@ public class ERep3 extends Model{
 	public Date fecha;
 	public Integer retirados;
 
-
+	public static Finder<Long, ERep3> find = new Finder<Long,ERep3>(ERep3.class);
 
 }

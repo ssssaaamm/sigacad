@@ -1,0 +1,47 @@
+@(registros: List[ERep4],carrera:String,desde:Integer,hasta:Integer)
+@import helper._
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" media="print" href="public/stylesheets/bootstrap.min.css">
+    </head>
+    
+    <body>
+        <div class="text-center row">
+            <img src="public/images/logo_ues.png">
+        </div>
+
+        <div class="text-center row">
+            <p><strong>Carrera:</strong> @carrera</p>
+            <p><strong>Desde:</strong> @desde &nbsp;&nbsp;&nbsp; <strong>Hasta:</strong> @hasta</p>
+        </div>
+
+        <div class="text-center row">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-8">
+            <table class="table table-condensed table-bordered table-striped">
+                <thead>
+                <tr>
+                    <th>No</th>
+                    <th>Promoción</th>
+                    <th>Años Promedio</th>
+                </tr>
+                </thead>
+                <tbody>
+
+                    @for((row, index) <- registros.reverse.zipWithIndex) {
+                        <tr>
+                            <td>@(index+1)</td>
+                            <td>@row.promocion</td>
+                            <td>@row.promedio</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            </div>
+            <div class="col-sm-2"></div>
+        </div>
+    </body>
+
+</html>

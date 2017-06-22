@@ -16,6 +16,6 @@ public class ERep6 extends Model{
 	public String materia;
 	public Integer retiros;
 
-
+	public static Finder<Long, ERep6> find = new Finder<Long,ERep6>(ERep6.class);
 
 } 

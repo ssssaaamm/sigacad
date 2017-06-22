@@ -20,4 +20,5 @@ public class TRep1 extends Model{
 	public Double mediaCiclo;
 	public Double cum;
 
+	public static Finder<Long, TRep1> find = new Finder<Long,TRep1>(TRep1.class);
 } 
