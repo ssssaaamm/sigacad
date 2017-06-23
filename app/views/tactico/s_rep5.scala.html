@@ -1,4 +1,4 @@
-@(registros: List[TRep2],carrera:String,anio:Integer,ciclo:Integer)
+@(registros: List[TRep5],carrera:String,anio:Integer,ciclo:Integer)
 @import scala.math.BigDecimal
 @import helper._
 
@@ -17,19 +17,19 @@
 @breadcrumb = {
 	<ul class="breadcrumb">
 		<li class=""><a href="/tactico">Tactico</a></li>
-		<li class="active"><a href="#">Reporte 2</a></li>
+		<li class="active"><a href="#">Reporte 5</a></li>
 	</ul>
 }
 
 
-@tactico.base("Reporte 2","Semi-Resumen de Porcentaje Aprobado/Reprobado por Docente,año y ciclo","2",css,js,breadcrumb){
+@tactico.base("Reporte 5","Semi-Resumen de Materias Electivas con menos población según carrera, año y ciclo.","5",css,js,breadcrumb){
 
     <br>
     <br>
 
     <div class="text-center row">
         <div class="col-sm-4"></div>
-        <form method="post" action="@routes.TacticoController.pdf_rep2()">
+        <form method="post" action="@routes.TacticoController.pdf_rep5()">
             <input type="text" name="carrera" value="@carrera" hidden="true"/>
             <input type="text" name="anio" value="@anio" hidden="true" />
             <input type="text" id="txtDateHasta" name="ciclo" value="@ciclo" hidden="true"/>
@@ -57,9 +57,8 @@
             <thead>
             <tr>
                 <th>No</th>
-                <th>Docente</th>
-                <th>Materia Impartida</th>
-                <th>% Reprobados</th>
+                <th>Materia</th>
+                <th>Poblacion</th>
             </tr>
             </thead>
             <tbody>
@@ -67,10 +66,8 @@
                 @for((row, index) <- registros.reverse.zipWithIndex) {
                     <tr>
                         <td>@(index+1)</td>
-                        <td>@row.docente</td>
                         <td>@row.materia</td>
-                        <!--se debe convertir a dobule los enteros para que exista precision-->
-                        <td>@BigDecimal( row.reprobados.toDouble / (row.reprobados.toDouble+row.aprobados.toDouble) * 100 ).setScale(2, BigDecimal.RoundingMode.HALF_UP)</td>
+                        <td>@row.poblacion</td>
                     </tr>
                 }
 
