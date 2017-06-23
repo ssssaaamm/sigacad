@@ -9,13 +9,91 @@
 }
 
 @breadcrumb = {
-	<ul class="breadcrumb">
+	<!--<ul class="breadcrumb">
 		<li class=""><a href="/Inicio">Inicio</a></li>
-	</ul>
+	</ul>-->
 }
 
 
-@estrategico.base("Welcome Page","Bievenido","welcome",css,js,breadcrumb){
-	<h3> Nivel Estrategico</h3>
+@estrategico.base("Welcome Page","Bienvenido!","welcome",css,js,breadcrumb){
+	
+	<div class="text-center row">
+        <img src="@routes.Assets.versioned("images/logo_ues.png")">
+    </div>
+
+	<h3 class="text-center">A continuación tienes una descripción de los Reportes a los que usted puede acceder.</h3>
+	<br>
+	<div class="row">
+		
+		<div class="col-sm-4">
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h3 class="panel-title">1. Resumen de materias más reprobadas de la FIA por carrera año y ciclo</h3>
+				</div>
+				<div class="panel-body">
+					Muestra las materias mas reprobadas de la Facultad de Ingenieria y Arquitectura según carrera, año y ciclo academico.
+				</div>
+			</div>
+		</div>
+		<div class="col-sm-4">
+			<div class="panel panel-success">
+				<div class="panel-heading">
+					<h3 class="panel-title">2. Resumen de evaluaciones repetidas por Carrera, año, ciclo y materia</h3>
+				</div>
+				<div class="panel-body">
+					Muestra el numero de examenes repetidos realizados por materia, carrera, año y ciclo academico.
+				</div>
+			</div>
+		</div>
+		<div class="col-sm-4">
+			<div class="panel panel-info">
+				<div class="panel-heading">
+					<h3 class="panel-title">3. Resumen de cantidad de estudiantes que se retiran de la FIA por carrera y rango de fecha</h3>
+				</div>
+				<div class="panel-body">
+					Muestra un resumen con la cantidad de estudiantes que se retiran de la fia, tomando como entrada la carrera y un rango de fechas.
+				</div>
+			</div>
+		</div>
+		
+	</div>
+
+	<br>
+	<br>
+	<br>
+	
+	<div class="row">
+		<div class="col-sm-4">
+			<div class="panel panel-warning">
+				<div class="panel-heading">
+					<h3 class="panel-title">4. Resumen Promedio de años que los estudiante egresados demoran en culminar la carrera, según carrera y promoción.</h3>
+				</div>
+				<div class="panel-body">
+					Calcula y presenta el promedio de años en el que un estudiante de la FIA termina su carrera y se gradua, tomando como datos de entrada la carrera y promoción.
+				</div>
+			</div>
+		</div>
+		<div class="col-sm-4">
+			<div class="panel panel-danger">
+				<div class="panel-heading">
+					<h3 class="panel-title">5. Resumen de materias más repetidas por Carrera, año, ciclo y materia </h3>
+				</div>
+				<div class="panel-body">
+					Presenta el resumen de las materias mas repetidas según se elija carrera, año y ciclo.
+				</div>
+			</div>
+		</div>
+		<div class="col-sm-4">
+			<div class="panel panel-primary">
+				<div class="panel-heading">
+					<h3 class="panel-title">6. Resumen de materias mas retiradas de la FIA por Carrera, año y ciclo</h3>
+				</div>
+				<div class="panel-body">
+					Presenta el resumen de las materias mas retiradas según se elija carrera, año y ciclo.
+				</div>
+			</div>
+		</div>
+	</div>
+	
 
 }

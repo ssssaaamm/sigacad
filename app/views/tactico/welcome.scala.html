@@ -9,12 +9,81 @@
 }
 
 @breadcrumb = {
-	<ul class="breadcrumb">
+	<!--<ul class="breadcrumb">
 		<li class=""><a href="/Inicio">Inicio</a></li>
-	</ul>
+	</ul>-->
 }
 
 
-@tactico.base("Welcome Page","Bievenido","welcome",css,js,breadcrumb){
-	Bienvenido Tactico works!
+@tactico.base("Welcome Page","Bievenido!","welcome",css,js,breadcrumb){
+	
+	<div class="text-center row">
+        <img src="@routes.Assets.versioned("images/logo_ues.png")">
+    </div>
+
+	<h3 class="text-center">A continuación tienes una descripción de los Reportes a los que usted puede acceder.</h3>
+	<br>
+	<div class="row">
+		
+		<div class="col-sm-4">
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h3 class="panel-title">1. Semi-Resumen de Alumnos con rendimiento más bajo por carrera y año.</h3>
+				</div>
+				<div class="panel-body">
+					Muestra un listado con los alumnos que tienen rendimiento por debajo de la media segun carrera y año.
+				</div>
+			</div>
+		</div>
+		<div class="col-sm-4">
+			<div class="panel panel-success">
+				<div class="panel-heading">
+					<h3 class="panel-title">2. Semi-Resumen de Porcentaje Aprobado/Reprobado por Docente,año y ciclo</h3>
+				</div>
+				<div class="panel-body">
+					Presenta un reporte Semi-Resumen del porcentaje de alumnos que aprueban una materia segun carrera docente y año y ciclo.
+				</div>
+			</div>
+		</div>
+		<div class="col-sm-4">
+			<div class="panel panel-info">
+				<div class="panel-heading">
+					<h3 class="panel-title">3. Semi-Resumen de Estudiantes que deben cursar PERA a la fecha actual</h3>
+				</div>
+				<div class="panel-body">
+					Muestra un resumen con aquellos estudiantes que deben cursar PERA a la fecha actual. Usted puede elegir la carrera que quiere consultar.
+				</div>
+			</div>
+		</div>
+		
+	</div>
+
+	<br>
+	<br>
+	<br>
+	
+	<div class="row">
+		<div class="col-sm-4">
+			<div class="panel panel-warning">
+				<div class="panel-heading">
+					<h3 class="panel-title">4. Semi-Resumen de estudiantes que han solicitado pruebas de aptitud por año</h3>
+				</div>
+				<div class="panel-body">
+					Presenta un listado de aquellos estudiantes que han solicitado cambio de carrera ( es decir prueba de aptitud ), indicando carrera origen y carrera solicitada.
+				</div>
+			</div>
+		</div>
+		<div class="col-sm-4">
+			<div class="panel panel-danger">
+				<div class="panel-heading">
+					<h3 class="panel-title">5. Semi-Resumen de Materias Electivas con menos población según carrera, año y ciclo. </h3>
+				</div>
+				<div class="panel-body">
+					Muestra un listado de aquellas materias que son electivas y que tienen poca poblacion segun carrera año y ciclo escogido.
+				</div>
+			</div>
+		</div>
+
+	</div>
+
 }
