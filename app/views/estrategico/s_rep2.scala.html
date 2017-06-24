@@ -1,0 +1,85 @@
+@(registros: List[ERep2],carrera:String,anio:Integer,ciclo:Integer)
+@import scala.math.BigDecimal
+@import helper._
+
+@css={
+}
+
+@js={
+    <script src="@routes.Assets.versioned("javascripts/export/tableExport.js")" type="text/javascript"></script>
+	<script src="@routes.Assets.versioned("javascripts/export/jquery.base64.js")" type="text/javascript"></script>
+	<script src="@routes.Assets.versioned("javascripts/export/html2canvas.js")" type="text/javascript"></script>
+	<script src="@routes.Assets.versioned("javascripts/export/jspdf/libs/sprintf.js")" type="text/javascript"></script>
+	<script src="@routes.Assets.versioned("javascripts/export/jspdf/jspdf.js")" type="text/javascript"></script>
+	<script src="@routes.Assets.versioned("javascripts/export/jspdf/libs/base64.js")" type="text/javascript"></script>
+}
+
+@breadcrumb = {
+	<ul class="breadcrumb">
+		<li class=""><a href="/estrategico">Estratégico</a></li>
+		<li class="active"><a href="#">Reporte 2</a></li>
+	</ul>
+}
+
+
+@estrategico.base("Reporte 2","Resumen de evaluaciones repetidas por Carrera, año, ciclo y materia.","2",css,js,breadcrumb){
+
+    <br>
+    <br>
+
+    <div class="text-center row">
+        <div class="col-sm-4"></div>
+        <form method="post" action="@routes.EstrategicoController.pdf_rep2()">
+            <input type="text" name="carrera" value="@carrera" hidden="true"/>
+            <input type="text" name="anio" value="@anio" hidden="true" />
+            <input type="text" id="txtDateHasta" name="ciclo" value="@ciclo" hidden="true"/>
+            <button type="submit" class="btn btn-success col-sm-2">Ver en PDF</button>
+        </form>
+         <button type="button" class="btn btn-warning col-sm-2" onclick="$('#reporte-table').tableExport({type:'excel',escape:'false'});">Exportar Excel</button>
+        <div class="col-sm-4"></div>
+    </div>
+
+    <br>
+
+    <div class="text-center row">
+        <img src="@routes.Assets.versioned("images/logo_ues.png")">
+    </div>
+    
+    <div class="text-center row">
+        <p><strong>Carrera:</strong> @carrera</p>
+        <p><strong>Año:</strong> @anio &nbsp;&nbsp;&nbsp; <strong>Ciclo:</strong> @ciclo</p>
+    </div>
+
+    <div class="text-center row">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-8">
+        <table class="table table-condensed table-bordered table-striped" id="reporte-table">
+            <thead>
+            <tr>
+                <th>No</th>
+                <th>Materia</th>
+                <th>Evaluaciones</th>
+                <th>Repetidos</th>
+                <th>% Repetición</th>
+            </tr>
+            </thead>
+            <tbody>
+
+                @for((row, index) <- registros.reverse.zipWithIndex) {
+                    <tr>
+                        <td>@(index+1)</td>
+                        <td>@row.materia</td>
+                        <td>@row.evaluaciones</td>
+                        <td>@row.repetidos</td>
+                        <td>@BigDecimal( row.repetidos.toDouble / row.evaluaciones.toDouble * 100 ).setScale(2, BigDecimal.RoundingMode.HALF_UP)</td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+        </div>
+        <div class="col-sm-2"></div>
+    </div>
+    
+
+}
