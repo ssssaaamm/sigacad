@@ -42,7 +42,7 @@ public class TacticoController extends Controller {
         return ok(welcome.render());
     }
     public Result e_rep1(){
-        return ok(t_rep1.render());
+        return ok(e_rep1.render());
     }
 
     public Result procesar_rep1(){
@@ -54,7 +54,7 @@ public class TacticoController extends Controller {
     }
 
     public Result e_rep2(){
-        return ok(t_rep2.render());
+        return ok(e_rep2.render());
     }
 
     public Result procesar_rep2(){
@@ -90,7 +90,7 @@ public class TacticoController extends Controller {
     }
 
     public Result e_rep3(){
-        return ok(t_rep3.render());
+        return ok(e_rep3.render());
     }
 
     public Result procesar_rep3(){
@@ -102,7 +102,7 @@ public class TacticoController extends Controller {
     }
 
     public Result e_rep4(){
-        return ok(t_rep4.render());
+        return ok(e_rep4.render());
     }
 
     public Result procesar_rep4(){
@@ -114,7 +114,7 @@ public class TacticoController extends Controller {
     }
 
     public Result e_rep5(){
-        return ok(t_rep5.render());
+        return ok(e_rep5.render());
     }
 
     public Result procesar_rep5(){

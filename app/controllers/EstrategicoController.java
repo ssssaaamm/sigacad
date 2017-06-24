@@ -5,6 +5,10 @@ import play.mvc.*;
 import play.data.*;
 import java.util.*;
 import java.io.File;
+import java.text.SimpleDateFormat;
+import org.joda.time.DateTimeComparator;
+import java.lang.Thread;
+import java.lang.Runnable;
 
 import views.html.estrategico.*;
 import models.*;
@@ -66,49 +70,67 @@ public class EstrategicoController extends Controller {
     public Result e_rep3(){
       return ok(e_rep3.render());
     }
-    
-    public Result procesar_rep3(){
-      return ok("procesar reporte 2");
-    }
 
-    public Result pdf_rep3(){
-        return ok("generando pdf");
-    }
  
 
-     /*public Result procesar_rep3(){
+     public Result procesar_rep3(){
 
         //parametros de formulario
         Map<String, String[]> values = request().body().asFormUrlEncoded();
         
-        String carrera = values.get("carrera")[0];        
-        Date desde = Date.values.get("desde")[0];
-        Date hasta = Date.values.get("hasta")[0]);
+        String carrera = values.get("carrera")[0];  
+        List<ERep3> registros =null;
+        Date desde=null;
+        Date hasta = null;
+        try{
+            SimpleDateFormat sdf=new SimpleDateFormat("dd/MM/yyyy");
+            desde = sdf.parse(values.get("desde")[0]);
+            hasta = sdf.parse(values.get("hasta")[0]);      
+            registros = ERep3.find.where().eq("carrera",carrera).ge("fecha",desde).le("fecha",hasta).findList();
+                        
 
-        List<ERep3> registros = ERep3.find.where().eq("carrera",carrera).ge("fecha",desde).le("fecha",hasta).findList();
-        
+            /* if(periodo == null){
+                flash("error","La fecha que ha ingresado no coincide con la fecha de inicio de ningun periodo de planilla, por favor intente nuevamente utilizando el selector de fechas");
+                return badRequest(errores.render());
+            }*/
+
+        }catch(Exception e){
+            flash("error","La fecha que ha ingresado no tiene el formato adecuado, por favor utilice el selector de fechas, en lugar de ingresar fechas manualmente");
+            return badRequest("Formato de fecha invalido");   
+        }         
        
-        return ok(e_rep3.render(registros,carrera,desde,hasta));
+        return ok(s_rep3.render(registros,carrera,desde,hasta));
     }
 
     public Result pdf_rep3(){
+        
         //parametros de formulario
         Map<String, String[]> values = request().body().asFormUrlEncoded();
-        
-        //obtenemos los parametros segun name de cada input
-        String carrera = values.get("carrera")[0];        
-        Date desde = valueOf(values.get());
-         Integer.valueOf(values.get("desde")[0]);
-        Date hasta = Integer.valueOf(values.get("hasta")[0]);
+        // values es segun name = "" de cada input
+        String carrera = values.get("carrera")[0];  
+        List<ERep3> registros =null;
+        Date desde=null;
+        Date hasta = null;
+        try{
+            SimpleDateFormat sdf=new SimpleDateFormat("dd/MM/yyyy");
+            desde = sdf.parse(values.get("desde")[0]);
+            hasta = sdf.parse(values.get("hasta")[0]);      
+            registros = ERep3.find.where().eq("carrera",carrera).ge("fecha",desde).le("fecha",hasta).findList();
+                        
 
-        //hacemos la consulta
-        List<ERep3> registros = ERep3.find.where().eq("carrera",carrera).ge("fecha",desde).le("fecha",hasta).findList();
-        
-        //presentamos la salida
+            /* if(periodo == null){
+                flash("error","La fecha que ha ingresado no coincide con la fecha de inicio de ningun periodo de planilla, por favor intente nuevamente utilizando el selector de fechas");
+                return badRequest(errores.render());
+            }*/
+
+        }catch(Exception e){
+            flash("error","La fecha que ha ingresado no tiene el formato adecuado, por favor utilice el selector de fechas, en lugar de ingresar fechas manualmente");
+            return badRequest("Formato de fecha invalido");   
+        }   
         return pdfGenerator.ok(pdf_rep3.render(registros,carrera,desde,hasta),Configuration.root().getString("application.host"));
     }
 
-*/
+
     public Result e_rep4(){
         return ok(e_rep4.render());
     }
