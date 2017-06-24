@@ -60,11 +60,35 @@ public class EstrategicoController extends Controller {
       return ok(e_rep2.render());
     }
     public Result procesar_rep2(){
-      return ok("procesar reporte 2");
+        //parametros de formulario
+        Map<String, String[]> values = request().body().asFormUrlEncoded();
+        
+        //obtenemos los parametros segun name de cada input
+        String carrera = values.get("carrera")[0];        
+        Integer anio = Integer.valueOf(values.get("anio")[0]);
+        Integer ciclo = Integer.valueOf(values.get("ciclo")[0]);
+
+        //hacemos la consulta
+        List<ERep2> registros = ERep2.find.where().eq("carrera",carrera).eq("ano",anio).eq("ciclo",ciclo).findList();
+        
+        //presentamos la salida
+        return ok(s_rep2.render(registros,carrera,anio,ciclo));
     }
 
     public Result pdf_rep2(){
-        return ok("generando pdf");
+        //parametros de formulario
+        Map<String, String[]> values = request().body().asFormUrlEncoded();
+        
+        //obtenemos los parametros segun name de cada input
+        String carrera = values.get("carrera")[0];        
+        Integer anio = Integer.valueOf(values.get("anio")[0]);
+        Integer ciclo = Integer.valueOf(values.get("ciclo")[0]);
+
+        //hacemos la consulta
+        List<ERep2> registros = ERep2.find.where().eq("carrera",carrera).eq("ano",anio).eq("ciclo",ciclo).findList();
+        
+        //presentamos la salida
+        return pdfGenerator.ok(pdf_rep2.render(registros,carrera,anio,ciclo),Configuration.root().getString("application.host"));
     }
 
     public Result e_rep3(){
