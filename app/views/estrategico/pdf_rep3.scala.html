@@ -1,0 +1,50 @@
+@(registros: List[ERep3],carrera:String,desde:Date,hasta:Date)
+@import helper._
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" media="print" href="public/stylesheets/bootstrap.min.css">
+    </head>
+    
+    <body>
+        <h4 class="text-center">
+            Resumen de cantidad de estudiantes que se retiran de la FIA por carrera y rango de fecha        
+</h4>
+        <div class="text-center row">
+            <img src="public/images/logo_ues.png">
+        </div>
+        
+
+        <div class="text-center row">
+            <p><strong>Desde:</strong> @desde.format("dd/MM/yyyy") &nbsp;&nbsp;&nbsp; <strong>Hasta:</strong> @hasta.format("dd/MM/yyyy")</p>
+        </div>
+
+        <div class="text-center row">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-8">
+            <table class="table table-condensed table-bordered table-striped">
+                <thead>
+                <tr>
+                    <th>N°</th>
+                    <th>Carrera</th>
+                    <th>Retirados</th>
+                </tr>
+                </thead>
+                <tbody>
+
+                    @for((row, index) <- registros.reverse.zipWithIndex) {
+                        <tr>
+                            <td>@(index+1)</td>
+                            <td>@row.carrera</td>
+                            <td>@row.retirados</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            </div>
+            <div class="col-sm-2"></div>
+        </div>
+    </body>
+
+</html>

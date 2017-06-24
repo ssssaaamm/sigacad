@@ -16,7 +16,7 @@
 		    // assuming the controls you want to attach the plugin to
 		    // have the "datepicker" class set
             $('input.datepicker').Zebra_DatePicker({
-                format: 'd-m-Y',
+                format: 'd/m/Y',
             });
 
 		});
@@ -44,12 +44,11 @@
                 <div class="col-sm-6">
 
 
-
                     <div class="form-group">
                         <label for="fdesde" class="col-sm-2 control-label">Fecha Desde</label>
                         <div class="col-sm-10">
                             <div class="colinput-append date" id="dp1" data-date="12-02-2012" data-date-format="dd-mm-yyyy">
-                                <input type="text" id="txtDateDesde" name="fecha_inicio" class="datepicker form-control" data-provide="datepicker" placeholder="Seleccione" />
+                                <input type="text" id="txtDateDesde" name="desde" class="datepicker form-control" data-provide="datepicker" placeholder="Seleccione" />
                             </div>
                         </div>
                     </div>
@@ -57,7 +56,7 @@
                         <label for="fhasta" class="col-sm-2 control-label">Fecha Hasta</label>
                         <div class="col-sm-10">
                             <div class="colinput-append date" id="dp1" data-date="12-02-2012" data-date-format="dd-mm-yyyy">
-                                <input type="text" id="txtDateHasta" name="fecha_final" class="datepicker form-control" data-provide="datepicker" placeholder="Seleccione" />
+                                <input type="text" id="txtDateHasta" name="hasta" class="datepicker form-control" data-provide="datepicker" placeholder="Seleccione" />
                             </div>
                         </div>
                     </div>
@@ -65,12 +64,14 @@
                         <label for="carrera" class="col-sm-2 control-label">Carrera</label>
                         <div class="col-sm-10">
                             <select class="form-control" id="carrera" name="carrera">
-                                <option value="arq">Arquitectura</option>
-                                <option value="civ">Ing. Civil</option>
-                                <option value="ind">Ing. Industrial</option>
-                                <option value="mec">Ing. Mecanica</option>
-                                <option value="qui">Ing. Química</option>
-                                <option value="sis">Ing. Sistemas</option>
+                                <option value="Arquitectura">Arquitectura</option>
+                                <option value="Ing. Civil">Ing. Civil</option>
+                                <option value="Ing. Industrial">Ing. Industrial</option>
+                                <option value="Ing. Mecanica">Ing. Mecanica</option>
+                                <option value="Ing. Química">Ing. Química</option>
+                                <option value="Ing. Electrica">Ing. Electrica</option>
+                                <option value="Ing. Alimentos">Ing. Alimentos</option>
+                                <option value="Ing. Sistemas">Ing. Sistemas</option>
                             </select>
                         </div>
                     </div>
