@@ -46,11 +46,34 @@ public class TacticoController extends Controller {
     }
 
     public Result procesar_rep1(){
-        return ok("procesando reporte 1");
+        //parametros de formulario
+        Map<String, String[]> values = request().body().asFormUrlEncoded();
+        
+        //obtenemos los parametros segun name de cada input
+        String carrera = values.get("carrera")[0];        
+        Integer anio = Integer.valueOf(values.get("anio")[0]);
+       /* Integer maxi = Integer.valueOf(values.get("max")[0]);*/
+
+        //hacemos la consulta
+        List<TRep1> registros = TRep1.find.where().eq("carrera",carrera).eq("ano",anio).findList();
+        
+        //presentamos la salida
+        return ok(s_rep1.render(registros,carrera,anio));
     }
 
     public Result pdf_rep1(){
-        return ok("generando pdf");
+         Map<String, String[]> values = request().body().asFormUrlEncoded();
+        
+        //obtenemos los parametros segun name de cada input
+        String carrera = values.get("carrera")[0];        
+        Integer anio = Integer.valueOf(values.get("anio")[0]);
+       /* Integer ciclo = Integer.valueOf(values.get("ciclo")[0]);*/
+
+        //hacemos la consulta
+        List<TRep1> registros = TRep1.find.where().eq("carrera",carrera).eq("ano",anio).findList();
+        
+        //presentamos la salida
+        return pdfGenerator.ok(pdf_rep1.render(registros,carrera,anio),Configuration.root().getString("application.host"));
     }
 
     public Result e_rep2(){
@@ -106,11 +129,31 @@ public class TacticoController extends Controller {
     }
 
     public Result procesar_rep4(){
-        return ok("procesando reporte 4");
+         Map<String, String[]> values = request().body().asFormUrlEncoded();
+        
+        //obtenemos los parametros segun name de cada input
+          
+        Integer anio = Integer.valueOf(values.get("anio")[0]);
+
+        //hacemos la consulta
+        List<TRep4> registros = TRep4.find.where().eq("ano",anio).findList();
+        
+        //presentamos la salida
+        return ok(s_rep4.render(registros,anio));
     }
 
     public Result pdf_rep4(){
-        return ok("generando pdf");
+        //parametros de formulario
+        Map<String, String[]> values = request().body().asFormUrlEncoded();
+        
+        //obtenemos los parametros segun name de cada input
+        Integer anio = Integer.valueOf(values.get("anio")[0]);
+
+        //hacemos la consulta
+        List<TRep4> registros = TRep4.find.where().eq("ano",anio).findList();
+        
+        //presentamos la salida
+        return pdfGenerator.ok(pdf_rep4.render(registros,anio),Configuration.root().getString("application.host"));
     }
 
     public Result e_rep5(){

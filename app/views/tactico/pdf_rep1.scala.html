@@ -1,0 +1,61 @@
+@(registros: List[TRep1],carrera:String,anio:Integer)
+@import scala.math.BigDecimal
+@import helper._
+
+
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" media="print" href="public/stylesheets/bootstrap.min.css">
+    </head>
+    
+    <body>
+        <h4  class="text-center">
+            Semi-Resumen de Alumnos con rendimiento más bajo por carrera y año.
+        </h4>
+        <div class="text-center row">
+            <img src="public/images/logo_ues.png">
+        </div>
+
+        <div class="text-center row">
+        <p><strong>Carrera:</strong> @carrera</p>
+        <p><strong>Año:</strong> @anio &nbsp;&nbsp;&nbsp; </p>
+    </div>
+
+    <div class="text-center row">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-8">
+        <table class="table table-condensed table-bordered table-striped" id="reporte-table">
+            <thead>
+            <tr>
+                  <th>No</th>
+                <th>Alumno</th>
+                <th>Carne</th>
+                <th>Media de Ciclo</th>
+                <th>Cum</th>
+            </tr>
+            </thead>
+            <tbody>
+                 @for((row, index) <- registros.reverse.zipWithIndex) {
+                    <tr>
+                        <td>@(index+1)</td>
+                        <td>@row.alumno</td>
+                        <td>@row.carne</td>
+                        <td>@row.mediaCiclo</td>
+                        <td>@row.cum</td>
+                        
+                        
+                        <!--se debe convertir a dobule los enteros para que exista precision-->
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+        </div>
+        <div class="col-sm-2"></div>
+    </div>
+
+    </body>
+
+</html>
