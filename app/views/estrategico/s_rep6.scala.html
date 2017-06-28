@@ -1,4 +1,4 @@
-@(registros: List[ERep6],carrera:String,anio:Integer,ciclo:Integer)
+@(registros: List[ERep6],carrera:String,anio:Integer,ciclo:Integer,max:Integer)
 @import scala.math.BigDecimal
 @import helper._
 
@@ -29,10 +29,11 @@
 
     <div class="text-center row">
         <div class="col-sm-4"></div>
-        <form method="post" action="@routes.EstrategicoController.pdf_rep2()">
+        <form method="post" action="@routes.EstrategicoController.pdf_rep6()">
             <input type="text" name="carrera" value="@carrera" hidden="true"/>
             <input type="text" name="anio" value="@anio" hidden="true" />
             <input type="text" id="txtDateHasta" name="ciclo" value="@ciclo" hidden="true"/>
+            <input type="text" id="txtDateHasta" name="max" value="@max" hidden="true"/>
             <button type="submit" class="btn btn-success col-sm-2">Ver en PDF</button>
         </form>
          <button type="button" class="btn btn-warning col-sm-2" onclick="$('#reporte-table').tableExport({type:'excel',escape:'false'});">Exportar Excel</button>
@@ -58,6 +59,9 @@
             <tr>
                 <th>No</th>
                 <th>Materia</th>
+                <th>Carrera</th>
+                <th>Año</th>
+                <th>Ciclo</th>
                 <th>Retiros</th>
             </tr>
             </thead>
@@ -67,6 +71,9 @@
                     <tr>
                         <td>@(index+1)</td>
                         <td>@row.materia</td>
+                        <td>@row.carrera</td>
+                        <td>@row.ano</td>
+                        <td>@row.ciclo</td>
                         <td>@row.retiros</td>
                     </tr>
                 }

@@ -260,10 +260,36 @@ public class EstrategicoController extends Controller {
     }
 
     public Result procesar_rep6(){
-        return ok("procesando reporte 6");
+        //parametros de formulario
+        Map<String, String[]> values = request().body().asFormUrlEncoded();
+
+        //obtenemos los parametros segun name de cada input
+        String carrera = values.get("carrera")[0];        
+        Integer anio = Integer.valueOf(values.get("anio")[0]);
+        Integer ciclo = Integer.valueOf(values.get("ciclo")[0]);
+        Integer max = Integer.valueOf(values.get("max")[0]);
+
+        //hacemos la consulta
+        List<ERep6> registros = ERep6.find.where().eq("carrera",carrera).eq("ano",anio).eq("ciclo",ciclo).setMaxRows(max).findList();
+        
+        //presentamos la salida
+        return ok(s_rep6.render(registros,carrera,anio,ciclo,max));
     }
 
     public Result pdf_rep6(){
-        return ok("generando pdf");
+        //parametros de formulario
+        Map<String, String[]> values = request().body().asFormUrlEncoded();
+
+        //obtenemos los parametros segun name de cada input
+        String carrera = values.get("carrera")[0];        
+        Integer anio = Integer.valueOf(values.get("anio")[0]);
+        Integer ciclo = Integer.valueOf(values.get("ciclo")[0]);
+        Integer max = Integer.valueOf(values.get("max")[0]);
+
+        //hacemos la consulta
+        List<ERep6> registros = ERep6.find.where().eq("carrera",carrera).eq("ano",anio).eq("ciclo",ciclo).setMaxRows(max).findList();
+        
+        //presentamos la salida
+        return pdfGenerator.ok(pdf_rep6.render(registros,carrera,anio,ciclo),Configuration.root().getString("application.host"));
     }
 }

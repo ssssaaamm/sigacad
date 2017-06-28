@@ -14,6 +14,9 @@ public class ERep6 extends Model{
 	@Id
 	public Long id;
 	public String materia;
+	public String carrera;
+	public Integer ano;
+	public Integer ciclo;
 	public Integer retiros;
 
 	public static Finder<Long, ERep6> find = new Finder<Long,ERep6>(ERep6.class);

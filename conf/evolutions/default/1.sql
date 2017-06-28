@@ -53,6 +53,9 @@ create table materiasrepetidas (
 create table materiasretiradas (
   id                            bigserial not null,
   materia                       varchar(255),
+  carrera                       varchar(255),
+  ano                           integer,
+  ciclo                         integer,
   retiros                       integer,
   constraint pk_materiasretiradas primary key (id)
 );

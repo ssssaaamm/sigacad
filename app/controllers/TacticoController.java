@@ -52,13 +52,13 @@ public class TacticoController extends Controller {
         //obtenemos los parametros segun name de cada input
         String carrera = values.get("carrera")[0];        
         Integer anio = Integer.valueOf(values.get("anio")[0]);
-       /* Integer maxi = Integer.valueOf(values.get("max")[0]);*/
+       Integer max = Integer.valueOf(values.get("max")[0]);
 
         //hacemos la consulta
-        List<TRep1> registros = TRep1.find.where().eq("carrera",carrera).eq("ano",anio).findList();
+        List<TRep1> registros = TRep1.find.where().eq("carrera",carrera).eq("ano",anio).setMaxRows(max).findList();
         
         //presentamos la salida
-        return ok(s_rep1.render(registros,carrera,anio));
+        return ok(s_rep1.render(registros,carrera,anio,max));
     }
 
     public Result pdf_rep1(){
@@ -67,10 +67,10 @@ public class TacticoController extends Controller {
         //obtenemos los parametros segun name de cada input
         String carrera = values.get("carrera")[0];        
         Integer anio = Integer.valueOf(values.get("anio")[0]);
-       /* Integer ciclo = Integer.valueOf(values.get("ciclo")[0]);*/
+       Integer max = Integer.valueOf(values.get("max")[0]);
 
         //hacemos la consulta
-        List<TRep1> registros = TRep1.find.where().eq("carrera",carrera).eq("ano",anio).findList();
+        List<TRep1> registros = TRep1.find.where().eq("carrera",carrera).eq("ano",anio).setMaxRows(max).findList();
         
         //presentamos la salida
         return pdfGenerator.ok(pdf_rep1.render(registros,carrera,anio),Configuration.root().getString("application.host"));
