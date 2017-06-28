@@ -1,0 +1,14 @@
+Comando desde el Query Tool de PgAdmin
+
+NOTA: Es importante que la carpeta contenedora de los archivos csv, posea privilegios de lectura para el usuario de postgres o pgadmin.
+
+Copy NombraTabla from 'Direccion\NombreTabla.csv' delimiter ',' csv header;
+
+
+
+/*****************************************************************/
+Ejemplos(Direcciones en windows):
+
+Copy materiasretiradas from 'C:\Users\Juancito\Documents\play\tablas\materiasretiradas.csv' delimiter ',' csv header;
+
+Copy pera from 'C:\Users\Juancito\Documents\play\tablas\pera.csv' delimiter ',' csv header;

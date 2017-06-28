@@ -1,0 +1,1024 @@
+id,ano,carrera,ciclo,materia,poblacion
+1,2015,Ing. Alimentos,1,fisica,10
+2,2015,Ing. Sistemas,2,mate,10
+3,2015,Ing. Civil,1,metodos exp,10
+4,2015,Ing. Quimica,2,mop,10
+5,2015,Ing. Electrica,1,sgi,11
+6,2015,Ing. Mecanica,2,hdp,11
+7,2015,Ing.Mecanica,1,rhu,11
+8,2015,Ing. Industrial,2,mep,11
+9,2015,Ing. Electrica,1,bad,11
+10,2015,Ing. Sistemas,2,tds,11
+11,2015,Ing. Alimentos,1,fisica,11
+12,2015,Ing. Sistemas,2,mate,11
+13,2015,Ing. Civil,1,metodos exp,11
+14,2015,Ing. Alimentos,2,mop,11
+15,2015,Ing. Alimentos,1,sgi,12
+16,2015,Ing. Sistemas,2,hdp,12
+17,2015,Ing. Civil,1,rhu,12
+18,2015,Ing. Quimica,2,mep,12
+19,2015,Ing. Electrica,1,bad,12
+20,2015,Ing. Mecanica,2,tds,12
+21,2015,Ing.Mecanica,1,fisica,12
+22,2015,Ing. Industrial,2,mate,12
+23,2015,Ing. Electrica,1,metodos exp,12
+24,2015,Ing. Sistemas,2,mop,12
+25,2015,Ing. Alimentos,1,sgi,13
+26,2015,Ing. Sistemas,2,fisica,13
+27,2015,Ing. Civil,1,mate,13
+28,2015,Ing. Alimentos,2,metodos exp,13
+29,2015,Ing. Alimentos,1,mop,13
+30,2015,Ing. Sistemas,2,sgi,13
+31,2015,Ing. Civil,1,hdp,13
+32,2015,Ing. Quimica,2,rhu,13
+33,2015,Ing. Electrica,1,mep,13
+34,2015,Ing. Mecanica,2,bad,13
+35,2015,Ing.Mecanica,1,tds,14
+36,2015,Ing. Industrial,2,fisica,14
+37,2015,Ing. Electrica,1,mate,14
+38,2015,Ing. Sistemas,2,metodos exp,14
+39,2015,Ing. Alimentos,1,mop,14
+40,2015,Ing. Sistemas,2,sgi,14
+41,2015,Ing. Civil,1,hdp,14
+42,2015,Ing. Alimentos,2,rhu,14
+43,2015,Ing. Alimentos,1,mep,14
+44,2015,Ing. Sistemas,2,bad,14
+45,2015,Ing. Civil,1,tds,15
+46,2015,Ing. Quimica,2,fisica,15
+47,2015,Ing. Electrica,1,mate,15
+48,2015,Ing. Mecanica,2,metodos exp,15
+49,2015,Ing.Mecanica,1,mop,15
+50,2015,Ing. Industrial,2,sgi,15
+51,2015,Ing. Electrica,1,fisica,15
+52,2015,Ing. Sistemas,2,mate,15
+53,2015,Ing. Alimentos,1,metodos exp,15
+54,2015,Ing. Sistemas,2,mop,15
+55,2015,Ing. Civil,1,sgi,16
+56,2015,Ing. Alimentos,2,hdp,16
+57,2015,Ing. Alimentos,1,rhu,16
+58,2015,Ing. Sistemas,2,mep,16
+59,2015,Ing. Civil,1,bad,16
+60,2015,Ing. Quimica,2,tds,16
+61,2015,Ing. Electrica,1,fisica,16
+62,2015,Ing. Mecanica,2,mate,16
+63,2015,Ing.Mecanica,1,metodos exp,16
+64,2015,Ing. Industrial,2,mop,16
+65,2015,Ing. Electrica,1,sgi,17
+66,2015,Ing. Sistemas,2,hdp,17
+67,2015,Ing. Alimentos,1,rhu,17
+68,2015,Ing. Sistemas,1,mep,17
+69,2015,Ing. Civil,2,bad,17
+70,2015,Ing. Alimentos,1,tds,17
+71,2015,Ing. Alimentos,2,fisica,17
+72,2015,Ing. Sistemas,1,mate,17
+73,2015,Ing. Civil,2,metodos exp,17
+74,2015,Ing. Quimica,1,mop,17
+75,2015,Ing. Electrica,2,sgi,18
+76,2015,Ing. Mecanica,1,fisica,18
+77,2015,Ing.Mecanica,2,mate,18
+78,2015,Ing. Industrial,1,metodos exp,18
+79,2015,Ing. Electrica,2,mop,18
+80,2015,Ing. Sistemas,1,sgi,18
+81,2015,Ing. Alimentos,2,hdp,18
+82,2015,Ing. Sistemas,1,rhu,18
+83,2015,Ing. Civil,2,mep,18
+84,2015,Ing. Alimentos,1,bad,18
+85,2015,Ing. Alimentos,2,tds,19
+86,2015,Ing. Sistemas,1,fisica,19
+87,2015,Ing. Civil,2,mate,19
+88,2015,Ing. Quimica,1,metodos exp,19
+89,2015,Ing. Electrica,2,mop,19
+90,2015,Ing. Mecanica,1,sgi,19
+91,2015,Ing.Mecanica,2,hdp,19
+92,2015,Ing. Industrial,1,rhu,19
+93,2015,Ing. Electrica,2,mep,19
+94,2015,Ing. Sistemas,1,bad,19
+95,2015,Ing. Alimentos,2,tds,20
+96,2015,Ing. Sistemas,1,fisica,20
+97,2015,Ing. Civil,2,mate,20
+98,2015,Ing. Alimentos,1,metodos exp,20
+99,2015,Ing. Alimentos,2,mop,20
+100,2015,Ing. Sistemas,1,sgi,20
+101,2015,Ing. Civil,2,fisica,20
+102,2015,Ing. Quimica,1,mate,20
+103,2015,Ing. Electrica,2,metodos exp,20
+104,2015,Ing. Mecanica,1,mop,20
+105,2015,Ing.Mecanica,2,sgi,21
+106,2015,Ing. Industrial,1,hdp,21
+107,2015,Ing. Electrica,2,rhu,21
+108,2015,Ing. Sistemas,1,mep,21
+109,2015,Ing. Alimentos,2,bad,21
+110,2015,Ing. Sistemas,1,tds,21
+111,2015,Ing. Civil,2,fisica,21
+112,2015,Ing. Alimentos,1,mate,21
+113,2015,Ing. Alimentos,2,metodos exp,21
+114,2015,Ing. Sistemas,1,mop,21
+115,2015,Ing. Civil,2,sgi,22
+116,2015,Ing. Quimica,1,hdp,22
+117,2015,Ing. Electrica,2,rhu,22
+118,2015,Ing. Mecanica,1,mep,22
+119,2015,Ing.Mecanica,2,bad,22
+120,2015,Ing. Industrial,1,tds,22
+121,2015,Ing. Electrica,2,fisica,22
+122,2015,Ing. Sistemas,1,mate,22
+123,2015,Ing. Alimentos,2,metodos exp,22
+124,2015,Ing. Sistemas,1,mop,22
+125,2015,Ing. Civil,2,sgi,23
+126,2015,Ing. Alimentos,1,fisica,23
+127,2015,Ing. Alimentos,2,mate,23
+128,2015,Ing. Sistemas,1,metodos exp,23
+129,2015,Ing. Civil,2,mop,23
+130,2015,Ing. Quimica,1,sgi,23
+131,2015,Ing. Electrica,2,hdp,23
+132,2015,Ing. Mecanica,1,rhu,23
+133,2015,Ing.Mecanica,2,mep,23
+134,2015,Ing. Industrial,1,bad,23
+135,2015,Ing. Electrica,2,tds,24
+136,2015,Ing. Sistemas,1,fisica,24
+137,2015,Ing. Alimentos,2,mate,24
+138,2015,Ing. Sistemas,1,metodos exp,24
+139,2015,Ing. Civil,2,mop,24
+140,2015,Ing. Alimentos,1,sgi,24
+141,2015,Ing. Alimentos,2,hdp,24
+142,2015,Ing. Sistemas,1,rhu,24
+143,2015,Ing. Civil,2,mep,24
+144,2015,Ing. Quimica,1,bad,24
+145,2015,Ing. Electrica,2,tds,24
+146,2015,Ing. Mecanica,1,fisica,25
+147,2015,Ing.Mecanica,2,mate,25
+148,2015,Ing. Industrial,1,metodos exp,25
+149,2015,Ing. Electrica,2,mop,25
+150,2015,Ing. Sistemas,1,sgi,25
+151,2015,Ing. Alimentos,2,fisica,25
+152,2015,Ing. Sistemas,1,mate,25
+153,2015,Ing. Civil,2,metodos exp,25
+154,2015,Ing. Alimentos,1,mop,25
+155,2015,Ing. Alimentos,2,sgi,25
+156,2015,Ing. Sistemas,1,hdp,26
+157,2015,Ing. Civil,2,rhu,26
+158,2015,Ing. Quimica,1,mep,26
+159,2015,Ing. Electrica,2,bad,26
+160,2015,Ing. Mecanica,1,tds,26
+161,2015,Ing.Mecanica,2,fisica,26
+162,2015,Ing. Industrial,1,mate,26
+163,2015,Ing. Electrica,2,metodos exp,26
+164,2015,Ing. Sistemas,1,mop,26
+165,2015,Ing. Alimentos,2,sgi,26
+166,2015,Ing. Sistemas,1,hdp,27
+167,2015,Ing. Civil,2,rhu,27
+168,2015,Ing. Alimentos,1,mep,27
+169,2015,Ing. Alimentos,2,bad,27
+170,2015,Ing. Sistemas,1,tds,27
+171,2015,Ing. Civil,2,fisica,27
+172,2015,Ing. Quimica,1,mate,27
+173,2015,Ing. Electrica,2,metodos exp,27
+174,2015,Ing. Mecanica,1,mop,27
+175,2015,Ing.Mecanica,1,sgi,27
+176,2015,Ing. Industrial,2,fisica,28
+177,2015,Ing. Electrica,1,mate,28
+178,2015,Ing. Sistemas,2,metodos exp,28
+179,2015,Ing. Alimentos,1,mop,28
+180,2015,Ing. Sistemas,2,sgi,28
+181,2015,Ing. Civil,1,hdp,28
+182,2015,Ing. Alimentos,2,rhu,28
+183,2015,Ing. Alimentos,1,mep,28
+184,2015,Ing. Sistemas,2,bad,28
+185,2015,Ing. Civil,1,tds,28
+186,2015,Ing. Quimica,2,fisica,29
+187,2015,Ing. Electrica,1,mate,29
+188,2015,Ing. Mecanica,2,metodos exp,29
+189,2015,Ing.Mecanica,1,mop,29
+190,2015,Ing. Industrial,2,sgi,29
+191,2015,Ing. Electrica,1,hdp,29
+192,2015,Ing. Sistemas,2,rhu,29
+193,2015,Ing. Alimentos,1,mep,29
+194,2015,Ing. Sistemas,2,bad,29
+195,2015,Ing. Civil,1,tds,29
+196,2015,Ing. Alimentos,2,fisica,30
+197,2015,Ing. Alimentos,1,mate,30
+198,2015,Ing. Sistemas,2,metodos exp,30
+199,2015,Ing. Civil,1,mop,30
+200,2015,Ing. Quimica,2,sgi,30
+201,2015,Ing. Electrica,1,fisica,30
+202,2015,Ing. Mecanica,2,mate,30
+203,2015,Ing.Mecanica,1,metodos exp,30
+204,2015,Ing. Industrial,2,mop,30
+205,2015,Ing. Electrica,1,sgi,30
+206,2015,Ing. Sistemas,2,hdp,31
+207,2015,Ing. Alimentos,1,rhu,31
+208,2015,Ing. Sistemas,2,mep,31
+209,2015,Ing. Civil,1,bad,31
+210,2015,Ing. Alimentos,2,tds,31
+211,2015,Ing. Alimentos,1,fisica,31
+212,2015,Ing. Sistemas,2,mate,31
+213,2015,Ing. Civil,1,metodos exp,31
+214,2015,Ing. Quimica,2,mop,31
+215,2015,Ing. Electrica,1,sgi,31
+216,2015,Ing. Mecanica,2,hdp,32
+217,2015,Ing.Mecanica,1,rhu,32
+218,2015,Ing. Industrial,2,mep,32
+219,2015,Ing. Electrica,1,bad,32
+220,2015,Ing. Sistemas,2,tds,32
+221,2015,Ing. Alimentos,1,fisica,32
+222,2015,Ing. Sistemas,2,mate,32
+223,2015,Ing. Civil,1,metodos exp,32
+224,2015,Ing. Alimentos,2,mop,32
+225,2015,Ing. Alimentos,1,sgi,32
+226,2015,Ing. Sistemas,2,fisica,33
+227,2015,Ing. Civil,1,mate,33
+228,2015,Ing. Quimica,2,metodos exp,33
+229,2015,Ing. Electrica,1,mop,33
+230,2015,Ing. Mecanica,2,sgi,33
+231,2015,Ing.Mecanica,1,hdp,33
+232,2015,Ing. Industrial,2,rhu,33
+233,2015,Ing. Electrica,1,mep,33
+234,2015,Ing. Sistemas,2,bad,33
+235,2015,Ing. Alimentos,1,tds,33
+236,2015,Ing. Sistemas,2,fisica,34
+237,2015,Ing. Civil,1,mate,34
+238,2015,Ing. Alimentos,2,metodos exp,34
+239,2015,Ing. Alimentos,1,mop,34
+240,2015,Ing. Sistemas,2,sgi,34
+241,2015,Ing. Civil,1,hdp,34
+242,2015,Ing. Quimica,2,rhu,34
+243,2015,Ing. Electrica,1,mep,34
+244,2015,Ing. Mecanica,2,bad,34
+245,2015,Ing.Mecanica,1,tds,34
+246,2015,Ing. Industrial,2,fisica,35
+247,2015,Ing. Electrica,1,mate,35
+248,2015,Ing. Sistemas,2,metodos exp,35
+249,2015,Ing. Alimentos,1,mop,35
+250,2015,Ing. Sistemas,2,sgi,35
+251,2015,Ing. Civil,1,fisica,35
+252,2015,Ing. Alimentos,2,mate,35
+253,2015,Ing. Alimentos,1,metodos exp,35
+254,2015,Ing. Sistemas,2,mop,35
+255,2015,Ing. Civil,1,sgi,35
+256,2015,Ing. Quimica,2,hdp,36
+257,2015,Ing. Electrica,1,rhu,36
+258,2015,Ing. Mecanica,2,mep,36
+259,2015,Ing.Mecanica,1,bad,36
+260,2015,Ing. Industrial,2,tds,36
+261,2015,Ing. Electrica,1,fisica,36
+262,2015,Ing. Sistemas,2,mate,36
+263,2016,Ing. Alimentos,1,metodos exp,36
+264,2016,Ing. Sistemas,2,mop,36
+265,2016,Ing. Civil,1,sgi,36
+266,2016,Ing. Alimentos,2,hdp,37
+267,2016,Ing. Alimentos,1,rhu,37
+268,2016,Ing. Sistemas,2,mep,37
+269,2016,Ing. Civil,1,bad,37
+270,2016,Ing. Quimica,2,tds,37
+271,2016,Ing. Electrica,1,fisica,37
+272,2016,Ing. Mecanica,2,mate,37
+273,2016,Ing.Mecanica,1,metodos exp,37
+274,2016,Ing. Industrial,2,mop,37
+275,2016,Ing. Electrica,1,sgi,37
+276,2016,Ing. Sistemas,2,fisica,38
+277,2016,Ing. Alimentos,1,mate,38
+278,2016,Ing. Sistemas,2,metodos exp,38
+279,2016,Ing. Civil,1,mop,38
+280,2016,Ing. Alimentos,2,sgi,38
+281,2016,Ing. Alimentos,1,hdp,38
+282,2016,Ing. Sistemas,1,rhu,38
+283,2016,Ing. Civil,2,mep,38
+284,2016,Ing. Quimica,1,bad,38
+285,2016,Ing. Electrica,2,tds,38
+286,2016,Ing. Mecanica,1,fisica,39
+287,2016,Ing.Mecanica,2,mate,39
+288,2016,Ing. Industrial,1,metodos exp,39
+289,2016,Ing. Electrica,2,mop,39
+290,2016,Ing. Sistemas,1,sgi,39
+291,2016,Ing. Alimentos,2,hdp,39
+292,2016,Ing. Sistemas,1,rhu,39
+293,2016,Ing. Civil,2,mep,39
+294,2016,Ing. Alimentos,1,bad,39
+295,2016,Ing. Alimentos,2,tds,39
+296,2016,Ing. Sistemas,1,fisica,40
+297,2016,Ing. Civil,2,mate,40
+298,2016,Ing. Quimica,1,metodos exp,40
+299,2016,Ing. Electrica,2,mop,40
+300,2016,Ing. Mecanica,1,sgi,40
+301,2016,Ing.Mecanica,2,fisica,40
+302,2016,Ing. Industrial,1,mate,40
+303,2016,Ing. Electrica,2,metodos exp,40
+304,2016,Ing. Sistemas,1,mop,40
+305,2016,Ing. Alimentos,2,sgi,40
+306,2016,Ing. Sistemas,1,hdp,41
+307,2016,Ing. Civil,2,rhu,41
+308,2016,Ing. Alimentos,1,mep,41
+309,2016,Ing. Alimentos,2,bad,41
+310,2016,Ing. Sistemas,1,tds,41
+311,2016,Ing. Civil,2,fisica,41
+312,2016,Ing. Quimica,1,mate,41
+313,2016,Ing. Electrica,2,metodos exp,41
+314,2016,Ing. Mecanica,1,mop,41
+315,2016,Ing.Mecanica,2,sgi,41
+316,2016,Ing. Industrial,1,hdp,42
+317,2016,Ing. Electrica,2,rhu,42
+318,2016,Ing. Sistemas,1,mep,42
+319,2016,Ing. Alimentos,2,bad,42
+320,2016,Ing. Sistemas,1,tds,42
+321,2016,Ing. Civil,2,fisica,42
+322,2016,Ing. Alimentos,1,mate,42
+323,2016,Ing. Alimentos,2,metodos exp,42
+324,2016,Ing. Sistemas,1,mop,42
+325,2016,Ing. Civil,2,sgi,42
+326,2016,Ing. Quimica,1,fisica,43
+327,2016,Ing. Electrica,2,mate,43
+328,2016,Ing. Mecanica,1,metodos exp,43
+329,2016,Ing.Mecanica,2,mop,43
+330,2016,Ing. Industrial,1,sgi,43
+331,2016,Ing. Electrica,2,hdp,43
+332,2016,Ing. Sistemas,1,rhu,43
+333,2016,Ing. Alimentos,2,mep,43
+334,2016,Ing. Sistemas,1,bad,43
+335,2016,Ing. Civil,2,tds,43
+336,2016,Ing. Alimentos,1,fisica,44
+337,2016,Ing. Alimentos,2,mate,44
+338,2016,Ing. Sistemas,1,metodos exp,44
+339,2016,Ing. Civil,2,mop,44
+340,2016,Ing. Quimica,1,sgi,44
+341,2016,Ing. Electrica,2,hdp,44
+342,2016,Ing. Mecanica,1,rhu,44
+343,2016,Ing.Mecanica,2,mep,44
+344,2016,Ing. Industrial,1,bad,44
+345,2016,Ing. Electrica,2,tds,44
+346,2016,Ing. Sistemas,1,fisica,45
+347,2016,Ing. Alimentos,2,mate,45
+348,2016,Ing. Sistemas,1,metodos exp,45
+349,2016,Ing. Civil,2,mop,45
+350,2016,Ing. Alimentos,1,sgi,45
+351,2016,Ing. Alimentos,2,fisica,45
+352,2016,Ing. Sistemas,1,mate,45
+353,2016,Ing. Civil,2,metodos exp,45
+354,2016,Ing. Quimica,1,mop,45
+355,2016,Ing. Electrica,2,sgi,45
+356,2016,Ing. Mecanica,1,hdp,46
+357,2016,Ing.Mecanica,2,rhu,46
+358,2016,Ing. Industrial,1,mep,46
+359,2016,Ing. Electrica,2,bad,46
+360,2016,Ing. Sistemas,1,tds,46
+361,2016,Ing. Alimentos,2,fisica,46
+362,2016,Ing. Sistemas,1,mate,46
+363,2016,Ing. Civil,2,metodos exp,46
+364,2016,Ing. Alimentos,1,mop,46
+365,2016,Ing. Alimentos,2,sgi,46
+366,2016,Ing. Sistemas,1,hdp,47
+367,2016,Ing. Civil,2,rhu,47
+368,2016,Ing. Quimica,1,mep,47
+369,2016,Ing. Electrica,2,bad,47
+370,2016,Ing. Mecanica,1,tds,47
+371,2016,Ing.Mecanica,2,fisica,47
+372,2016,Ing. Industrial,1,mate,47
+373,2016,Ing. Electrica,2,metodos exp,47
+374,2016,Ing. Sistemas,1,mop,47
+375,2016,Ing. Alimentos,2,sgi,47
+376,2016,Ing. Sistemas,1,fisica,48
+377,2016,Ing. Civil,2,mate,48
+378,2016,Ing. Alimentos,1,metodos exp,48
+379,2016,Ing. Alimentos,2,mop,48
+380,2016,Ing. Sistemas,1,sgi,48
+381,2016,Ing. Civil,2,hdp,48
+382,2016,Ing. Quimica,1,rhu,48
+383,2016,Ing. Electrica,2,mep,48
+384,2016,Ing. Mecanica,1,bad,48
+385,2016,Ing.Mecanica,2,tds,48
+386,2016,Ing. Industrial,1,fisica,49
+387,2016,Ing. Electrica,2,mate,49
+388,2016,Ing. Sistemas,1,metodos exp,49
+389,2016,Ing. Alimentos,1,mop,49
+390,2016,Ing. Sistemas,2,sgi,49
+391,2016,Ing. Civil,1,hdp,49
+392,2016,Ing. Alimentos,2,rhu,49
+393,2016,Ing. Alimentos,1,mep,49
+394,2016,Ing. Sistemas,2,bad,49
+395,2016,Ing. Civil,1,tds,49
+396,2016,Ing. Quimica,2,fisica,50
+397,2016,Ing. Electrica,1,mate,50
+398,2016,Ing. Mecanica,2,metodos exp,50
+399,2016,Ing.Mecanica,1,mop,50
+400,2016,Ing. Industrial,2,sgi,50
+401,2016,Ing. Electrica,1,fisica,50
+402,2016,Ing. Sistemas,2,mate,50
+403,2016,Ing. Alimentos,1,metodos exp,50
+404,2016,Ing. Sistemas,2,mop,50
+405,2016,Ing. Civil,1,sgi,50
+406,2016,Ing. Alimentos,2,hdp,51
+407,2016,Ing. Alimentos,1,rhu,51
+408,2016,Ing. Sistemas,2,mep,51
+409,2016,Ing. Civil,1,bad,51
+410,2016,Ing. Quimica,2,tds,51
+411,2016,Ing. Electrica,1,fisica,51
+412,2016,Ing. Mecanica,2,mate,51
+413,2016,Ing.Mecanica,1,metodos exp,51
+414,2016,Ing. Industrial,2,mop,51
+415,2016,Ing. Electrica,1,sgi,51
+416,2016,Ing. Sistemas,2,hdp,52
+417,2016,Ing. Alimentos,1,rhu,52
+418,2016,Ing. Sistemas,2,mep,52
+419,2016,Ing. Civil,1,bad,52
+420,2016,Ing. Alimentos,2,tds,52
+421,2016,Ing. Alimentos,1,fisica,52
+422,2016,Ing. Sistemas,2,mate,52
+423,2016,Ing. Civil,1,metodos exp,52
+424,2016,Ing. Quimica,2,mop,52
+425,2016,Ing. Electrica,1,sgi,52
+426,2016,Ing. Mecanica,2,fisica,53
+427,2016,Ing.Mecanica,1,mate,53
+428,2016,Ing. Industrial,2,metodos exp,53
+429,2016,Ing. Electrica,1,mop,53
+430,2016,Ing. Sistemas,2,sgi,53
+431,2016,Ing. Alimentos,1,hdp,53
+432,2016,Ing. Sistemas,2,rhu,53
+433,2016,Ing. Civil,1,mep,53
+434,2016,Ing. Alimentos,2,bad,53
+435,2016,Ing. Alimentos,1,tds,53
+436,2016,Ing. Sistemas,2,fisica,54
+437,2016,Ing. Civil,1,mate,54
+438,2016,Ing. Quimica,2,metodos exp,54
+439,2016,Ing. Electrica,1,mop,54
+440,2016,Ing. Mecanica,2,sgi,54
+441,2016,Ing.Mecanica,1,hdp,54
+442,2016,Ing. Industrial,2,rhu,54
+443,2016,Ing. Electrica,1,mep,54
+444,2016,Ing. Sistemas,2,bad,54
+445,2016,Ing. Alimentos,1,tds,54
+446,2016,Ing. Sistemas,2,fisica,55
+447,2016,Ing. Civil,1,mate,55
+448,2016,Ing. Alimentos,2,metodos exp,55
+449,2016,Ing. Alimentos,1,mop,55
+450,2016,Ing. Sistemas,2,sgi,55
+451,2016,Ing. Civil,1,fisica,55
+452,2016,Ing. Quimica,2,mate,55
+453,2016,Ing. Electrica,1,metodos exp,55
+454,2016,Ing. Mecanica,2,mop,55
+455,2016,Ing.Mecanica,1,sgi,55
+456,2016,Ing. Industrial,2,hdp,56
+457,2016,Ing. Electrica,1,rhu,56
+458,2016,Ing. Sistemas,2,mep,56
+459,2016,Ing. Alimentos,1,bad,56
+460,2016,Ing. Sistemas,2,tds,56
+461,2016,Ing. Civil,1,fisica,56
+462,2016,Ing. Alimentos,2,mate,56
+463,2016,Ing. Alimentos,1,metodos exp,56
+464,2016,Ing. Sistemas,2,mop,56
+465,2016,Ing. Civil,1,sgi,56
+466,2016,Ing. Quimica,2,hdp,57
+467,2016,Ing. Electrica,1,rhu,57
+468,2016,Ing. Mecanica,2,mep,57
+469,2016,Ing.Mecanica,1,bad,57
+470,2016,Ing. Industrial,2,tds,57
+471,2016,Ing. Electrica,1,fisica,57
+472,2016,Ing. Sistemas,2,mate,57
+473,2016,Ing. Alimentos,1,metodos exp,57
+474,2016,Ing. Sistemas,2,mop,57
+475,2016,Ing. Civil,1,sgi,57
+476,2016,Ing. Alimentos,2,fisica,58
+477,2016,Ing. Alimentos,1,mate,58
+478,2016,Ing. Sistemas,2,metodos exp,58
+479,2016,Ing. Civil,1,mop,58
+480,2016,Ing. Quimica,2,sgi,58
+481,2016,Ing. Electrica,1,hdp,58
+482,2016,Ing. Mecanica,2,rhu,58
+483,2016,Ing.Mecanica,1,mep,58
+484,2016,Ing. Industrial,2,bad,58
+485,2016,Ing. Electrica,1,tds,58
+486,2016,Ing. Sistemas,2,fisica,59
+487,2016,Ing. Alimentos,1,mate,59
+488,2016,Ing. Sistemas,2,metodos exp,59
+489,2016,Ing. Civil,1,mop,59
+490,2016,Ing. Alimentos,2,sgi,59
+491,2016,Ing. Alimentos,1,hdp,59
+492,2016,Ing. Sistemas,2,rhu,59
+493,2016,Ing. Civil,1,mep,59
+494,2016,Ing. Quimica,2,bad,59
+495,2016,Ing. Electrica,1,tds,59
+496,2016,Ing. Mecanica,1,fisica,60
+497,2016,Ing.Mecanica,2,mate,60
+498,2016,Ing. Industrial,1,metodos exp,60
+499,2016,Ing. Electrica,2,mop,60
+500,2016,Ing. Sistemas,1,sgi,60
+501,2016,Ing. Alimentos,2,fisica,60
+502,2016,Ing. Sistemas,1,mate,60
+503,2016,Ing. Civil,2,metodos exp,60
+504,2016,Ing. Alimentos,1,mop,60
+505,2016,Ing. Alimentos,2,sgi,60
+506,2016,Ing. Sistemas,1,hdp,61
+507,2016,Ing. Civil,2,rhu,61
+508,2016,Ing. Quimica,1,mep,61
+509,2016,Ing. Electrica,2,bad,61
+510,2016,Ing. Mecanica,1,tds,61
+511,2016,Ing.Mecanica,2,fisica,61
+512,2016,Ing. Industrial,1,mate,61
+513,2016,Ing. Electrica,2,metodos exp,61
+514,2016,Ing. Sistemas,1,mop,61
+515,2016,Ing. Alimentos,2,sgi,61
+516,2016,Ing. Sistemas,1,hdp,62
+517,2016,Ing. Civil,2,rhu,62
+518,2016,Ing. Alimentos,1,mep,62
+519,2016,Ing. Alimentos,2,bad,62
+520,2016,Ing. Sistemas,1,tds,62
+521,2016,Ing. Civil,2,fisica,62
+522,2016,Ing. Quimica,1,mate,62
+523,2016,Ing. Electrica,2,metodos exp,62
+524,2016,Ing. Mecanica,1,mop,62
+525,2016,Ing.Mecanica,2,sgi,62
+526,2016,Ing. Industrial,1,fisica,63
+527,2016,Ing. Electrica,2,mate,63
+528,2016,Ing. Sistemas,1,metodos exp,63
+529,2016,Ing. Alimentos,2,mop,63
+530,2016,Ing. Sistemas,1,sgi,63
+531,2016,Ing. Civil,2,hdp,63
+532,2016,Ing. Alimentos,1,rhu,63
+533,2016,Ing. Alimentos,2,mep,63
+534,2016,Ing. Sistemas,1,bad,63
+535,2016,Ing. Civil,2,tds,63
+536,2016,Ing. Quimica,1,fisica,64
+537,2016,Ing. Electrica,2,mate,64
+538,2016,Ing. Mecanica,1,metodos exp,64
+539,2016,Ing.Mecanica,2,mop,64
+540,2016,Ing. Industrial,1,sgi,64
+541,2016,Ing. Electrica,2,hdp,64
+542,2016,Ing. Sistemas,1,rhu,64
+543,2016,Ing. Alimentos,2,mep,64
+544,2016,Ing. Sistemas,1,bad,64
+545,2016,Ing. Civil,2,tds,64
+546,2016,Ing. Alimentos,1,fisica,65
+547,2016,Ing. Alimentos,2,mate,65
+548,2016,Ing. Sistemas,1,metodos exp,65
+549,2016,Ing. Civil,2,mop,65
+550,2016,Ing. Quimica,1,sgi,65
+551,2016,Ing. Electrica,2,fisica,65
+552,2016,Ing. Mecanica,1,mate,65
+553,2016,Ing.Mecanica,2,metodos exp,65
+554,2016,Ing. Industrial,1,mop,65
+555,2016,Ing. Electrica,2,sgi,65
+556,2016,Ing. Sistemas,1,hdp,66
+557,2016,Ing. Alimentos,2,rhu,66
+558,2016,Ing. Sistemas,1,mep,66
+559,2016,Ing. Civil,2,bad,66
+560,2016,Ing. Alimentos,1,tds,66
+561,2016,Ing. Alimentos,2,fisica,66
+562,2016,Ing. Sistemas,1,mate,66
+563,2016,Ing. Civil,2,metodos exp,66
+564,2016,Ing. Quimica,1,mop,66
+565,2016,Ing. Electrica,2,sgi,66
+566,2016,Ing. Mecanica,1,hdp,67
+567,2016,Ing.Mecanica,2,rhu,67
+568,2016,Ing. Industrial,1,mep,67
+569,2016,Ing. Electrica,2,bad,67
+570,2016,Ing. Sistemas,1,tds,67
+571,2016,Ing. Alimentos,2,fisica,67
+572,2016,Ing. Sistemas,1,mate,67
+573,2016,Ing. Civil,2,metodos exp,67
+574,2016,Ing. Alimentos,1,mop,67
+575,2016,Ing. Alimentos,2,sgi,67
+576,2016,Ing. Sistemas,1,fisica,68
+577,2016,Ing. Civil,2,mate,68
+578,2016,Ing. Quimica,1,metodos exp,68
+579,2016,Ing. Electrica,2,mop,68
+580,2016,Ing. Mecanica,1,sgi,68
+581,2016,Ing.Mecanica,2,hdp,68
+582,2016,Ing. Industrial,1,rhu,68
+583,2016,Ing. Electrica,2,mep,68
+584,2016,Ing. Sistemas,1,bad,68
+585,2016,Ing. Alimentos,2,tds,68
+586,2016,Ing. Sistemas,1,fisica,69
+587,2016,Ing. Civil,2,mate,69
+588,2016,Ing. Alimentos,1,metodos exp,69
+589,2016,Ing. Alimentos,2,mop,69
+590,2016,Ing. Sistemas,1,sgi,69
+591,2016,Ing. Civil,2,hdp,69
+592,2016,Ing. Quimica,1,rhu,69
+593,2016,Ing. Electrica,2,mep,69
+594,2016,Ing. Mecanica,1,bad,69
+595,2016,Ing.Mecanica,2,tds,69
+596,2016,Ing. Industrial,1,fisica,70
+597,2016,Ing. Electrica,2,mate,70
+598,2016,Ing. Sistemas,1,metodos exp,70
+599,2016,Ing. Alimentos,2,mop,70
+600,2016,Ing. Sistemas,1,sgi,70
+601,2016,Ing. Civil,2,fisica,70
+602,2016,Ing. Alimentos,1,mate,70
+603,2016,Ing. Alimentos,1,metodos exp,70
+604,2016,Ing. Sistemas,2,mop,70
+605,2016,Ing. Civil,1,sgi,70
+606,2016,Ing. Quimica,2,hdp,71
+607,2016,Ing. Electrica,1,rhu,71
+608,2016,Ing. Mecanica,2,mep,71
+609,2016,Ing.Mecanica,1,bad,71
+610,2016,Ing. Industrial,2,tds,71
+611,2016,Ing. Electrica,1,fisica,71
+612,2016,Ing. Sistemas,2,mate,71
+613,2016,Ing. Alimentos,1,metodos exp,71
+614,2016,Ing. Sistemas,2,mop,71
+615,2016,Ing. Civil,1,sgi,71
+616,2016,Ing. Alimentos,2,hdp,72
+617,2016,Ing. Alimentos,1,rhu,72
+618,2016,Ing. Sistemas,2,mep,72
+619,2016,Ing. Civil,1,bad,72
+620,2016,Ing. Quimica,2,tds,72
+621,2016,Ing. Electrica,1,fisica,72
+622,2016,Ing. Mecanica,2,mate,72
+623,2016,Ing.Mecanica,1,metodos exp,72
+624,2016,Ing. Industrial,2,mop,72
+625,2016,Ing. Electrica,1,sgi,72
+626,2016,Ing. Sistemas,2,fisica,73
+627,2016,Ing. Alimentos,1,mate,73
+628,2016,Ing. Sistemas,2,metodos exp,73
+629,2016,Ing. Civil,1,mop,73
+630,2016,Ing. Alimentos,2,sgi,73
+631,2016,Ing. Alimentos,1,hdp,73
+632,2016,Ing. Sistemas,2,rhu,73
+633,2016,Ing. Civil,1,mep,73
+634,2016,Ing. Quimica,2,bad,73
+635,2016,Ing. Electrica,1,tds,73
+636,2016,Ing. Mecanica,2,fisica,74
+637,2016,Ing.Mecanica,1,mate,74
+638,2016,Ing. Industrial,2,metodos exp,74
+639,2016,Ing. Electrica,1,mop,74
+640,2016,Ing. Sistemas,2,sgi,74
+641,2016,Ing. Alimentos,1,hdp,74
+642,2016,Ing. Sistemas,2,rhu,74
+643,2016,Ing. Civil,1,mep,74
+644,2016,Ing. Alimentos,2,bad,74
+645,2016,Ing. Alimentos,1,tds,74
+646,2016,Ing. Sistemas,2,fisica,75
+647,2016,Ing. Civil,1,mate,75
+648,2016,Ing. Quimica,2,metodos exp,75
+649,2016,Ing. Electrica,1,mop,75
+650,2016,Ing. Mecanica,2,sgi,75
+651,2016,Ing.Mecanica,1,fisica,75
+652,2016,Ing. Industrial,2,mate,75
+653,2016,Ing. Electrica,1,metodos exp,75
+654,2016,Ing. Sistemas,2,mop,75
+655,2016,Ing. Alimentos,1,sgi,75
+656,2016,Ing. Sistemas,2,hdp,76
+657,2016,Ing. Civil,1,rhu,76
+658,2016,Ing. Alimentos,2,mep,76
+659,2016,Ing. Alimentos,1,bad,76
+660,2016,Ing. Sistemas,2,tds,76
+661,2016,Ing. Civil,1,fisica,76
+662,2016,Ing. Quimica,2,mate,76
+663,2016,Ing. Electrica,1,metodos exp,76
+664,2016,Ing. Mecanica,2,mop,76
+665,2016,Ing.Mecanica,1,sgi,76
+666,2016,Ing. Industrial,2,hdp,77
+667,2016,Ing. Electrica,1,rhu,77
+668,2016,Ing. Sistemas,2,mep,77
+669,2016,Ing. Alimentos,1,bad,77
+670,2016,Ing. Sistemas,2,tds,77
+671,2016,Ing. Civil,1,fisica,77
+672,2016,Ing. Alimentos,2,mate,77
+673,2016,Ing. Alimentos,1,metodos exp,77
+674,2016,Ing. Sistemas,2,mop,77
+675,2016,Ing. Civil,1,sgi,77
+676,2016,Ing. Quimica,2,fisica,78
+677,2016,Ing. Electrica,1,mate,78
+678,2016,Ing. Mecanica,2,metodos exp,78
+679,2016,Ing.Mecanica,1,mop,78
+680,2016,Ing. Industrial,2,sgi,78
+681,2016,Ing. Electrica,1,hdp,78
+682,2016,Ing. Sistemas,2,rhu,78
+683,2016,Ing. Alimentos,1,mep,78
+684,2016,Ing. Sistemas,2,bad,78
+685,2016,Ing. Civil,1,tds,78
+686,2016,Ing. Alimentos,2,fisica,79
+687,2016,Ing. Alimentos,1,mate,79
+688,2016,Ing. Sistemas,2,metodos exp,79
+689,2016,Ing. Civil,1,mop,79
+690,2016,Ing. Quimica,2,sgi,79
+691,2016,Ing. Electrica,1,hdp,79
+692,2016,Ing. Mecanica,2,rhu,79
+693,2016,Ing.Mecanica,1,mep,79
+694,2016,Ing. Industrial,2,bad,79
+695,2016,Ing. Electrica,1,tds,79
+696,2016,Ing. Sistemas,2,fisica,80
+697,2016,Ing. Alimentos,1,mate,80
+698,2016,Ing. Sistemas,2,metodos exp,80
+699,2016,Ing. Civil,1,mop,80
+700,2016,Ing. Alimentos,2,sgi,80
+701,2016,Ing. Alimentos,1,fisica,80
+702,2016,Ing. Sistemas,2,mate,80
+703,2016,Ing. Civil,1,metodos exp,80
+704,2016,Ing. Quimica,2,mop,80
+705,2016,Ing. Electrica,1,sgi,80
+706,2016,Ing. Mecanica,2,hdp,81
+707,2016,Ing.Mecanica,1,rhu,81
+708,2016,Ing. Industrial,2,mep,81
+709,2016,Ing. Electrica,1,bad,81
+710,2016,Ing. Sistemas,1,tds,81
+711,2016,Ing. Alimentos,2,fisica,81
+712,2016,Ing. Sistemas,1,mate,81
+713,2016,Ing. Civil,2,metodos exp,81
+714,2016,Ing. Alimentos,1,mop,81
+715,2016,Ing. Alimentos,2,sgi,81
+716,2016,Ing. Sistemas,1,hdp,82
+717,2016,Ing. Civil,2,rhu,82
+718,2016,Ing. Quimica,1,mep,82
+719,2016,Ing. Electrica,2,bad,82
+720,2016,Ing. Mecanica,1,tds,82
+721,2016,Ing.Mecanica,2,fisica,82
+722,2016,Ing. Industrial,1,mate,82
+723,2016,Ing. Electrica,2,metodos exp,82
+724,2016,Ing. Sistemas,1,mop,82
+725,2016,Ing. Alimentos,2,sgi,82
+726,2016,Ing. Sistemas,1,fisica,83
+727,2016,Ing. Civil,2,mate,83
+728,2016,Ing. Alimentos,1,metodos exp,83
+729,2016,Ing. Alimentos,2,mop,83
+730,2016,Ing. Sistemas,1,sgi,83
+731,2016,Ing. Civil,2,hdp,83
+732,2016,Ing. Quimica,1,rhu,83
+733,2016,Ing. Electrica,2,mep,83
+734,2016,Ing. Mecanica,1,bad,83
+735,2016,Ing.Mecanica,2,tds,83
+736,2016,Ing. Industrial,1,fisica,84
+737,2016,Ing. Electrica,2,mate,84
+738,2016,Ing. Sistemas,1,metodos exp,84
+739,2016,Ing. Alimentos,2,mop,84
+740,2016,Ing. Sistemas,1,sgi,84
+741,2016,Ing. Civil,2,hdp,84
+742,2016,Ing. Alimentos,1,rhu,84
+743,2016,Ing. Alimentos,2,mep,84
+744,2016,Ing. Sistemas,1,bad,84
+745,2016,Ing. Civil,2,tds,84
+746,2016,Ing. Quimica,1,fisica,85
+747,2016,Ing. Electrica,2,mate,85
+748,2016,Ing. Mecanica,1,metodos exp,85
+749,2016,Ing.Mecanica,2,mop,85
+750,2016,Ing. Industrial,1,sgi,85
+751,2016,Ing. Electrica,2,fisica,85
+752,2016,Ing. Sistemas,1,mate,85
+753,2016,Ing. Alimentos,2,metodos exp,85
+754,2016,Ing. Sistemas,1,mop,85
+755,2016,Ing. Civil,2,sgi,85
+756,2016,Ing. Alimentos,1,hdp,86
+757,2016,Ing. Alimentos,2,rhu,86
+758,2016,Ing. Sistemas,1,mep,86
+759,2016,Ing. Civil,2,bad,86
+760,2016,Ing. Quimica,1,tds,86
+761,2016,Ing. Electrica,2,fisica,86
+762,2016,Ing. Mecanica,1,mate,86
+763,2016,Ing.Mecanica,2,metodos exp,86
+764,2016,Ing. Industrial,1,mop,86
+765,2016,Ing. Electrica,2,sgi,86
+766,2016,Ing. Sistemas,1,hdp,87
+767,2016,Ing. Alimentos,2,rhu,87
+768,2016,Ing. Sistemas,1,mep,87
+769,2016,Ing. Civil,2,bad,87
+770,2016,Ing. Alimentos,1,tds,87
+771,2016,Ing. Alimentos,2,fisica,87
+772,2016,Ing. Sistemas,1,mate,87
+773,2016,Ing. Civil,2,metodos exp,87
+774,2016,Ing. Quimica,1,mop,87
+775,2016,Ing. Electrica,2,sgi,87
+776,2016,Ing. Mecanica,1,fisica,88
+777,2016,Ing.Mecanica,2,mate,88
+778,2016,Ing. Industrial,1,metodos exp,88
+779,2016,Ing. Electrica,2,mop,88
+780,2016,Ing. Sistemas,1,sgi,88
+781,2017,Ing. Alimentos,2,hdp,88
+782,2017,Ing. Sistemas,1,rhu,88
+783,2017,Ing. Civil,2,mep,88
+784,2017,Ing. Alimentos,1,bad,88
+785,2017,Ing. Alimentos,2,tds,88
+786,2017,Ing. Sistemas,1,fisica,89
+787,2017,Ing. Civil,2,mate,89
+788,2017,Ing. Quimica,1,metodos exp,89
+789,2017,Ing. Electrica,2,mop,89
+790,2017,Ing. Mecanica,1,sgi,89
+791,2017,Ing.Mecanica,2,hdp,89
+792,2017,Ing. Industrial,1,rhu,89
+793,2017,Ing. Electrica,2,mep,89
+794,2017,Ing. Sistemas,1,bad,89
+795,2017,Ing. Alimentos,2,tds,89
+796,2017,Ing. Sistemas,1,fisica,90
+797,2017,Ing. Civil,2,mate,90
+798,2017,Ing. Alimentos,1,metodos exp,90
+799,2017,Ing. Alimentos,2,mop,90
+800,2017,Ing. Sistemas,1,sgi,90
+801,2017,Ing. Civil,2,fisica,90
+802,2017,Ing. Quimica,1,mate,90
+803,2017,Ing. Electrica,2,metodos exp,90
+804,2017,Ing. Mecanica,1,mop,90
+805,2017,Ing.Mecanica,2,sgi,90
+806,2017,Ing. Industrial,1,hdp,91
+807,2017,Ing. Electrica,2,rhu,91
+808,2017,Ing. Sistemas,1,mep,91
+809,2017,Ing. Alimentos,2,bad,91
+810,2017,Ing. Sistemas,1,tds,91
+811,2017,Ing. Civil,2,fisica,91
+812,2017,Ing. Alimentos,1,mate,91
+813,2017,Ing. Alimentos,2,metodos exp,91
+814,2017,Ing. Sistemas,1,mop,91
+815,2017,Ing. Civil,2,sgi,91
+816,2017,Ing. Quimica,1,hdp,92
+817,2017,Ing. Electrica,1,rhu,92
+818,2017,Ing. Mecanica,2,mep,92
+819,2017,Ing.Mecanica,1,bad,92
+820,2017,Ing. Industrial,2,tds,92
+821,2017,Ing. Electrica,1,fisica,92
+822,2017,Ing. Sistemas,2,mate,92
+823,2017,Ing. Alimentos,1,metodos exp,92
+824,2017,Ing. Sistemas,2,mop,92
+825,2017,Ing. Civil,1,sgi,92
+826,2017,Ing. Alimentos,2,fisica,93
+827,2017,Ing. Alimentos,1,mate,93
+828,2017,Ing. Sistemas,2,metodos exp,93
+829,2017,Ing. Civil,1,mop,93
+830,2017,Ing. Quimica,2,sgi,93
+831,2017,Ing. Electrica,1,hdp,93
+832,2017,Ing. Mecanica,2,rhu,93
+833,2017,Ing.Mecanica,1,mep,93
+834,2017,Ing. Industrial,2,bad,93
+835,2017,Ing. Electrica,1,tds,93
+836,2017,Ing. Sistemas,2,fisica,94
+837,2017,Ing. Alimentos,1,mate,94
+838,2017,Ing. Sistemas,2,metodos exp,94
+839,2017,Ing. Civil,1,mop,94
+840,2017,Ing. Alimentos,2,sgi,94
+841,2017,Ing. Alimentos,1,hdp,94
+842,2017,Ing. Sistemas,2,rhu,94
+843,2017,Ing. Civil,1,mep,94
+844,2017,Ing. Quimica,2,bad,94
+845,2017,Ing. Electrica,1,tds,94
+846,2017,Ing. Mecanica,2,fisica,95
+847,2017,Ing.Mecanica,1,mate,95
+848,2017,Ing. Industrial,2,metodos exp,95
+849,2017,Ing. Electrica,1,mop,95
+850,2017,Ing. Sistemas,2,sgi,95
+851,2017,Ing. Alimentos,1,fisica,95
+852,2017,Ing. Sistemas,2,mate,95
+853,2017,Ing. Civil,1,metodos exp,95
+854,2017,Ing. Alimentos,2,mop,95
+855,2017,Ing. Alimentos,1,sgi,95
+856,2017,Ing. Sistemas,2,hdp,96
+857,2017,Ing. Civil,1,rhu,96
+858,2017,Ing. Quimica,2,mep,96
+859,2017,Ing. Electrica,1,bad,96
+860,2017,Ing. Mecanica,2,tds,96
+861,2017,Ing.Mecanica,1,fisica,96
+862,2017,Ing. Industrial,2,mate,96
+863,2017,Ing. Electrica,1,metodos exp,96
+864,2017,Ing. Sistemas,2,mop,96
+865,2017,Ing. Alimentos,1,sgi,96
+866,2017,Ing. Sistemas,2,hdp,97
+867,2017,Ing. Civil,1,rhu,97
+868,2017,Ing. Alimentos,2,mep,97
+869,2017,Ing. Alimentos,1,bad,97
+870,2017,Ing. Sistemas,2,tds,97
+871,2017,Ing. Civil,1,fisica,97
+872,2017,Ing. Quimica,2,mate,97
+873,2017,Ing. Electrica,1,metodos exp,97
+874,2017,Ing. Mecanica,2,mop,97
+875,2017,Ing.Mecanica,1,sgi,97
+876,2017,Ing. Industrial,2,fisica,98
+877,2017,Ing. Electrica,1,mate,98
+878,2017,Ing. Sistemas,2,metodos exp,98
+879,2017,Ing. Alimentos,1,mop,98
+880,2017,Ing. Sistemas,2,sgi,98
+881,2017,Ing. Civil,1,hdp,98
+882,2017,Ing. Alimentos,2,rhu,98
+883,2017,Ing. Alimentos,1,mep,98
+884,2017,Ing. Sistemas,2,bad,98
+885,2017,Ing. Civil,1,tds,98
+886,2017,Ing. Quimica,2,fisica,99
+887,2017,Ing. Electrica,1,mate,99
+888,2017,Ing. Mecanica,2,metodos exp,99
+889,2017,Ing.Mecanica,1,mop,99
+890,2017,Ing. Industrial,2,sgi,99
+891,2017,Ing. Electrica,1,hdp,99
+892,2017,Ing. Sistemas,2,rhu,99
+893,2017,Ing. Alimentos,1,mep,99
+894,2017,Ing. Sistemas,2,bad,99
+895,2017,Ing. Civil,1,tds,99
+896,2017,Ing. Alimentos,2,fisica,100
+897,2017,Ing. Alimentos,1,mate,100
+898,2017,Ing. Sistemas,2,metodos exp,100
+899,2017,Ing. Civil,1,mop,100
+900,2017,Ing. Quimica,2,sgi,100
+901,2017,Ing. Electrica,1,fisica,100
+902,2017,Ing. Mecanica,2,mate,100
+903,2017,Ing.Mecanica,1,metodos exp,100
+904,2017,Ing. Industrial,2,mop,100
+905,2017,Ing. Electrica,1,sgi,101
+906,2017,Ing. Sistemas,2,hdp,101
+907,2017,Ing. Alimentos,1,rhu,101
+908,2017,Ing. Sistemas,2,mep,101
+909,2017,Ing. Civil,1,bad,101
+910,2017,Ing. Alimentos,2,tds,101
+911,2017,Ing. Alimentos,1,fisica,101
+912,2017,Ing. Sistemas,2,mate,101
+913,2017,Ing. Civil,1,metodos exp,101
+914,2017,Ing. Quimica,2,mop,101
+915,2017,Ing. Electrica,1,sgi,102
+916,2017,Ing. Mecanica,2,hdp,102
+917,2017,Ing.Mecanica,1,rhu,102
+918,2017,Ing. Industrial,2,mep,102
+919,2017,Ing. Electrica,1,bad,102
+920,2017,Ing. Sistemas,2,tds,102
+921,2017,Ing. Alimentos,1,fisica,102
+922,2017,Ing. Sistemas,2,mate,102
+923,2017,Ing. Civil,1,metodos exp,102
+924,2017,Ing. Alimentos,1,mop,102
+925,2017,Ing. Alimentos,2,sgi,103
+926,2017,Ing. Sistemas,1,fisica,103
+927,2017,Ing. Civil,2,mate,103
+928,2017,Ing. Quimica,1,metodos exp,103
+929,2017,Ing. Electrica,2,mop,103
+930,2017,Ing. Mecanica,1,sgi,103
+931,2017,Ing.Mecanica,2,hdp,103
+932,2017,Ing. Industrial,1,rhu,103
+933,2017,Ing. Electrica,2,mep,103
+934,2017,Ing. Sistemas,1,bad,103
+935,2017,Ing. Alimentos,2,tds,104
+936,2017,Ing. Sistemas,1,fisica,104
+937,2017,Ing. Civil,2,mate,104
+938,2017,Ing. Alimentos,1,metodos exp,104
+939,2017,Ing. Alimentos,2,mop,104
+940,2017,Ing. Sistemas,1,sgi,104
+941,2017,Ing. Civil,2,hdp,104
+942,2017,Ing. Quimica,1,rhu,104
+943,2017,Ing. Electrica,2,mep,104
+944,2017,Ing. Mecanica,1,bad,104
+945,2017,Ing.Mecanica,2,tds,105
+946,2017,Ing. Industrial,1,fisica,105
+947,2017,Ing. Electrica,2,mate,105
+948,2017,Ing. Sistemas,1,metodos exp,105
+949,2017,Ing. Alimentos,2,mop,105
+950,2017,Ing. Sistemas,1,sgi,105
+951,2017,Ing. Civil,2,fisica,105
+952,2017,Ing. Alimentos,1,mate,105
+953,2017,Ing. Alimentos,2,metodos exp,105
+954,2017,Ing. Sistemas,1,mop,105
+955,2017,Ing. Civil,2,sgi,106
+956,2017,Ing. Quimica,1,hdp,106
+957,2017,Ing. Electrica,2,rhu,106
+958,2017,Ing. Mecanica,1,mep,106
+959,2017,Ing.Mecanica,2,bad,106
+960,2017,Ing. Industrial,1,tds,106
+961,2017,Ing. Electrica,2,fisica,106
+962,2017,Ing. Sistemas,1,mate,106
+963,2017,Ing. Alimentos,2,metodos exp,106
+964,2017,Ing. Sistemas,1,mop,106
+965,2017,Ing. Civil,2,sgi,107
+966,2017,Ing. Alimentos,1,hdp,107
+967,2017,Ing. Alimentos,2,rhu,107
+968,2017,Ing. Sistemas,1,mep,107
+969,2017,Ing. Civil,2,bad,107
+970,2017,Ing. Quimica,1,tds,107
+971,2017,Ing. Electrica,2,fisica,107
+972,2017,Ing. Mecanica,1,mate,107
+973,2017,Ing.Mecanica,2,metodos exp,107
+974,2017,Ing. Industrial,1,mop,107
+975,2017,Ing. Electrica,2,sgi,108
+976,2017,Ing. Sistemas,1,fisica,108
+977,2017,Ing. Alimentos,2,mate,108
+978,2017,Ing. Sistemas,1,metodos exp,108
+979,2017,Ing. Civil,2,mop,108
+980,2017,Ing. Alimentos,1,sgi,108
+981,2017,Ing. Alimentos,2,hdp,108
+982,2017,Ing. Sistemas,1,rhu,108
+983,2017,Ing. Civil,2,mep,108
+984,2017,Ing. Quimica,1,bad,108
+985,2017,Ing. Electrica,2,tds,109
+986,2017,Ing. Mecanica,1,fisica,109
+987,2017,Ing.Mecanica,2,mate,109
+988,2017,Ing. Industrial,1,metodos exp,109
+989,2017,Ing. Electrica,2,mop,109
+990,2017,Ing. Sistemas,1,sgi,109
+991,2017,Ing. Alimentos,2,hdp,109
+992,2017,Ing. Sistemas,1,rhu,109
+993,2017,Ing. Civil,2,mep,109
+994,2017,Ing. Alimentos,1,bad,109
+995,2017,Ing. Alimentos,2,tds,110
+996,2017,Ing. Sistemas,1,fisica,110
+997,2017,Ing. Civil,2,mate,110
+998,2017,Ing. Quimica,1,metodos exp,110
+999,2017,Ing. Electrica,2,mop,110
+1000,2017,Ing. Mecanica,1,sgi,110
+1001,2017,Ing.Mecanica,2,fisica,110
+1002,2017,Ing. Industrial,1,mate,110
+1003,2017,Ing. Electrica,2,metodos exp,110
+1004,2017,Ing. Sistemas,1,mop,110
+1005,2017,Ing. Alimentos,2,sgi,111
+1006,2017,Ing. Sistemas,1,hdp,111
+1007,2017,Ing. Civil,2,rhu,111
+1008,2017,Ing. Alimentos,1,mep,111
+1009,2017,Ing. Alimentos,2,bad,111
+1010,2017,Ing. Sistemas,1,tds,111
+1011,2017,Ing. Civil,2,fisica,111
+1012,2017,Ing. Quimica,1,mate,111
+1013,2017,Ing. Electrica,2,metodos exp,111
+1014,2017,Ing. Mecanica,1,mop,111
+1015,2017,Ing.Mecanica,2,sgi,112
+1016,2017,Ing. Industrial,1,hdp,112
+1017,2017,Ing. Electrica,2,rhu,112
+1018,2017,Ing. Sistemas,1,mep,112
+1019,2017,Ing. Alimentos,2,bad,112
+1020,2017,Ing. Sistemas,1,tds,112
+1021,2017,Ing. Civil,2,fisica,112
+1022,2017,Ing. Alimentos,1,mate,112
+1023,2017,Ing. Alimentos,2,metodos exp,112

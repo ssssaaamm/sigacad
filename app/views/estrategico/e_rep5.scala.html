@@ -37,7 +37,7 @@
     <br>
     <br>
 
-    <form class="form-horizontal" role="form" method="post" action="@routes.EstrategicoController.procesar_rep2">
+    <form class="form-horizontal" role="form" method="post" action="@routes.EstrategicoController.procesar_rep5">
 
             <div class="row">
                 <div class="col-sm-3"></div>
@@ -47,12 +47,13 @@
                         <label for="carrera" class="col-sm-2 control-label">Carrera</label>
                         <div class="col-sm-10">
                             <select class="form-control" id="carrera" name="carrera">
-                                <option value="arq">Arquitectura</option>
-                                <option value="civ">Ing. Civil</option>
-                                <option value="ind">Ing. Industrial</option>
-                                <option value="mec">Ing. Mecanica</option>
-                                <option value="qui">Ing. Química</option>
-                                <option value="sis">Ing. Sistemas</option>
+                                <option value="Arquitectura">Arquitectura</option>
+                                <option value="Ing. Civil">Ing. Civil</option>
+                                <option value="Ing. Industrial">Ing. Industrial</option>
+                                <option value="Ing. Mecanica">Ing. Mecanica</option>
+                                <option value="Ing. Química">Ing. Química</option>
+                                <option value="Ing. Sistemas">Ing. Sistemas</option>
+                                <option value="Ing. Alimentos">Ing. Alimentos</option>
                             </select>
                         </div>
                     </div>
@@ -61,7 +62,7 @@
                         <label for="fecha" class="col-sm-2 control-label">Año</label>
                         <div class="col-sm-10">
                             <div class="colinput-append date" id="dp1" data-date="12-02-2012" data-date-format="dd-mm-yyyy">
-                                <input type="text" id="txtDateDesde" name="fecha_inicio" class="datepicker form-control" data-provide="datepicker" placeholder="Seleccione" />
+                                <input type="text" id="txtDateDesde" name="anio" class="datepicker form-control" data-provide="datepicker" placeholder="Seleccione" />
                             </div>
                         </div>
                     </div>
@@ -70,8 +71,8 @@
                         <label for="ciclo" class="col-sm-2 control-label">Ciclo</label>
                         <div class="col-sm-10">
                             <select class="form-control" id="ciclo" name="ciclo">
-                                <option value="par">Par</option>
-                                <option value="impar">Impar</option>
+                                <option value="2">Par</option>
+                                <option value="1">Impar</option>
 
                             </select>
                         </div>
@@ -80,7 +81,7 @@
                         <label for="carrera" class="col-sm-2 control-label">Maximo Registro</label>
                            <div class="col-sm-10">
                                         <div class="colinput-append date" id="max">
-                                        <input type="text" id="max" name="max" class="form-control" placeholder="Introducir " />
+                                        <input type="number" id="max" name="max" class="form-control" placeholder="Introducir " />
                                       </div>
                           </div>
                     </div>

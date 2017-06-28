@@ -117,11 +117,31 @@ public class TacticoController extends Controller {
     }
 
     public Result procesar_rep3(){
-        return ok("procesando reporte 3");
+        //parametros de formulario
+        Map<String, String[]> values = request().body().asFormUrlEncoded();
+        
+        //obtenemos los parametros segun name de cada input
+        String carrera = values.get("carrera")[0];
+
+        //hacemos la consulta
+        List<TRep3> registros = TRep3.find.where().eq("carrera",carrera).findList();
+        
+        //presentamos la salida
+        return ok(s_rep3.render(registros,carrera));
     }
 
     public Result pdf_rep3(){
-        return ok("generando pdf");
+        //parametros de formulario
+        Map<String, String[]> values = request().body().asFormUrlEncoded();
+        
+        //obtenemos los parametros segun name de cada input
+        String carrera = values.get("carrera")[0];
+
+        //hacemos la consulta
+        List<TRep3> registros = TRep3.find.where().eq("carrera",carrera).findList();
+        
+        //presentamos la salida
+        return pdfGenerator.ok(pdf_rep3.render(registros,carrera),Configuration.root().getString("application.host"));
     }
 
     public Result e_rep4(){

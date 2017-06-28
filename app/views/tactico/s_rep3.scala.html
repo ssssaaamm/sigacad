@@ -1,0 +1,83 @@
+@(registros: List[TRep3],carrera:String)
+@import scala.math.BigDecimal
+@import helper._
+
+@css={
+}
+
+@js={
+    <script src="@routes.Assets.versioned("javascripts/export/tableExport.js")" type="text/javascript"></script>
+	<script src="@routes.Assets.versioned("javascripts/export/jquery.base64.js")" type="text/javascript"></script>
+	<script src="@routes.Assets.versioned("javascripts/export/html2canvas.js")" type="text/javascript"></script>
+	<script src="@routes.Assets.versioned("javascripts/export/jspdf/libs/sprintf.js")" type="text/javascript"></script>
+	<script src="@routes.Assets.versioned("javascripts/export/jspdf/jspdf.js")" type="text/javascript"></script>
+	<script src="@routes.Assets.versioned("javascripts/export/jspdf/libs/base64.js")" type="text/javascript"></script>
+}
+
+@breadcrumb = {
+	<ul class="breadcrumb">
+		<li class=""><a href="/tactico">Tactico</a></li>
+		<li class="active"><a href="#">Reporte 5</a></li>
+	</ul>
+}
+
+
+@tactico.base("Reporte 3","Semi-Resumen de Estudiantes que deben cursar PERA a la fecha actual.","3",css,js,breadcrumb){
+
+    <br>
+    <br>
+
+    <div class="text-center row">
+        <div class="col-sm-4"></div>
+        <form method="post" action="@routes.TacticoController.pdf_rep3()">
+            <input type="text" name="carrera" value="@carrera" hidden="true"/>
+            <button type="submit" class="btn btn-success col-sm-2">Ver en PDF</button>
+        </form>
+         <button type="button" class="btn btn-warning col-sm-2" onclick="$('#reporte-table').tableExport({type:'excel',escape:'false'});">Exportar Excel</button>
+        <div class="col-sm-4"></div>
+    </div>
+
+    <br>
+
+    <div class="text-center row">
+        <img src="@routes.Assets.versioned("images/logo_ues.png")">
+    </div>
+    
+    <div class="text-center row">
+        <p><strong>Carrera:</strong> @carrera</p>
+        <p><strong>Año Actual</strong></p>
+    </div>
+
+    <div class="text-center row">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-8">
+        <table class="table table-condensed table-bordered table-striped" id="reporte-table">
+            <thead>
+            <tr>
+                <th>No</th>
+                <th>Carrera</th>
+                <th>Alumno</th>
+                <th>Carnet</th>
+                <th>Cum</th>
+            </tr>
+            </thead>
+            <tbody>
+
+                @for((row, index) <- registros.reverse.zipWithIndex) {
+                    <tr>
+                        <td>@(index+1)</td>
+                        <td>@row.carrera</td>
+                        <td>@row.alumno</td>
+                        <td>@row.carne</td>
+                        <td>@row.cum</td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+        </div>
+        <div class="col-sm-2"></div>
+    </div>
+    
+
+}

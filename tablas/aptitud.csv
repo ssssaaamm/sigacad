@@ -1,0 +1,1024 @@
+id,ano,carrera_origen,carrera_solicitada,alumno,carne
+1,2015,Ing. Alimentos,Ing. Mecanica,Alumno 1,aa00001
+2,2015,Ing. Sistemas,Ing.Mecanica,Alumno 2,aa00002
+3,2015,Ing. Civil,Ing. Industrial,Alumno 3,aa00003
+4,2015,Ing. Quimica,Ing. Electrica,Alumno 4,aa00004
+5,2016,Ing. Electrica,Ing. Civil,Alumno 5,aa00005
+6,2016,Ing. Mecanica,Ing. Industrial,Alumno 6,aa00006
+7,2016,Ing.Mecanica,Ing. Electrica,Alumno 7,aa00007
+8,2016,Ing. Industrial,Ing. Sistemas,Alumno 8,aa00008
+9,2016,Ing. Electrica,Arquitectura,Alumno 9,aa00009
+10,2016,Ing. Sistemas,Ing. Alimentos,Alumno 10,aa00010
+11,2016,Arquitectura,Ing. Sistemas,Alumno 11,aa00011
+12,2016,Ing. Alimentos,Ing. Civil,Alumno 12,aa00012
+13,2016,Ing. Sistemas,Ing. Quimica,Alumno 13,aa00013
+14,2016,Ing. Civil,Ing. Electrica,Alumno 14,aa00014
+15,2016,Ing. Quimica,Ing. Mecanica,Alumno 15,aa00015
+16,2016,Ing. Electrica,Ing.Mecanica,Alumno 16,aa00016
+17,2016,Ing. Mecanica,Ing. Industrial,Alumno 17,aa00017
+18,2016,Ing.Mecanica,Ing. Electrica,Alumno 18,aa00018
+19,2016,Ing. Industrial,Ing. Civil,Alumno 19,aa00019
+20,2016,Ing. Electrica,Ing. Industrial,Alumno 20,aa00020
+21,2016,Ing. Sistemas,Ing. Electrica,Alumno 21,aa00021
+22,2016,Arquitectura,Ing. Sistemas,Alumno 22,aa00022
+23,2016,Ing. Alimentos,Arquitectura,Alumno 23,aa00023
+24,2016,Ing. Sistemas,Ing. Alimentos,Alumno 24,aa00024
+25,2016,Ing. Civil,Ing. Sistemas,Alumno 25,aa00025
+26,2016,Ing. Quimica,Ing. Civil,Alumno 26,aa00026
+27,2016,Ing. Electrica,Ing. Quimica,Alumno 27,aa00027
+28,2016,Ing. Mecanica,Ing. Electrica,Alumno 28,aa00028
+29,2016,Ing.Mecanica,Ing. Mecanica,Alumno 29,aa00029
+30,2016,Ing. Industrial,Ing.Mecanica,Alumno 30,aa00030
+31,2016,Ing. Electrica,Ing. Industrial,Alumno 31,aa00031
+32,2016,Ing. Sistemas,Ing. Electrica,Alumno 32,aa00032
+33,2016,Arquitectura,Ing. Civil,Alumno 33,aa00033
+34,2016,Ing. Alimentos,Ing. Industrial,Alumno 34,aa00034
+35,2016,Ing. Sistemas,Ing. Electrica,Alumno 35,aa00035
+36,2016,Ing. Civil,Ing. Sistemas,Alumno 36,aa00036
+37,2016,Ing. Quimica,Arquitectura,Alumno 37,aa00037
+38,2016,Ing. Electrica,Ing. Alimentos,Alumno 38,aa00038
+39,2016,Ing. Mecanica,Ing. Sistemas,Alumno 39,aa00039
+40,2016,Ing.Mecanica,Ing. Civil,Alumno 40,aa00040
+41,2016,Ing. Industrial,Ing. Quimica,Alumno 41,aa00041
+42,2016,Ing. Electrica,Ing. Electrica,Alumno 42,aa00042
+43,2016,Ing. Sistemas,Ing. Mecanica,Alumno 43,aa00043
+44,2016,Arquitectura,Ing.Mecanica,Alumno 44,aa00044
+45,2016,Ing. Alimentos,Ing. Industrial,Alumno 45,aa00045
+46,2016,Ing. Sistemas,Ing. Electrica,Alumno 46,aa00046
+47,2016,Ing. Civil,Ing. Civil,Alumno 47,aa00047
+48,2016,Ing. Quimica,Ing. Industrial,Alumno 48,aa00048
+49,2016,Ing. Electrica,Ing. Electrica,Alumno 49,aa00049
+50,2016,Ing. Mecanica,Ing. Sistemas,Alumno 50,aa00050
+51,2016,Ing.Mecanica,Arquitectura,Alumno 51,aa00051
+52,2016,Ing. Industrial,Ing. Alimentos,Alumno 52,aa00052
+53,2016,Ing. Electrica,Ing. Sistemas,Alumno 53,aa00053
+54,2016,Ing. Sistemas,Ing. Civil,Alumno 54,aa00054
+55,2016,Arquitectura,Ing. Quimica,Alumno 55,aa00055
+56,2016,Ing. Alimentos,Ing. Electrica,Alumno 56,aa00056
+57,2016,Ing. Sistemas,Ing. Mecanica,Alumno 57,aa00057
+58,2016,Ing. Civil,Ing.Mecanica,Alumno 58,aa00058
+59,2016,Ing. Quimica,Ing. Industrial,Alumno 59,aa00059
+60,2016,Ing. Electrica,Ing. Electrica,Alumno 60,aa00060
+61,2016,Ing. Mecanica,Ing. Civil,Alumno 61,aa00061
+62,2016,Ing.Mecanica,Ing. Industrial,Alumno 62,aa00062
+63,2016,Ing. Industrial,Ing. Electrica,Alumno 63,aa00063
+64,2016,Ing. Electrica,Ing. Sistemas,Alumno 64,aa00064
+65,2016,Ing. Sistemas,Arquitectura,Alumno 65,aa00065
+66,2016,Arquitectura,Ing. Alimentos,Alumno 66,aa00066
+67,2016,Ing. Alimentos,Ing. Sistemas,Alumno 67,aa00067
+68,2016,Ing. Sistemas,Ing. Civil,Alumno 68,aa00068
+69,2016,Ing. Civil,Ing. Quimica,Alumno 69,aa00069
+70,2016,Ing. Quimica,Ing. Electrica,Alumno 70,aa00070
+71,2016,Ing. Electrica,Ing. Mecanica,Alumno 71,aa00071
+72,2016,Ing. Mecanica,Ing.Mecanica,Alumno 72,aa00072
+73,2016,Ing.Mecanica,Ing. Industrial,Alumno 73,aa00073
+74,2016,Ing. Industrial,Ing. Electrica,Alumno 74,aa00074
+75,2016,Ing. Electrica,Ing. Civil,Alumno 75,aa00075
+76,2016,Ing. Sistemas,Ing. Industrial,Alumno 76,aa00076
+77,2016,Arquitectura,Ing. Electrica,Alumno 77,aa00077
+78,2016,Ing. Alimentos,Ing. Sistemas,Alumno 78,aa00078
+79,2016,Ing. Sistemas,Arquitectura,Alumno 79,aa00079
+80,2016,Ing. Civil,Ing. Alimentos,Alumno 80,aa00080
+81,2016,Ing. Quimica,Ing. Sistemas,Alumno 81,aa00081
+82,2016,Ing. Electrica,Ing. Civil,Alumno 82,aa00082
+83,2016,Ing. Mecanica,Ing. Quimica,Alumno 83,aa00083
+84,2016,Ing.Mecanica,Ing. Electrica,Alumno 84,aa00084
+85,2016,Ing. Industrial,Ing. Mecanica,Alumno 85,aa00085
+86,2016,Ing. Electrica,Ing.Mecanica,Alumno 86,aa00086
+87,2016,Ing. Sistemas,Ing. Industrial,Alumno 87,aa00087
+88,2016,Arquitectura,Ing. Electrica,Alumno 88,aa00088
+89,2016,Ing. Alimentos,Ing. Civil,Alumno 89,aa00089
+90,2016,Ing. Sistemas,Ing. Industrial,Alumno 90,aa00090
+91,2016,Ing. Civil,Ing. Electrica,Alumno 91,aa00091
+92,2016,Ing. Quimica,Ing. Sistemas,Alumno 92,aa00092
+93,2016,Ing. Electrica,Arquitectura,Alumno 93,aa00093
+94,2016,Ing. Mecanica,Ing. Alimentos,Alumno 94,aa00094
+95,2016,Ing.Mecanica,Ing. Sistemas,Alumno 95,aa00095
+96,2016,Ing. Industrial,Ing. Civil,Alumno 96,aa00096
+97,2016,Ing. Electrica,Ing. Quimica,Alumno 97,aa00097
+98,2016,Ing. Sistemas,Ing. Electrica,Alumno 98,aa00098
+99,2016,Arquitectura,Ing. Mecanica,Alumno 99,aa00099
+100,2016,Ing. Alimentos,Ing.Mecanica,Alumno 100,aa00100
+101,2016,Ing. Sistemas,Ing. Industrial,Alumno 101,aa00101
+102,2016,Ing. Civil,Ing. Electrica,Alumno 102,aa00102
+103,2016,Ing. Quimica,Ing. Civil,Alumno 103,aa00103
+104,2016,Ing. Electrica,Ing. Industrial,Alumno 104,aa00104
+105,2016,Ing. Mecanica,Ing. Electrica,Alumno 105,aa00105
+106,2016,Ing.Mecanica,Ing. Sistemas,Alumno 106,aa00106
+107,2016,Ing. Industrial,Arquitectura,Alumno 107,aa00107
+108,2016,Ing. Electrica,Ing. Alimentos,Alumno 108,aa00108
+109,2016,Ing. Sistemas,Ing. Sistemas,Alumno 109,aa00109
+110,2016,Arquitectura,Ing. Civil,Alumno 110,aa00110
+111,2016,Ing. Alimentos,Ing. Quimica,Alumno 111,aa00111
+112,2016,Ing. Sistemas,Ing. Electrica,Alumno 112,aa00112
+113,2016,Ing. Civil,Ing. Mecanica,Alumno 113,aa00113
+114,2016,Ing. Quimica,Ing.Mecanica,Alumno 114,aa00114
+115,2016,Ing. Electrica,Ing. Industrial,Alumno 115,aa00115
+116,2016,Ing. Mecanica,Ing. Electrica,Alumno 116,aa00116
+117,2016,Ing.Mecanica,Ing. Civil,Alumno 117,aa00117
+118,2016,Ing. Industrial,Ing. Industrial,Alumno 118,aa00118
+119,2016,Ing. Electrica,Ing. Electrica,Alumno 119,aa00119
+120,2016,Ing. Sistemas,Ing. Sistemas,Alumno 120,aa00120
+121,2016,Arquitectura,Arquitectura,Alumno 121,aa00121
+122,2016,Ing. Alimentos,Ing. Alimentos,Alumno 122,aa00122
+123,2016,Ing. Sistemas,Ing. Sistemas,Alumno 123,aa00123
+124,2016,Ing. Civil,Ing. Civil,Alumno 124,aa00124
+125,2016,Ing. Quimica,Ing. Quimica,Alumno 125,aa00125
+126,2016,Ing. Electrica,Ing. Electrica,Alumno 126,aa00126
+127,2016,Ing. Mecanica,Ing. Mecanica,Alumno 127,aa00127
+128,2016,Ing.Mecanica,Ing.Mecanica,Alumno 128,aa00128
+129,2016,Ing. Industrial,Ing. Industrial,Alumno 129,aa00129
+130,2016,Ing. Electrica,Ing. Electrica,Alumno 130,aa00130
+131,2016,Ing. Sistemas,Ing. Civil,Alumno 131,aa00131
+132,2016,Arquitectura,Ing. Industrial,Alumno 132,aa00132
+133,2016,Ing. Alimentos,Ing. Electrica,Alumno 133,aa00133
+134,2016,Ing. Sistemas,Ing. Sistemas,Alumno 134,aa00134
+135,2016,Ing. Civil,Arquitectura,Alumno 135,aa00135
+136,2016,Ing. Quimica,Ing. Alimentos,Alumno 136,aa00136
+137,2016,Ing. Electrica,Ing. Sistemas,Alumno 137,aa00137
+138,2016,Ing. Mecanica,Ing. Civil,Alumno 138,aa00138
+139,2016,Ing.Mecanica,Ing. Quimica,Alumno 139,aa00139
+140,2016,Ing. Industrial,Ing. Electrica,Alumno 140,aa00140
+141,2016,Ing. Electrica,Ing. Mecanica,Alumno 141,aa00141
+142,2016,Ing. Sistemas,Ing.Mecanica,Alumno 142,aa00142
+143,2016,Arquitectura,Ing. Industrial,Alumno 143,aa00143
+144,2016,Ing. Alimentos,Ing. Electrica,Alumno 144,aa00144
+145,2016,Ing. Sistemas,Ing. Civil,Alumno 145,aa00145
+146,2016,Ing. Civil,Ing. Industrial,Alumno 146,aa00146
+147,2016,Ing. Quimica,Ing. Electrica,Alumno 147,aa00147
+148,2016,Ing. Electrica,Ing. Sistemas,Alumno 148,aa00148
+149,2016,Ing. Mecanica,Arquitectura,Alumno 149,aa00149
+150,2016,Ing.Mecanica,Ing. Alimentos,Alumno 150,aa00150
+151,2016,Ing. Industrial,Ing. Sistemas,Alumno 151,aa00151
+152,2016,Ing. Electrica,Ing. Civil,Alumno 152,aa00152
+153,2016,Ing. Sistemas,Ing. Quimica,Alumno 153,aa00153
+154,2016,Arquitectura,Ing. Electrica,Alumno 154,aa00154
+155,2016,Ing. Alimentos,Ing. Mecanica,Alumno 155,aa00155
+156,2016,Ing. Sistemas,Ing.Mecanica,Alumno 156,aa00156
+157,2016,Ing. Civil,Ing. Industrial,Alumno 157,aa00157
+158,2016,Ing. Quimica,Ing. Electrica,Alumno 158,aa00158
+159,2016,Ing. Electrica,Ing. Civil,Alumno 159,aa00159
+160,2016,Ing. Mecanica,Ing. Industrial,Alumno 160,aa00160
+161,2016,Ing.Mecanica,Ing. Electrica,Alumno 161,aa00161
+162,2016,Ing. Industrial,Ing. Sistemas,Alumno 162,aa00162
+163,2016,Ing. Electrica,Arquitectura,Alumno 163,aa00163
+164,2016,Ing. Sistemas,Ing. Alimentos,Alumno 164,aa00164
+165,2016,Arquitectura,Ing. Sistemas,Alumno 165,aa00165
+166,2016,Ing. Alimentos,Ing. Civil,Alumno 166,aa00166
+167,2016,Ing. Sistemas,Ing. Quimica,Alumno 167,aa00167
+168,2016,Ing. Civil,Ing. Electrica,Alumno 168,aa00168
+169,2016,Ing. Quimica,Ing. Mecanica,Alumno 169,aa00169
+170,2016,Ing. Electrica,Ing.Mecanica,Alumno 170,aa00170
+171,2016,Ing. Mecanica,Ing. Industrial,Alumno 171,aa00171
+172,2016,Ing.Mecanica,Ing. Electrica,Alumno 172,aa00172
+173,2016,Ing. Industrial,Ing. Civil,Alumno 173,aa00173
+174,2016,Ing. Electrica,Ing. Industrial,Alumno 174,aa00174
+175,2016,Ing. Sistemas,Ing. Electrica,Alumno 175,aa00175
+176,2016,Arquitectura,Ing. Sistemas,Alumno 176,aa00176
+177,2016,Ing. Alimentos,Arquitectura,Alumno 177,aa00177
+178,2016,Ing. Sistemas,Ing. Alimentos,Alumno 178,aa00178
+179,2016,Ing. Civil,Ing. Sistemas,Alumno 179,aa00179
+180,2016,Ing. Quimica,Ing. Civil,Alumno 180,aa00180
+181,2016,Ing. Electrica,Ing. Quimica,Alumno 181,aa00181
+182,2016,Ing. Mecanica,Ing. Electrica,Alumno 182,aa00182
+183,2016,Ing.Mecanica,Ing. Mecanica,Alumno 183,aa00183
+184,2016,Ing. Industrial,Ing.Mecanica,Alumno 184,aa00184
+185,2016,Ing. Electrica,Ing. Industrial,Alumno 185,aa00185
+186,2016,Ing. Sistemas,Ing. Electrica,Alumno 186,aa00186
+187,2016,Arquitectura,Ing. Civil,Alumno 187,aa00187
+188,2016,Ing. Alimentos,Ing. Industrial,Alumno 188,aa00188
+189,2016,Ing. Sistemas,Ing. Electrica,Alumno 189,aa00189
+190,2016,Ing. Civil,Ing. Sistemas,Alumno 190,aa00190
+191,2016,Ing. Quimica,Arquitectura,Alumno 191,aa00191
+192,2016,Ing. Electrica,Ing. Alimentos,Alumno 192,aa00192
+193,2016,Ing. Mecanica,Ing. Sistemas,Alumno 193,aa00193
+194,2016,Ing.Mecanica,Ing. Civil,Alumno 194,aa00194
+195,2016,Ing. Industrial,Ing. Quimica,Alumno 195,aa00195
+196,2016,Ing. Electrica,Ing. Electrica,Alumno 196,aa00196
+197,2016,Ing. Sistemas,Ing. Mecanica,Alumno 197,aa00197
+198,2016,Arquitectura,Ing.Mecanica,Alumno 198,aa00198
+199,2016,Ing. Alimentos,Ing. Industrial,Alumno 199,aa00199
+200,2016,Ing. Sistemas,Ing. Electrica,Alumno 200,aa00200
+201,2016,Ing. Civil,Ing. Civil,Alumno 201,aa00201
+202,2016,Ing. Quimica,Ing. Industrial,Alumno 202,aa00202
+203,2016,Ing. Electrica,Ing. Electrica,Alumno 203,aa00203
+204,2016,Ing. Mecanica,Ing. Sistemas,Alumno 204,aa00204
+205,2016,Ing.Mecanica,Arquitectura,Alumno 205,aa00205
+206,2016,Ing. Industrial,Ing. Alimentos,Alumno 206,aa00206
+207,2016,Ing. Electrica,Ing. Sistemas,Alumno 207,aa00207
+208,2016,Ing. Sistemas,Ing. Civil,Alumno 208,aa00208
+209,2016,Arquitectura,Ing. Quimica,Alumno 209,aa00209
+210,2016,Ing. Alimentos,Ing. Electrica,Alumno 210,aa00210
+211,2016,Ing. Sistemas,Ing. Mecanica,Alumno 211,aa00211
+212,2016,Ing. Civil,Ing.Mecanica,Alumno 212,aa00212
+213,2016,Ing. Quimica,Ing. Industrial,Alumno 213,aa00213
+214,2016,Ing. Electrica,Ing. Electrica,Alumno 214,aa00214
+215,2016,Ing. Mecanica,Ing. Civil,Alumno 215,aa00215
+216,2016,Ing.Mecanica,Ing. Industrial,Alumno 216,aa00216
+217,2016,Ing. Industrial,Ing. Electrica,Alumno 217,aa00217
+218,2016,Ing. Electrica,Ing. Sistemas,Alumno 218,aa00218
+219,2016,Ing. Sistemas,Arquitectura,Alumno 219,aa00219
+220,2016,Arquitectura,Ing. Alimentos,Alumno 220,aa00220
+221,2016,Ing. Alimentos,Ing. Sistemas,Alumno 221,aa00221
+222,2016,Ing. Sistemas,Ing. Civil,Alumno 222,aa00222
+223,2016,Ing. Civil,Ing. Quimica,Alumno 223,aa00223
+224,2016,Ing. Quimica,Ing. Electrica,Alumno 224,aa00224
+225,2016,Ing. Electrica,Ing. Mecanica,Alumno 225,aa00225
+226,2016,Ing. Mecanica,Ing.Mecanica,Alumno 226,aa00226
+227,2016,Ing.Mecanica,Ing. Industrial,Alumno 227,aa00227
+228,2016,Ing. Industrial,Ing. Electrica,Alumno 228,aa00228
+229,2016,Ing. Electrica,Ing. Civil,Alumno 229,aa00229
+230,2016,Ing. Sistemas,Ing. Industrial,Alumno 230,aa00230
+231,2016,Arquitectura,Ing. Electrica,Alumno 231,aa00231
+232,2016,Ing. Alimentos,Ing. Sistemas,Alumno 232,aa00232
+233,2016,Ing. Sistemas,Arquitectura,Alumno 233,aa00233
+234,2016,Ing. Civil,Ing. Alimentos,Alumno 234,aa00234
+235,2016,Ing. Quimica,Ing. Sistemas,Alumno 235,aa00235
+236,2016,Ing. Electrica,Ing. Civil,Alumno 236,aa00236
+237,2016,Ing. Mecanica,Ing. Quimica,Alumno 237,aa00237
+238,2016,Ing.Mecanica,Ing. Electrica,Alumno 238,aa00238
+239,2016,Ing. Industrial,Ing. Mecanica,Alumno 239,aa00239
+240,2016,Ing. Electrica,Ing.Mecanica,Alumno 240,aa00240
+241,2016,Ing. Sistemas,Ing. Industrial,Alumno 241,aa00241
+242,2016,Arquitectura,Ing. Electrica,Alumno 242,aa00242
+243,2016,Ing. Alimentos,Ing. Civil,Alumno 243,aa00243
+244,2016,Ing. Sistemas,Ing. Industrial,Alumno 244,aa00244
+245,2016,Ing. Civil,Ing. Electrica,Alumno 245,aa00245
+246,2016,Ing. Quimica,Ing. Sistemas,Alumno 246,aa00246
+247,2016,Ing. Electrica,Arquitectura,Alumno 247,aa00247
+248,2016,Ing. Mecanica,Ing. Alimentos,Alumno 248,aa00248
+249,2016,Ing.Mecanica,Ing. Sistemas,Alumno 249,aa00249
+250,2016,Ing. Industrial,Ing. Civil,Alumno 250,aa00250
+251,2016,Ing. Electrica,Ing. Quimica,Alumno 251,aa00251
+252,2016,Ing. Sistemas,Ing. Electrica,Alumno 252,aa00252
+253,2016,Arquitectura,Ing. Mecanica,Alumno 253,aa00253
+254,2016,Ing. Alimentos,Ing.Mecanica,Alumno 254,aa00254
+255,2016,Ing. Sistemas,Ing. Industrial,Alumno 255,aa00255
+256,2016,Ing. Civil,Ing. Electrica,Alumno 256,aa00256
+257,2016,Ing. Quimica,Ing. Civil,Alumno 257,aa00257
+258,2016,Ing. Electrica,Ing. Industrial,Alumno 258,aa00258
+259,2016,Ing. Mecanica,Ing. Electrica,Alumno 259,aa00259
+260,2016,Ing.Mecanica,Ing. Sistemas,Alumno 260,aa00260
+261,2016,Ing. Industrial,Arquitectura,Alumno 261,aa00261
+262,2016,Ing. Electrica,Ing. Alimentos,Alumno 262,aa00262
+263,2016,Ing. Sistemas,Ing. Sistemas,Alumno 263,aa00263
+264,2016,Arquitectura,Ing. Civil,Alumno 264,aa00264
+265,2017,Ing. Alimentos,Ing. Quimica,Alumno 265,aa00265
+266,2017,Ing. Sistemas,Ing. Electrica,Alumno 266,aa00266
+267,2017,Ing. Civil,Ing. Mecanica,Alumno 267,aa00267
+268,2017,Ing. Quimica,Ing.Mecanica,Alumno 268,aa00268
+269,2017,Ing. Electrica,Ing. Industrial,Alumno 269,aa00269
+270,2017,Ing. Mecanica,Ing. Electrica,Alumno 270,aa00270
+271,2017,Ing.Mecanica,Ing. Civil,Alumno 271,aa00271
+272,2017,Ing. Industrial,Ing. Industrial,Alumno 272,aa00272
+273,2017,Ing. Electrica,Ing. Electrica,Alumno 273,aa00273
+274,2017,Ing. Sistemas,Ing. Sistemas,Alumno 274,aa00274
+275,2017,Arquitectura,Arquitectura,Alumno 275,aa00275
+276,2017,Ing. Alimentos,Ing. Alimentos,Alumno 276,aa00276
+277,2017,Ing. Sistemas,Ing. Sistemas,Alumno 277,aa00277
+278,2017,Ing. Civil,Ing. Civil,Alumno 278,aa00278
+279,2017,Ing. Quimica,Ing. Quimica,Alumno 279,aa00279
+280,2017,Ing. Electrica,Ing. Electrica,Alumno 280,aa00280
+281,2017,Ing. Mecanica,Ing. Mecanica,Alumno 281,aa00281
+282,2017,Ing.Mecanica,Ing.Mecanica,Alumno 282,aa00282
+283,2017,Ing. Industrial,Ing. Industrial,Alumno 283,aa00283
+284,2017,Ing. Electrica,Ing. Electrica,Alumno 284,aa00284
+285,2017,Ing. Sistemas,Ing. Civil,Alumno 285,aa00285
+286,2017,Arquitectura,Ing. Industrial,Alumno 286,aa00286
+287,2017,Ing. Alimentos,Ing. Electrica,Alumno 287,aa00287
+288,2017,Ing. Sistemas,Ing. Sistemas,Alumno 288,aa00288
+289,2017,Ing. Civil,Arquitectura,Alumno 289,aa00289
+290,2017,Ing. Quimica,Ing. Alimentos,Alumno 290,aa00290
+291,2017,Ing. Electrica,Ing. Sistemas,Alumno 291,aa00291
+292,2017,Ing. Mecanica,Ing. Civil,Alumno 292,aa00292
+293,2017,Ing.Mecanica,Ing. Quimica,Alumno 293,aa00293
+294,2017,Ing. Industrial,Ing. Electrica,Alumno 294,aa00294
+295,2017,Ing. Electrica,Ing. Mecanica,Alumno 295,aa00295
+296,2017,Ing. Sistemas,Ing.Mecanica,Alumno 296,aa00296
+297,2017,Arquitectura,Ing. Industrial,Alumno 297,aa00297
+298,2017,Ing. Alimentos,Ing. Electrica,Alumno 298,aa00298
+299,2017,Ing. Sistemas,Ing. Civil,Alumno 299,aa00299
+300,2017,Ing. Civil,Ing. Industrial,Alumno 300,aa00300
+301,2017,Ing. Quimica,Ing. Electrica,Alumno 301,aa00301
+302,2017,Ing. Electrica,Ing. Sistemas,Alumno 302,aa00302
+303,2017,Ing. Mecanica,Arquitectura,Alumno 303,aa00303
+304,2017,Ing.Mecanica,Ing. Alimentos,Alumno 304,aa00304
+305,2017,Ing. Industrial,Ing. Sistemas,Alumno 305,aa00305
+306,2017,Ing. Electrica,Ing. Civil,Alumno 306,aa00306
+307,2017,Ing. Sistemas,Ing. Quimica,Alumno 307,aa00307
+308,2017,Arquitectura,Ing. Electrica,Alumno 308,aa00308
+309,2017,Ing. Alimentos,Ing. Mecanica,Alumno 309,aa00309
+310,2017,Ing. Sistemas,Ing.Mecanica,Alumno 310,aa00310
+311,2017,Ing. Civil,Ing. Industrial,Alumno 311,aa00311
+312,2017,Ing. Quimica,Ing. Electrica,Alumno 312,aa00312
+313,2017,Ing. Electrica,Ing. Civil,Alumno 313,aa00313
+314,2017,Ing. Mecanica,Ing. Industrial,Alumno 314,aa00314
+315,2017,Ing.Mecanica,Ing. Electrica,Alumno 315,aa00315
+316,2017,Ing. Industrial,Ing. Sistemas,Alumno 316,aa00316
+317,2017,Ing. Electrica,Arquitectura,Alumno 317,aa00317
+318,2017,Ing. Sistemas,Ing. Alimentos,Alumno 318,aa00318
+319,2017,Arquitectura,Ing. Sistemas,Alumno 319,aa00319
+320,2017,Ing. Alimentos,Ing. Civil,Alumno 320,aa00320
+321,2017,Ing. Sistemas,Ing. Quimica,Alumno 321,aa00321
+322,2017,Ing. Civil,Ing. Electrica,Alumno 322,aa00322
+323,2017,Ing. Quimica,Ing. Mecanica,Alumno 323,aa00323
+324,2017,Ing. Electrica,Ing.Mecanica,Alumno 324,aa00324
+325,2017,Ing. Mecanica,Ing. Industrial,Alumno 325,aa00325
+326,2017,Ing.Mecanica,Ing. Electrica,Alumno 326,aa00326
+327,2017,Ing. Industrial,Ing. Civil,Alumno 327,aa00327
+328,2017,Ing. Electrica,Ing. Industrial,Alumno 328,aa00328
+329,2017,Ing. Sistemas,Ing. Electrica,Alumno 329,aa00329
+330,2017,Arquitectura,Ing. Sistemas,Alumno 330,aa00330
+331,2017,Ing. Alimentos,Arquitectura,Alumno 331,aa00331
+332,2017,Ing. Sistemas,Ing. Alimentos,Alumno 332,aa00332
+333,2017,Ing. Civil,Ing. Sistemas,Alumno 333,aa00333
+334,2017,Ing. Quimica,Ing. Civil,Alumno 334,aa00334
+335,2017,Ing. Electrica,Ing. Quimica,Alumno 335,aa00335
+336,2017,Ing. Mecanica,Ing. Electrica,Alumno 336,aa00336
+337,2017,Ing.Mecanica,Ing. Mecanica,Alumno 337,aa00337
+338,2017,Ing. Industrial,Ing.Mecanica,Alumno 338,aa00338
+339,2017,Ing. Electrica,Ing. Industrial,Alumno 339,aa00339
+340,2017,Ing. Sistemas,Ing. Electrica,Alumno 340,aa00340
+341,2017,Arquitectura,Ing. Civil,Alumno 341,aa00341
+342,2017,Ing. Alimentos,Ing. Industrial,Alumno 342,aa00342
+343,2017,Ing. Sistemas,Ing. Electrica,Alumno 343,aa00343
+344,2017,Ing. Civil,Ing. Sistemas,Alumno 344,aa00344
+345,2017,Ing. Quimica,Arquitectura,Alumno 345,aa00345
+346,2017,Ing. Electrica,Ing. Alimentos,Alumno 346,aa00346
+347,2017,Ing. Mecanica,Ing. Sistemas,Alumno 347,aa00347
+348,2017,Ing.Mecanica,Ing. Civil,Alumno 348,aa00348
+349,2017,Ing. Industrial,Ing. Quimica,Alumno 349,aa00349
+350,2017,Ing. Electrica,Ing. Electrica,Alumno 350,aa00350
+351,2017,Ing. Sistemas,Ing. Mecanica,Alumno 351,aa00351
+352,2017,Arquitectura,Ing.Mecanica,Alumno 352,aa00352
+353,2017,Ing. Alimentos,Ing. Industrial,Alumno 353,aa00353
+354,2017,Ing. Sistemas,Ing. Electrica,Alumno 354,aa00354
+355,2017,Ing. Civil,Ing. Civil,Alumno 355,aa00355
+356,2017,Ing. Quimica,Ing. Industrial,Alumno 356,aa00356
+357,2017,Ing. Electrica,Ing. Electrica,Alumno 357,aa00357
+358,2017,Ing. Mecanica,Ing. Sistemas,Alumno 358,aa00358
+359,2017,Ing.Mecanica,Arquitectura,Alumno 359,aa00359
+360,2017,Ing. Industrial,Ing. Alimentos,Alumno 360,aa00360
+361,2017,Ing. Electrica,Ing. Sistemas,Alumno 361,aa00361
+362,2017,Ing. Sistemas,Ing. Civil,Alumno 362,aa00362
+363,2017,Arquitectura,Ing. Quimica,Alumno 363,aa00363
+364,2017,Ing. Alimentos,Ing. Electrica,Alumno 364,aa00364
+365,2017,Ing. Sistemas,Ing. Mecanica,Alumno 365,aa00365
+366,2017,Ing. Civil,Ing.Mecanica,Alumno 366,aa00366
+367,2017,Ing. Quimica,Ing. Industrial,Alumno 367,aa00367
+368,2017,Ing. Electrica,Ing. Electrica,Alumno 368,aa00368
+369,2017,Ing. Mecanica,Ing. Civil,Alumno 369,aa00369
+370,2017,Ing.Mecanica,Ing. Industrial,Alumno 370,aa00370
+371,2017,Ing. Industrial,Ing. Electrica,Alumno 371,aa00371
+372,2017,Ing. Electrica,Ing. Sistemas,Alumno 372,aa00372
+373,2017,Ing. Sistemas,Arquitectura,Alumno 373,aa00373
+374,2017,Arquitectura,Ing. Alimentos,Alumno 374,aa00374
+375,2017,Ing. Alimentos,Ing. Sistemas,Alumno 375,aa00375
+376,2017,Ing. Sistemas,Ing. Civil,Alumno 376,aa00376
+377,2017,Ing. Civil,Ing. Quimica,Alumno 377,aa00377
+378,2017,Ing. Quimica,Ing. Electrica,Alumno 378,aa00378
+379,2017,Ing. Electrica,Ing. Mecanica,Alumno 379,aa00379
+380,2017,Ing. Mecanica,Ing.Mecanica,Alumno 380,aa00380
+381,2017,Ing.Mecanica,Ing. Industrial,Alumno 381,aa00381
+382,2017,Ing. Industrial,Ing. Electrica,Alumno 382,aa00382
+383,2017,Ing. Electrica,Ing. Civil,Alumno 383,aa00383
+384,2017,Ing. Sistemas,Ing. Industrial,Alumno 384,aa00384
+385,2017,Arquitectura,Ing. Electrica,Alumno 385,aa00385
+386,2017,Ing. Alimentos,Ing. Sistemas,Alumno 386,aa00386
+387,2017,Ing. Sistemas,Arquitectura,Alumno 387,aa00387
+388,2017,Ing. Civil,Ing. Alimentos,Alumno 388,aa00388
+389,2017,Ing. Quimica,Ing. Sistemas,Alumno 389,aa00389
+390,2017,Ing. Electrica,Ing. Civil,Alumno 390,aa00390
+391,2017,Ing. Mecanica,Ing. Quimica,Alumno 391,aa00391
+392,2017,Ing.Mecanica,Ing. Electrica,Alumno 392,aa00392
+393,2017,Ing. Industrial,Ing. Mecanica,Alumno 393,aa00393
+394,2017,Ing. Electrica,Ing.Mecanica,Alumno 394,aa00394
+395,2017,Ing. Sistemas,Ing. Industrial,Alumno 395,aa00395
+396,2017,Arquitectura,Ing. Electrica,Alumno 396,aa00396
+397,2017,Ing. Alimentos,Ing. Civil,Alumno 397,aa00397
+398,2017,Ing. Sistemas,Ing. Industrial,Alumno 398,aa00398
+399,2017,Ing. Civil,Ing. Electrica,Alumno 399,aa00399
+400,2017,Ing. Quimica,Ing. Sistemas,Alumno 400,aa00400
+401,2017,Ing. Electrica,Arquitectura,Alumno 401,aa00401
+402,2017,Ing. Mecanica,Ing. Alimentos,Alumno 402,aa00402
+403,2017,Ing.Mecanica,Ing. Sistemas,Alumno 403,aa00403
+404,2017,Ing. Industrial,Ing. Civil,Alumno 404,aa00404
+405,2017,Ing. Electrica,Ing. Quimica,Alumno 405,aa00405
+406,2017,Ing. Sistemas,Ing. Electrica,Alumno 406,aa00406
+407,2017,Arquitectura,Ing. Mecanica,Alumno 407,aa00407
+408,2017,Ing. Alimentos,Ing.Mecanica,Alumno 408,aa00408
+409,2017,Ing. Sistemas,Ing. Industrial,Alumno 409,aa00409
+410,2017,Ing. Civil,Ing. Electrica,Alumno 410,aa00410
+411,2017,Ing. Quimica,Ing. Civil,Alumno 411,aa00411
+412,2017,Ing. Electrica,Ing. Industrial,Alumno 412,aa00412
+413,2017,Ing. Mecanica,Ing. Electrica,Alumno 413,aa00413
+414,2017,Ing.Mecanica,Ing. Sistemas,Alumno 414,aa00414
+415,2017,Ing. Industrial,Arquitectura,Alumno 415,aa00415
+416,2017,Ing. Electrica,Ing. Alimentos,Alumno 416,aa00416
+417,2017,Ing. Sistemas,Ing. Sistemas,Alumno 417,aa00417
+418,2017,Arquitectura,Ing. Civil,Alumno 418,aa00418
+419,2017,Ing. Alimentos,Ing. Quimica,Alumno 419,aa00419
+420,2017,Ing. Sistemas,Ing. Electrica,Alumno 420,aa00420
+421,2017,Ing. Civil,Ing. Mecanica,Alumno 421,aa00421
+422,2017,Ing. Quimica,Ing.Mecanica,Alumno 422,aa00422
+423,2017,Ing. Electrica,Ing. Industrial,Alumno 423,aa00423
+424,2017,Ing. Mecanica,Ing. Electrica,Alumno 424,aa00424
+425,2017,Ing.Mecanica,Ing. Civil,Alumno 425,aa00425
+426,2017,Ing. Industrial,Ing. Industrial,Alumno 426,aa00426
+427,2017,Ing. Electrica,Ing. Electrica,Alumno 427,aa00427
+428,2017,Ing. Sistemas,Ing. Sistemas,Alumno 428,aa00428
+429,2017,Arquitectura,Arquitectura,Alumno 429,aa00429
+430,2017,Ing. Alimentos,Ing. Alimentos,Alumno 430,aa00430
+431,2017,Ing. Sistemas,Ing. Sistemas,Alumno 431,aa00431
+432,2017,Ing. Civil,Ing. Civil,Alumno 432,aa00432
+433,2017,Ing. Quimica,Ing. Quimica,Alumno 433,aa00433
+434,2017,Ing. Electrica,Ing. Electrica,Alumno 434,aa00434
+435,2017,Ing. Mecanica,Ing. Mecanica,Alumno 435,aa00435
+436,2017,Ing.Mecanica,Ing.Mecanica,Alumno 436,aa00436
+437,2017,Ing. Industrial,Ing. Industrial,Alumno 437,aa00437
+438,2017,Ing. Electrica,Ing. Electrica,Alumno 438,aa00438
+439,2017,Ing. Sistemas,Ing. Civil,Alumno 439,aa00439
+440,2017,Arquitectura,Ing. Industrial,Alumno 440,aa00440
+441,2017,Ing. Alimentos,Ing. Electrica,Alumno 441,aa00441
+442,2017,Ing. Sistemas,Ing. Sistemas,Alumno 442,aa00442
+443,2017,Ing. Civil,Arquitectura,Alumno 443,aa00443
+444,2017,Ing. Quimica,Ing. Alimentos,Alumno 444,aa00444
+445,2017,Ing. Electrica,Ing. Sistemas,Alumno 445,aa00445
+446,2017,Ing. Mecanica,Ing. Civil,Alumno 446,aa00446
+447,2017,Ing.Mecanica,Ing. Quimica,Alumno 447,aa00447
+448,2017,Ing. Industrial,Ing. Electrica,Alumno 448,aa00448
+449,2017,Ing. Electrica,Ing. Mecanica,Alumno 449,aa00449
+450,2017,Ing. Sistemas,Ing.Mecanica,Alumno 450,aa00450
+451,2017,Arquitectura,Ing. Industrial,Alumno 451,aa00451
+452,2017,Ing. Alimentos,Ing. Electrica,Alumno 452,aa00452
+453,2017,Ing. Sistemas,Ing. Civil,Alumno 453,aa00453
+454,2017,Ing. Civil,Ing. Industrial,Alumno 454,aa00454
+455,2017,Ing. Quimica,Ing. Electrica,Alumno 455,aa00455
+456,2017,Ing. Electrica,Ing. Sistemas,Alumno 456,aa00456
+457,2017,Ing. Mecanica,Arquitectura,Alumno 457,aa00457
+458,2017,Ing.Mecanica,Ing. Alimentos,Alumno 458,aa00458
+459,2017,Ing. Industrial,Ing. Sistemas,Alumno 459,aa00459
+460,2017,Ing. Electrica,Ing. Civil,Alumno 460,aa00460
+461,2017,Ing. Sistemas,Ing. Quimica,Alumno 461,aa00461
+462,2017,Arquitectura,Ing. Electrica,Alumno 462,aa00462
+463,2017,Ing. Alimentos,Ing. Mecanica,Alumno 463,aa00463
+464,2017,Ing. Sistemas,Ing.Mecanica,Alumno 464,aa00464
+465,2017,Ing. Civil,Ing. Industrial,Alumno 465,aa00465
+466,2017,Ing. Quimica,Ing. Electrica,Alumno 466,aa00466
+467,2017,Ing. Electrica,Ing. Civil,Alumno 467,aa00467
+468,2017,Ing. Mecanica,Ing. Industrial,Alumno 468,aa00468
+469,2017,Ing.Mecanica,Ing. Electrica,Alumno 469,aa00469
+470,2017,Ing. Industrial,Ing. Sistemas,Alumno 470,aa00470
+471,2017,Ing. Electrica,Arquitectura,Alumno 471,aa00471
+472,2017,Ing. Sistemas,Ing. Alimentos,Alumno 472,aa00472
+473,2017,Arquitectura,Ing. Sistemas,Alumno 473,aa00473
+474,2017,Ing. Alimentos,Ing. Civil,Alumno 474,aa00474
+475,2017,Ing. Sistemas,Ing. Quimica,Alumno 475,aa00475
+476,2017,Ing. Civil,Ing. Electrica,Alumno 476,aa00476
+477,2017,Ing. Quimica,Ing. Mecanica,Alumno 477,aa00477
+478,2017,Ing. Electrica,Ing.Mecanica,Alumno 478,aa00478
+479,2017,Ing. Mecanica,Ing. Industrial,Alumno 479,aa00479
+480,2017,Ing.Mecanica,Ing. Electrica,Alumno 480,aa00480
+481,2017,Ing. Industrial,Ing. Civil,Alumno 481,aa00481
+482,2017,Ing. Electrica,Ing. Industrial,Alumno 482,aa00482
+483,2017,Ing. Sistemas,Ing. Electrica,Alumno 483,aa00483
+484,2017,Arquitectura,Ing. Sistemas,Alumno 484,aa00484
+485,2017,Ing. Alimentos,Arquitectura,Alumno 485,aa00485
+486,2017,Ing. Sistemas,Ing. Alimentos,Alumno 486,aa00486
+487,2017,Ing. Civil,Ing. Sistemas,Alumno 487,aa00487
+488,2017,Ing. Quimica,Ing. Civil,Alumno 488,aa00488
+489,2017,Ing. Electrica,Ing. Quimica,Alumno 489,aa00489
+490,2017,Ing. Mecanica,Ing. Electrica,Alumno 490,aa00490
+491,2017,Ing.Mecanica,Ing. Mecanica,Alumno 491,aa00491
+492,2017,Ing. Industrial,Ing.Mecanica,Alumno 492,aa00492
+493,2017,Ing. Electrica,Ing. Industrial,Alumno 493,aa00493
+494,2017,Ing. Sistemas,Ing. Electrica,Alumno 494,aa00494
+495,2017,Arquitectura,Ing. Civil,Alumno 495,aa00495
+496,2017,Ing. Alimentos,Ing. Industrial,Alumno 496,aa00496
+497,2017,Ing. Sistemas,Ing. Electrica,Alumno 497,aa00497
+498,2017,Ing. Civil,Ing. Sistemas,Alumno 498,aa00498
+499,2017,Ing. Quimica,Arquitectura,Alumno 499,aa00499
+500,2017,Ing. Electrica,Ing. Alimentos,Alumno 500,aa00500
+501,2017,Ing. Mecanica,Ing. Sistemas,Alumno 501,aa00501
+502,2017,Ing.Mecanica,Ing. Civil,Alumno 502,aa00502
+503,2017,Ing. Industrial,Ing. Quimica,Alumno 503,aa00503
+504,2017,Ing. Electrica,Ing. Electrica,Alumno 504,aa00504
+505,2017,Ing. Sistemas,Ing. Mecanica,Alumno 505,aa00505
+506,2017,Arquitectura,Ing.Mecanica,Alumno 506,aa00506
+507,2017,Ing. Alimentos,Ing. Industrial,Alumno 507,aa00507
+508,2017,Ing. Sistemas,Ing. Electrica,Alumno 508,aa00508
+509,2017,Ing. Civil,Ing. Civil,Alumno 509,aa00509
+510,2017,Ing. Quimica,Ing. Industrial,Alumno 510,aa00510
+511,2017,Ing. Electrica,Ing. Electrica,Alumno 511,aa00511
+512,2017,Ing. Mecanica,Ing. Sistemas,Alumno 512,aa00512
+513,2015,Ing.Mecanica,Arquitectura,Alumno 513,aa00513
+514,2015,Ing. Industrial,Ing. Alimentos,Alumno 514,aa00514
+515,2015,Ing. Electrica,Ing. Sistemas,Alumno 515,aa00515
+516,2015,Ing. Sistemas,Ing. Civil,Alumno 516,aa00516
+517,2015,Arquitectura,Ing. Quimica,Alumno 517,aa00517
+518,2015,Ing. Alimentos,Ing. Electrica,Alumno 518,aa00518
+519,2015,Ing. Sistemas,Ing. Mecanica,Alumno 519,aa00519
+520,2015,Ing. Civil,Ing.Mecanica,Alumno 520,aa00520
+521,2015,Ing. Quimica,Ing. Industrial,Alumno 521,aa00521
+522,2015,Ing. Electrica,Ing. Electrica,Alumno 522,aa00522
+523,2015,Ing. Mecanica,Ing. Civil,Alumno 523,aa00523
+524,2015,Ing.Mecanica,Ing. Industrial,Alumno 524,aa00524
+525,2015,Ing. Industrial,Ing. Electrica,Alumno 525,aa00525
+526,2015,Ing. Electrica,Ing. Sistemas,Alumno 526,aa00526
+527,2015,Ing. Sistemas,Arquitectura,Alumno 527,aa00527
+528,2015,Arquitectura,Ing. Alimentos,Alumno 528,aa00528
+529,2015,Ing. Alimentos,Ing. Sistemas,Alumno 529,aa00529
+530,2015,Ing. Sistemas,Ing. Civil,Alumno 530,aa00530
+531,2015,Ing. Civil,Ing. Quimica,Alumno 531,aa00531
+532,2015,Ing. Quimica,Ing. Electrica,Alumno 532,aa00532
+533,2015,Ing. Electrica,Ing. Mecanica,Alumno 533,aa00533
+534,2015,Ing. Mecanica,Ing.Mecanica,Alumno 534,aa00534
+535,2015,Ing.Mecanica,Ing. Industrial,Alumno 535,aa00535
+536,2015,Ing. Industrial,Ing. Electrica,Alumno 536,aa00536
+537,2015,Ing. Electrica,Ing. Civil,Alumno 537,aa00537
+538,2015,Ing. Sistemas,Ing. Industrial,Alumno 538,aa00538
+539,2015,Arquitectura,Ing. Electrica,Alumno 539,aa00539
+540,2015,Ing. Alimentos,Ing. Sistemas,Alumno 540,aa00540
+541,2015,Ing. Sistemas,Arquitectura,Alumno 541,aa00541
+542,2015,Ing. Civil,Ing. Alimentos,Alumno 542,aa00542
+543,2015,Ing. Quimica,Ing. Sistemas,Alumno 543,aa00543
+544,2015,Ing. Electrica,Ing. Civil,Alumno 544,aa00544
+545,2015,Ing. Mecanica,Ing. Quimica,Alumno 545,aa00545
+546,2015,Ing.Mecanica,Ing. Electrica,Alumno 546,aa00546
+547,2015,Ing. Industrial,Ing. Mecanica,Alumno 547,aa00547
+548,2015,Ing. Electrica,Ing.Mecanica,Alumno 548,aa00548
+549,2015,Ing. Sistemas,Ing. Industrial,Alumno 549,aa00549
+550,2015,Arquitectura,Ing. Electrica,Alumno 550,aa00550
+551,2015,Ing. Alimentos,Ing. Civil,Alumno 551,aa00551
+552,2015,Ing. Sistemas,Ing. Industrial,Alumno 552,aa00552
+553,2015,Ing. Civil,Ing. Electrica,Alumno 553,aa00553
+554,2015,Ing. Quimica,Ing. Sistemas,Alumno 554,aa00554
+555,2015,Ing. Electrica,Arquitectura,Alumno 555,aa00555
+556,2015,Ing. Mecanica,Ing. Alimentos,Alumno 556,aa00556
+557,2015,Ing.Mecanica,Ing. Sistemas,Alumno 557,aa00557
+558,2015,Ing. Industrial,Ing. Civil,Alumno 558,aa00558
+559,2015,Ing. Electrica,Ing. Quimica,Alumno 559,aa00559
+560,2015,Ing. Sistemas,Ing. Electrica,Alumno 560,aa00560
+561,2015,Arquitectura,Ing. Mecanica,Alumno 561,aa00561
+562,2015,Ing. Alimentos,Ing.Mecanica,Alumno 562,aa00562
+563,2015,Ing. Sistemas,Ing. Industrial,Alumno 563,aa00563
+564,2015,Ing. Civil,Ing. Electrica,Alumno 564,aa00564
+565,2015,Ing. Quimica,Ing. Civil,Alumno 565,aa00565
+566,2015,Ing. Electrica,Ing. Industrial,Alumno 566,aa00566
+567,2015,Ing. Mecanica,Ing. Electrica,Alumno 567,aa00567
+568,2015,Ing.Mecanica,Ing. Sistemas,Alumno 568,aa00568
+569,2015,Ing. Industrial,Arquitectura,Alumno 569,aa00569
+570,2015,Ing. Electrica,Ing. Alimentos,Alumno 570,aa00570
+571,2015,Ing. Sistemas,Ing. Sistemas,Alumno 571,aa00571
+572,2015,Arquitectura,Ing. Civil,Alumno 572,aa00572
+573,2015,Ing. Alimentos,Ing. Quimica,Alumno 573,aa00573
+574,2015,Ing. Sistemas,Ing. Electrica,Alumno 574,aa00574
+575,2015,Ing. Civil,Ing. Mecanica,Alumno 575,aa00575
+576,2015,Ing. Quimica,Ing.Mecanica,Alumno 576,aa00576
+577,2015,Ing. Electrica,Ing. Industrial,Alumno 577,aa00577
+578,2015,Ing. Mecanica,Ing. Electrica,Alumno 578,aa00578
+579,2015,Ing.Mecanica,Ing. Civil,Alumno 579,aa00579
+580,2015,Ing. Industrial,Ing. Industrial,Alumno 580,aa00580
+581,2015,Ing. Electrica,Ing. Electrica,Alumno 581,aa00581
+582,2015,Ing. Sistemas,Ing. Sistemas,Alumno 582,aa00582
+583,2015,Arquitectura,Arquitectura,Alumno 583,aa00583
+584,2015,Ing. Alimentos,Ing. Alimentos,Alumno 584,aa00584
+585,2015,Ing. Sistemas,Ing. Sistemas,Alumno 585,aa00585
+586,2015,Ing. Civil,Ing. Civil,Alumno 586,aa00586
+587,2015,Ing. Quimica,Ing. Quimica,Alumno 587,aa00587
+588,2015,Ing. Electrica,Ing. Electrica,Alumno 588,aa00588
+589,2015,Ing. Mecanica,Ing. Mecanica,Alumno 589,aa00589
+590,2015,Ing.Mecanica,Ing.Mecanica,Alumno 590,aa00590
+591,2015,Ing. Industrial,Ing. Industrial,Alumno 591,aa00591
+592,2015,Ing. Electrica,Ing. Electrica,Alumno 592,aa00592
+593,2015,Ing. Sistemas,Ing. Civil,Alumno 593,aa00593
+594,2015,Arquitectura,Ing. Industrial,Alumno 594,aa00594
+595,2015,Ing. Alimentos,Ing. Electrica,Alumno 595,aa00595
+596,2015,Ing. Sistemas,Ing. Sistemas,Alumno 596,aa00596
+597,2015,Ing. Civil,Arquitectura,Alumno 597,aa00597
+598,2015,Ing. Quimica,Ing. Alimentos,Alumno 598,aa00598
+599,2015,Ing. Electrica,Ing. Sistemas,Alumno 599,aa00599
+600,2015,Ing. Mecanica,Ing. Civil,Alumno 600,aa00600
+601,2015,Ing.Mecanica,Ing. Quimica,Alumno 601,aa00601
+602,2015,Ing. Industrial,Ing. Electrica,Alumno 602,aa00602
+603,2015,Ing. Electrica,Ing. Mecanica,Alumno 603,aa00603
+604,2015,Ing. Sistemas,Ing.Mecanica,Alumno 604,aa00604
+605,2015,Arquitectura,Ing. Industrial,Alumno 605,aa00605
+606,2015,Ing. Alimentos,Ing. Electrica,Alumno 606,aa00606
+607,2015,Ing. Sistemas,Ing. Civil,Alumno 607,aa00607
+608,2015,Ing. Civil,Ing. Industrial,Alumno 608,aa00608
+609,2015,Ing. Quimica,Ing. Electrica,Alumno 609,aa00609
+610,2015,Ing. Electrica,Ing. Sistemas,Alumno 610,aa00610
+611,2015,Ing. Mecanica,Arquitectura,Alumno 611,aa00611
+612,2015,Ing.Mecanica,Ing. Alimentos,Alumno 612,aa00612
+613,2015,Ing. Industrial,Ing. Sistemas,Alumno 613,aa00613
+614,2015,Ing. Electrica,Ing. Civil,Alumno 614,aa00614
+615,2015,Ing. Sistemas,Ing. Quimica,Alumno 615,aa00615
+616,2015,Arquitectura,Ing. Electrica,Alumno 616,aa00616
+617,2015,Ing. Alimentos,Ing. Mecanica,Alumno 617,aa00617
+618,2015,Ing. Sistemas,Ing.Mecanica,Alumno 618,aa00618
+619,2015,Ing. Civil,Ing. Industrial,Alumno 619,aa00619
+620,2015,Ing. Quimica,Ing. Electrica,Alumno 620,aa00620
+621,2015,Ing. Electrica,Ing. Civil,Alumno 621,aa00621
+622,2015,Ing. Mecanica,Ing. Industrial,Alumno 622,aa00622
+623,2015,Ing.Mecanica,Ing. Electrica,Alumno 623,aa00623
+624,2015,Ing. Industrial,Ing. Sistemas,Alumno 624,aa00624
+625,2015,Ing. Electrica,Arquitectura,Alumno 625,aa00625
+626,2015,Ing. Sistemas,Ing. Alimentos,Alumno 626,aa00626
+627,2015,Arquitectura,Ing. Sistemas,Alumno 627,aa00627
+628,2015,Ing. Alimentos,Ing. Civil,Alumno 628,aa00628
+629,2015,Ing. Sistemas,Ing. Quimica,Alumno 629,aa00629
+630,2015,Ing. Civil,Ing. Electrica,Alumno 630,aa00630
+631,2015,Ing. Quimica,Ing. Mecanica,Alumno 631,aa00631
+632,2015,Ing. Electrica,Ing.Mecanica,Alumno 632,aa00632
+633,2015,Ing. Mecanica,Ing. Industrial,Alumno 633,aa00633
+634,2015,Ing.Mecanica,Ing. Electrica,Alumno 634,aa00634
+635,2015,Ing. Industrial,Ing. Civil,Alumno 635,aa00635
+636,2015,Ing. Electrica,Ing. Industrial,Alumno 636,aa00636
+637,2015,Ing. Sistemas,Ing. Electrica,Alumno 637,aa00637
+638,2015,Arquitectura,Ing. Sistemas,Alumno 638,aa00638
+639,2015,Ing. Alimentos,Arquitectura,Alumno 639,aa00639
+640,2015,Ing. Sistemas,Ing. Alimentos,Alumno 640,aa00640
+641,2015,Ing. Civil,Ing. Sistemas,Alumno 641,aa00641
+642,2015,Ing. Quimica,Ing. Civil,Alumno 642,aa00642
+643,2015,Ing. Electrica,Ing. Quimica,Alumno 643,aa00643
+644,2015,Ing. Mecanica,Ing. Electrica,Alumno 644,aa00644
+645,2015,Ing.Mecanica,Ing. Mecanica,Alumno 645,aa00645
+646,2015,Ing. Industrial,Ing.Mecanica,Alumno 646,aa00646
+647,2015,Ing. Electrica,Ing. Industrial,Alumno 647,aa00647
+648,2015,Ing. Sistemas,Ing. Electrica,Alumno 648,aa00648
+649,2015,Arquitectura,Ing. Civil,Alumno 649,aa00649
+650,2015,Ing. Alimentos,Ing. Industrial,Alumno 650,aa00650
+651,2015,Ing. Sistemas,Ing. Electrica,Alumno 651,aa00651
+652,2015,Ing. Civil,Ing. Sistemas,Alumno 652,aa00652
+653,2015,Ing. Quimica,Arquitectura,Alumno 653,aa00653
+654,2015,Ing. Electrica,Ing. Alimentos,Alumno 654,aa00654
+655,2015,Ing. Mecanica,Ing. Sistemas,Alumno 655,aa00655
+656,2015,Ing.Mecanica,Ing. Civil,Alumno 656,aa00656
+657,2015,Ing. Industrial,Ing. Quimica,Alumno 657,aa00657
+658,2015,Ing. Electrica,Ing. Electrica,Alumno 658,aa00658
+659,2015,Ing. Sistemas,Ing. Mecanica,Alumno 659,aa00659
+660,2015,Arquitectura,Ing.Mecanica,Alumno 660,aa00660
+661,2015,Ing. Alimentos,Ing. Industrial,Alumno 661,aa00661
+662,2015,Ing. Sistemas,Ing. Electrica,Alumno 662,aa00662
+663,2015,Ing. Civil,Ing. Civil,Alumno 663,aa00663
+664,2015,Ing. Quimica,Ing. Industrial,Alumno 664,aa00664
+665,2015,Ing. Electrica,Ing. Electrica,Alumno 665,aa00665
+666,2015,Ing. Mecanica,Ing. Sistemas,Alumno 666,aa00666
+667,2015,Ing.Mecanica,Arquitectura,Alumno 667,aa00667
+668,2015,Ing. Industrial,Ing. Alimentos,Alumno 668,aa00668
+669,2015,Ing. Electrica,Ing. Sistemas,Alumno 669,aa00669
+670,2015,Ing. Sistemas,Ing. Civil,Alumno 670,aa00670
+671,2015,Arquitectura,Ing. Quimica,Alumno 671,aa00671
+672,2015,Ing. Alimentos,Ing. Electrica,Alumno 672,aa00672
+673,2015,Ing. Sistemas,Ing. Mecanica,Alumno 673,aa00673
+674,2015,Ing. Civil,Ing.Mecanica,Alumno 674,aa00674
+675,2015,Ing. Quimica,Ing. Industrial,Alumno 675,aa00675
+676,2015,Ing. Electrica,Ing. Electrica,Alumno 676,aa00676
+677,2015,Ing. Mecanica,Ing. Civil,Alumno 677,aa00677
+678,2015,Ing.Mecanica,Ing. Industrial,Alumno 678,aa00678
+679,2015,Ing. Industrial,Ing. Electrica,Alumno 679,aa00679
+680,2015,Ing. Electrica,Ing. Sistemas,Alumno 680,aa00680
+681,2015,Ing. Sistemas,Arquitectura,Alumno 681,aa00681
+682,2015,Arquitectura,Ing. Alimentos,Alumno 682,aa00682
+683,2015,Ing. Alimentos,Ing. Sistemas,Alumno 683,aa00683
+684,2015,Ing. Sistemas,Ing. Civil,Alumno 684,aa00684
+685,2015,Ing. Civil,Ing. Quimica,Alumno 685,aa00685
+686,2015,Ing. Quimica,Ing. Electrica,Alumno 686,aa00686
+687,2015,Ing. Electrica,Ing. Mecanica,Alumno 687,aa00687
+688,2015,Ing. Mecanica,Ing.Mecanica,Alumno 688,aa00688
+689,2015,Ing.Mecanica,Ing. Industrial,Alumno 689,aa00689
+690,2015,Ing. Industrial,Ing. Electrica,Alumno 690,aa00690
+691,2015,Ing. Electrica,Ing. Civil,Alumno 691,aa00691
+692,2015,Ing. Sistemas,Ing. Industrial,Alumno 692,aa00692
+693,2015,Arquitectura,Ing. Electrica,Alumno 693,aa00693
+694,2015,Ing. Alimentos,Ing. Sistemas,Alumno 694,aa00694
+695,2015,Ing. Sistemas,Arquitectura,Alumno 695,aa00695
+696,2015,Ing. Civil,Ing. Alimentos,Alumno 696,aa00696
+697,2015,Ing. Quimica,Ing. Sistemas,Alumno 697,aa00697
+698,2015,Ing. Electrica,Ing. Civil,Alumno 698,aa00698
+699,2015,Ing. Mecanica,Ing. Quimica,Alumno 699,aa00699
+700,2015,Ing.Mecanica,Ing. Electrica,Alumno 700,aa00700
+701,2016,Ing. Industrial,Ing. Mecanica,Alumno 701,aa00701
+702,2016,Ing. Electrica,Ing.Mecanica,Alumno 702,aa00702
+703,2016,Ing. Sistemas,Ing. Industrial,Alumno 703,aa00703
+704,2016,Arquitectura,Ing. Electrica,Alumno 704,aa00704
+705,2016,Ing. Alimentos,Ing. Civil,Alumno 705,aa00705
+706,2016,Ing. Sistemas,Ing. Industrial,Alumno 706,aa00706
+707,2016,Ing. Civil,Ing. Electrica,Alumno 707,aa00707
+708,2016,Ing. Quimica,Ing. Sistemas,Alumno 708,aa00708
+709,2016,Ing. Electrica,Arquitectura,Alumno 709,aa00709
+710,2016,Ing. Mecanica,Ing. Alimentos,Alumno 710,aa00710
+711,2016,Ing.Mecanica,Ing. Sistemas,Alumno 711,aa00711
+712,2016,Ing. Industrial,Ing. Civil,Alumno 712,aa00712
+713,2016,Ing. Electrica,Ing. Quimica,Alumno 713,aa00713
+714,2016,Ing. Sistemas,Ing. Electrica,Alumno 714,aa00714
+715,2016,Arquitectura,Ing. Mecanica,Alumno 715,aa00715
+716,2016,Ing. Alimentos,Ing.Mecanica,Alumno 716,aa00716
+717,2016,Ing. Sistemas,Ing. Industrial,Alumno 717,aa00717
+718,2016,Ing. Civil,Ing. Electrica,Alumno 718,aa00718
+719,2016,Ing. Quimica,Ing. Civil,Alumno 719,aa00719
+720,2016,Ing. Electrica,Ing. Industrial,Alumno 720,aa00720
+721,2016,Ing. Mecanica,Ing. Electrica,Alumno 721,aa00721
+722,2016,Ing.Mecanica,Ing. Sistemas,Alumno 722,aa00722
+723,2016,Ing. Industrial,Arquitectura,Alumno 723,aa00723
+724,2016,Ing. Electrica,Ing. Alimentos,Alumno 724,aa00724
+725,2016,Ing. Sistemas,Ing. Sistemas,Alumno 725,aa00725
+726,2016,Arquitectura,Ing. Civil,Alumno 726,aa00726
+727,2016,Ing. Alimentos,Ing. Quimica,Alumno 727,aa00727
+728,2016,Ing. Sistemas,Ing. Electrica,Alumno 728,aa00728
+729,2016,Ing. Civil,Ing. Mecanica,Alumno 729,aa00729
+730,2016,Ing. Quimica,Ing.Mecanica,Alumno 730,aa00730
+731,2016,Ing. Electrica,Ing. Industrial,Alumno 731,aa00731
+732,2016,Ing. Mecanica,Ing. Electrica,Alumno 732,aa00732
+733,2016,Ing.Mecanica,Ing. Civil,Alumno 733,aa00733
+734,2016,Ing. Industrial,Ing. Industrial,Alumno 734,aa00734
+735,2016,Ing. Electrica,Ing. Electrica,Alumno 735,aa00735
+736,2016,Ing. Sistemas,Ing. Sistemas,Alumno 736,aa00736
+737,2016,Arquitectura,Arquitectura,Alumno 737,aa00737
+738,2016,Ing. Alimentos,Ing. Alimentos,Alumno 738,aa00738
+739,2016,Ing. Sistemas,Ing. Sistemas,Alumno 739,aa00739
+740,2016,Ing. Civil,Ing. Civil,Alumno 740,aa00740
+741,2016,Ing. Quimica,Ing. Quimica,Alumno 741,aa00741
+742,2016,Ing. Electrica,Ing. Electrica,Alumno 742,aa00742
+743,2016,Ing. Mecanica,Ing. Mecanica,Alumno 743,aa00743
+744,2016,Ing.Mecanica,Ing.Mecanica,Alumno 744,aa00744
+745,2016,Ing. Industrial,Ing. Industrial,Alumno 745,aa00745
+746,2016,Ing. Electrica,Ing. Electrica,Alumno 746,aa00746
+747,2016,Ing. Sistemas,Ing. Civil,Alumno 747,aa00747
+748,2016,Arquitectura,Ing. Industrial,Alumno 748,aa00748
+749,2016,Ing. Alimentos,Ing. Electrica,Alumno 749,aa00749
+750,2016,Ing. Sistemas,Ing. Sistemas,Alumno 750,aa00750
+751,2016,Ing. Civil,Arquitectura,Alumno 751,aa00751
+752,2016,Ing. Quimica,Ing. Alimentos,Alumno 752,aa00752
+753,2016,Ing. Electrica,Ing. Sistemas,Alumno 753,aa00753
+754,2016,Ing. Mecanica,Ing. Civil,Alumno 754,aa00754
+755,2016,Ing.Mecanica,Ing. Quimica,Alumno 755,aa00755
+756,2016,Ing. Industrial,Ing. Electrica,Alumno 756,aa00756
+757,2016,Ing. Electrica,Ing. Mecanica,Alumno 757,aa00757
+758,2016,Ing. Sistemas,Ing.Mecanica,Alumno 758,aa00758
+759,2016,Arquitectura,Ing. Industrial,Alumno 759,aa00759
+760,2016,Ing. Alimentos,Ing. Electrica,Alumno 760,aa00760
+761,2016,Ing. Sistemas,Ing. Civil,Alumno 761,aa00761
+762,2016,Ing. Civil,Ing. Industrial,Alumno 762,aa00762
+763,2016,Ing. Quimica,Ing. Electrica,Alumno 763,aa00763
+764,2016,Ing. Electrica,Ing. Sistemas,Alumno 764,aa00764
+765,2016,Ing. Mecanica,Arquitectura,Alumno 765,aa00765
+766,2016,Ing.Mecanica,Ing. Alimentos,Alumno 766,aa00766
+767,2016,Ing. Industrial,Ing. Sistemas,Alumno 767,aa00767
+768,2016,Ing. Electrica,Ing. Civil,Alumno 768,aa00768
+769,2016,Ing. Sistemas,Ing. Quimica,Alumno 769,aa00769
+770,2016,Arquitectura,Ing. Electrica,Alumno 770,aa00770
+771,2016,Ing. Alimentos,Ing. Mecanica,Alumno 771,aa00771
+772,2016,Ing. Sistemas,Ing.Mecanica,Alumno 772,aa00772
+773,2016,Ing. Civil,Ing. Industrial,Alumno 773,aa00773
+774,2016,Ing. Quimica,Ing. Electrica,Alumno 774,aa00774
+775,2016,Ing. Electrica,Ing. Civil,Alumno 775,aa00775
+776,2016,Ing. Mecanica,Ing. Industrial,Alumno 776,aa00776
+777,2016,Ing.Mecanica,Ing. Electrica,Alumno 777,aa00777
+778,2016,Ing. Industrial,Ing. Sistemas,Alumno 778,aa00778
+779,2016,Ing. Electrica,Arquitectura,Alumno 779,aa00779
+780,2016,Ing. Sistemas,Ing. Alimentos,Alumno 780,aa00780
+781,2016,Arquitectura,Ing. Sistemas,Alumno 781,aa00781
+782,2016,Ing. Alimentos,Ing. Civil,Alumno 782,aa00782
+783,2016,Ing. Sistemas,Ing. Quimica,Alumno 783,aa00783
+784,2016,Ing. Civil,Ing. Electrica,Alumno 784,aa00784
+785,2016,Ing. Quimica,Ing. Mecanica,Alumno 785,aa00785
+786,2016,Ing. Electrica,Ing.Mecanica,Alumno 786,aa00786
+787,2016,Ing. Mecanica,Ing. Industrial,Alumno 787,aa00787
+788,2016,Ing.Mecanica,Ing. Electrica,Alumno 788,aa00788
+789,2016,Ing. Industrial,Ing. Civil,Alumno 789,aa00789
+790,2016,Ing. Electrica,Ing. Industrial,Alumno 790,aa00790
+791,2016,Ing. Sistemas,Ing. Electrica,Alumno 791,aa00791
+792,2016,Arquitectura,Ing. Sistemas,Alumno 792,aa00792
+793,2016,Ing. Alimentos,Arquitectura,Alumno 793,aa00793
+794,2016,Ing. Sistemas,Ing. Alimentos,Alumno 794,aa00794
+795,2016,Ing. Civil,Ing. Sistemas,Alumno 795,aa00795
+796,2016,Ing. Quimica,Ing. Civil,Alumno 796,aa00796
+797,2016,Ing. Electrica,Ing. Quimica,Alumno 797,aa00797
+798,2016,Ing. Mecanica,Ing. Electrica,Alumno 798,aa00798
+799,2016,Ing.Mecanica,Ing. Mecanica,Alumno 799,aa00799
+800,2016,Ing. Industrial,Ing.Mecanica,Alumno 800,aa00800
+801,2016,Ing. Electrica,Ing. Industrial,Alumno 801,aa00801
+802,2016,Ing. Sistemas,Ing. Electrica,Alumno 802,aa00802
+803,2016,Arquitectura,Ing. Civil,Alumno 803,aa00803
+804,2016,Ing. Alimentos,Ing. Industrial,Alumno 804,aa00804
+805,2016,Ing. Sistemas,Ing. Electrica,Alumno 805,aa00805
+806,2016,Ing. Civil,Ing. Sistemas,Alumno 806,aa00806
+807,2016,Ing. Quimica,Arquitectura,Alumno 807,aa00807
+808,2016,Ing. Electrica,Ing. Alimentos,Alumno 808,aa00808
+809,2016,Ing. Mecanica,Ing. Sistemas,Alumno 809,aa00809
+810,2016,Ing.Mecanica,Ing. Civil,Alumno 810,aa00810
+811,2016,Ing. Industrial,Ing. Quimica,Alumno 811,aa00811
+812,2016,Ing. Electrica,Ing. Electrica,Alumno 812,aa00812
+813,2016,Ing. Sistemas,Ing. Mecanica,Alumno 813,aa00813
+814,2016,Arquitectura,Ing.Mecanica,Alumno 814,aa00814
+815,2016,Ing. Alimentos,Ing. Industrial,Alumno 815,aa00815
+816,2016,Ing. Sistemas,Ing. Electrica,Alumno 816,aa00816
+817,2016,Ing. Civil,Ing. Civil,Alumno 817,aa00817
+818,2016,Ing. Quimica,Ing. Industrial,Alumno 818,aa00818
+819,2016,Ing. Electrica,Ing. Electrica,Alumno 819,aa00819
+820,2016,Ing. Mecanica,Ing. Sistemas,Alumno 820,aa00820
+821,2016,Ing.Mecanica,Arquitectura,Alumno 821,aa00821
+822,2016,Ing. Industrial,Ing. Alimentos,Alumno 822,aa00822
+823,2016,Ing. Electrica,Ing. Sistemas,Alumno 823,aa00823
+824,2016,Ing. Sistemas,Ing. Civil,Alumno 824,aa00824
+825,2016,Arquitectura,Ing. Quimica,Alumno 825,aa00825
+826,2016,Ing. Alimentos,Ing. Electrica,Alumno 826,aa00826
+827,2016,Ing. Sistemas,Ing. Mecanica,Alumno 827,aa00827
+828,2016,Ing. Civil,Ing.Mecanica,Alumno 828,aa00828
+829,2016,Ing. Quimica,Ing. Industrial,Alumno 829,aa00829
+830,2016,Ing. Electrica,Ing. Electrica,Alumno 830,aa00830
+831,2016,Ing. Mecanica,Ing. Civil,Alumno 831,aa00831
+832,2016,Ing.Mecanica,Ing. Industrial,Alumno 832,aa00832
+833,2016,Ing. Industrial,Ing. Electrica,Alumno 833,aa00833
+834,2016,Ing. Electrica,Ing. Sistemas,Alumno 834,aa00834
+835,2016,Ing. Sistemas,Arquitectura,Alumno 835,aa00835
+836,2016,Arquitectura,Ing. Alimentos,Alumno 836,aa00836
+837,2016,Ing. Alimentos,Ing. Sistemas,Alumno 837,aa00837
+838,2016,Ing. Sistemas,Ing. Civil,Alumno 838,aa00838
+839,2016,Ing. Civil,Ing. Quimica,Alumno 839,aa00839
+840,2016,Ing. Quimica,Ing. Electrica,Alumno 840,aa00840
+841,2016,Ing. Electrica,Ing. Mecanica,Alumno 841,aa00841
+842,2016,Ing. Mecanica,Ing.Mecanica,Alumno 842,aa00842
+843,2016,Ing.Mecanica,Ing. Industrial,Alumno 843,aa00843
+844,2016,Ing. Industrial,Ing. Electrica,Alumno 844,aa00844
+845,2016,Ing. Electrica,Ing. Civil,Alumno 845,aa00845
+846,2016,Ing. Sistemas,Ing. Industrial,Alumno 846,aa00846
+847,2016,Arquitectura,Ing. Electrica,Alumno 847,aa00847
+848,2016,Ing. Alimentos,Ing. Sistemas,Alumno 848,aa00848
+849,2016,Ing. Sistemas,Arquitectura,Alumno 849,aa00849
+850,2016,Ing. Civil,Ing. Alimentos,Alumno 850,aa00850
+851,2016,Ing. Quimica,Ing. Sistemas,Alumno 851,aa00851
+852,2016,Ing. Electrica,Ing. Civil,Alumno 852,aa00852
+853,2016,Ing. Mecanica,Ing. Quimica,Alumno 853,aa00853
+854,2016,Ing.Mecanica,Ing. Electrica,Alumno 854,aa00854
+855,2016,Ing. Industrial,Ing. Mecanica,Alumno 855,aa00855
+856,2016,Ing. Electrica,Ing.Mecanica,Alumno 856,aa00856
+857,2016,Ing. Sistemas,Ing. Industrial,Alumno 857,aa00857
+858,2016,Arquitectura,Ing. Electrica,Alumno 858,aa00858
+859,2016,Ing. Alimentos,Ing. Civil,Alumno 859,aa00859
+860,2016,Ing. Sistemas,Ing. Industrial,Alumno 860,aa00860
+861,2016,Ing. Civil,Ing. Electrica,Alumno 861,aa00861
+862,2016,Ing. Quimica,Ing. Sistemas,Alumno 862,aa00862
+863,2016,Ing. Electrica,Arquitectura,Alumno 863,aa00863
+864,2016,Ing. Mecanica,Ing. Alimentos,Alumno 864,aa00864
+865,2016,Ing.Mecanica,Ing. Sistemas,Alumno 865,aa00865
+866,2016,Ing. Industrial,Ing. Civil,Alumno 866,aa00866
+867,2016,Ing. Electrica,Ing. Quimica,Alumno 867,aa00867
+868,2016,Ing. Sistemas,Ing. Electrica,Alumno 868,aa00868
+869,2016,Arquitectura,Ing. Mecanica,Alumno 869,aa00869
+870,2016,Ing. Alimentos,Ing.Mecanica,Alumno 870,aa00870
+871,2016,Ing. Sistemas,Ing. Industrial,Alumno 871,aa00871
+872,2016,Ing. Civil,Ing. Electrica,Alumno 872,aa00872
+873,2016,Ing. Quimica,Ing. Civil,Alumno 873,aa00873
+874,2016,Ing. Electrica,Ing. Industrial,Alumno 874,aa00874
+875,2016,Ing. Mecanica,Ing. Electrica,Alumno 875,aa00875
+876,2016,Ing.Mecanica,Ing. Sistemas,Alumno 876,aa00876
+877,2016,Ing. Industrial,Arquitectura,Alumno 877,aa00877
+878,2016,Ing. Electrica,Ing. Alimentos,Alumno 878,aa00878
+879,2016,Ing. Sistemas,Ing. Sistemas,Alumno 879,aa00879
+880,2016,Arquitectura,Ing. Civil,Alumno 880,aa00880
+881,2016,Ing. Alimentos,Ing. Quimica,Alumno 881,aa00881
+882,2016,Ing. Sistemas,Ing. Electrica,Alumno 882,aa00882
+883,2016,Ing. Civil,Ing. Mecanica,Alumno 883,aa00883
+884,2016,Ing. Quimica,Ing.Mecanica,Alumno 884,aa00884
+885,2016,Ing. Electrica,Ing. Industrial,Alumno 885,aa00885
+886,2016,Ing. Mecanica,Ing. Electrica,Alumno 886,aa00886
+887,2016,Ing.Mecanica,Ing. Civil,Alumno 887,aa00887
+888,2016,Ing. Industrial,Ing. Industrial,Alumno 888,aa00888
+889,2016,Ing. Electrica,Ing. Electrica,Alumno 889,aa00889
+890,2016,Ing. Sistemas,Ing. Sistemas,Alumno 890,aa00890
+891,2016,Arquitectura,Arquitectura,Alumno 891,aa00891
+892,2016,Ing. Alimentos,Ing. Alimentos,Alumno 892,aa00892
+893,2016,Ing. Sistemas,Ing. Sistemas,Alumno 893,aa00893
+894,2016,Ing. Civil,Ing. Civil,Alumno 894,aa00894
+895,2016,Ing. Quimica,Ing. Quimica,Alumno 895,aa00895
+896,2016,Ing. Electrica,Ing. Electrica,Alumno 896,aa00896
+897,2016,Ing. Mecanica,Ing. Mecanica,Alumno 897,aa00897
+898,2016,Ing.Mecanica,Ing.Mecanica,Alumno 898,aa00898
+899,2016,Ing. Industrial,Ing. Industrial,Alumno 899,aa00899
+900,2016,Ing. Electrica,Ing. Electrica,Alumno 900,aa00900
+901,2016,Ing. Sistemas,Ing. Civil,Alumno 901,aa00901
+902,2016,Arquitectura,Ing. Industrial,Alumno 902,aa00902
+903,2016,Ing. Alimentos,Ing. Electrica,Alumno 903,aa00903
+904,2016,Ing. Sistemas,Ing. Sistemas,Alumno 904,aa00904
+905,2016,Ing. Civil,Arquitectura,Alumno 905,aa00905
+906,2016,Ing. Quimica,Ing. Alimentos,Alumno 906,aa00906
+907,2016,Ing. Electrica,Ing. Sistemas,Alumno 907,aa00907
+908,2016,Ing. Mecanica,Ing. Civil,Alumno 908,aa00908
+909,2016,Ing.Mecanica,Ing. Quimica,Alumno 909,aa00909
+910,2016,Ing. Industrial,Ing. Electrica,Alumno 910,aa00910
+911,2016,Ing. Electrica,Ing. Mecanica,Alumno 911,aa00911
+912,2016,Ing. Sistemas,Ing.Mecanica,Alumno 912,aa00912
+913,2016,Arquitectura,Ing. Industrial,Alumno 913,aa00913
+914,2017,Ing. Alimentos,Ing. Electrica,Alumno 914,aa00914
+915,2017,Ing. Sistemas,Ing. Civil,Alumno 915,aa00915
+916,2017,Ing. Civil,Ing. Industrial,Alumno 916,aa00916
+917,2017,Ing. Quimica,Ing. Electrica,Alumno 917,aa00917
+918,2017,Ing. Electrica,Ing. Sistemas,Alumno 918,aa00918
+919,2017,Ing. Mecanica,Arquitectura,Alumno 919,aa00919
+920,2017,Ing.Mecanica,Ing. Alimentos,Alumno 920,aa00920
+921,2017,Ing. Industrial,Ing. Sistemas,Alumno 921,aa00921
+922,2017,Ing. Electrica,Ing. Civil,Alumno 922,aa00922
+923,2017,Ing. Sistemas,Ing. Quimica,Alumno 923,aa00923
+924,2017,Arquitectura,Ing. Electrica,Alumno 924,aa00924
+925,2017,Ing. Alimentos,Ing. Mecanica,Alumno 925,aa00925
+926,2017,Ing. Sistemas,Ing.Mecanica,Alumno 926,aa00926
+927,2017,Ing. Civil,Ing. Industrial,Alumno 927,aa00927
+928,2017,Ing. Quimica,Ing. Electrica,Alumno 928,aa00928
+929,2017,Ing. Electrica,Ing. Civil,Alumno 929,aa00929
+930,2017,Ing. Mecanica,Ing. Industrial,Alumno 930,aa00930
+931,2017,Ing.Mecanica,Ing. Electrica,Alumno 931,aa00931
+932,2017,Ing. Industrial,Ing. Sistemas,Alumno 932,aa00932
+933,2017,Ing. Electrica,Arquitectura,Alumno 933,aa00933
+934,2017,Ing. Sistemas,Ing. Alimentos,Alumno 934,aa00934
+935,2017,Arquitectura,Ing. Sistemas,Alumno 935,aa00935
+936,2017,Ing. Alimentos,Ing. Civil,Alumno 936,aa00936
+937,2017,Ing. Sistemas,Ing. Quimica,Alumno 937,aa00937
+938,2017,Ing. Civil,Ing. Electrica,Alumno 938,aa00938
+939,2017,Ing. Quimica,Ing. Mecanica,Alumno 939,aa00939
+940,2017,Ing. Electrica,Ing.Mecanica,Alumno 940,aa00940
+941,2017,Ing. Mecanica,Ing. Industrial,Alumno 941,aa00941
+942,2017,Ing.Mecanica,Ing. Electrica,Alumno 942,aa00942
+943,2017,Ing. Industrial,Ing. Civil,Alumno 943,aa00943
+944,2017,Ing. Electrica,Ing. Industrial,Alumno 944,aa00944
+945,2017,Ing. Sistemas,Ing. Electrica,Alumno 945,aa00945
+946,2017,Arquitectura,Ing. Sistemas,Alumno 946,aa00946
+947,2017,Ing. Alimentos,Arquitectura,Alumno 947,aa00947
+948,2017,Ing. Sistemas,Ing. Alimentos,Alumno 948,aa00948
+949,2017,Ing. Civil,Ing. Sistemas,Alumno 949,aa00949
+950,2017,Ing. Quimica,Ing. Civil,Alumno 950,aa00950
+951,2017,Ing. Electrica,Ing. Quimica,Alumno 951,aa00951
+952,2017,Ing. Mecanica,Ing. Electrica,Alumno 952,aa00952
+953,2017,Ing.Mecanica,Ing. Mecanica,Alumno 953,aa00953
+954,2017,Ing. Industrial,Ing.Mecanica,Alumno 954,aa00954
+955,2017,Ing. Electrica,Ing. Industrial,Alumno 955,aa00955
+956,2017,Ing. Sistemas,Ing. Electrica,Alumno 956,aa00956
+957,2017,Arquitectura,Ing. Civil,Alumno 957,aa00957
+958,2017,Ing. Alimentos,Ing. Industrial,Alumno 958,aa00958
+959,2017,Ing. Sistemas,Ing. Electrica,Alumno 959,aa00959
+960,2017,Ing. Civil,Ing. Sistemas,Alumno 960,aa00960
+961,2017,Ing. Quimica,Arquitectura,Alumno 961,aa00961
+962,2017,Ing. Electrica,Ing. Alimentos,Alumno 962,aa00962
+963,2017,Ing. Mecanica,Ing. Sistemas,Alumno 963,aa00963
+964,2017,Ing.Mecanica,Ing. Civil,Alumno 964,aa00964
+965,2017,Ing. Industrial,Ing. Quimica,Alumno 965,aa00965
+966,2017,Ing. Electrica,Ing. Electrica,Alumno 966,aa00966
+967,2017,Ing. Sistemas,Ing. Mecanica,Alumno 967,aa00967
+968,2017,Arquitectura,Ing.Mecanica,Alumno 968,aa00968
+969,2017,Ing. Alimentos,Ing. Industrial,Alumno 969,aa00969
+970,2017,Ing. Sistemas,Ing. Electrica,Alumno 970,aa00970
+971,2017,Ing. Civil,Ing. Civil,Alumno 971,aa00971
+972,2017,Ing. Quimica,Ing. Industrial,Alumno 972,aa00972
+973,2017,Ing. Electrica,Ing. Electrica,Alumno 973,aa00973
+974,2017,Ing. Mecanica,Ing. Sistemas,Alumno 974,aa00974
+975,2017,Ing.Mecanica,Arquitectura,Alumno 975,aa00975
+976,2017,Ing. Industrial,Ing. Alimentos,Alumno 976,aa00976
+977,2017,Ing. Electrica,Ing. Sistemas,Alumno 977,aa00977
+978,2017,Ing. Sistemas,Ing. Civil,Alumno 978,aa00978
+979,2017,Arquitectura,Ing. Quimica,Alumno 979,aa00979
+980,2017,Ing. Alimentos,Ing. Electrica,Alumno 980,aa00980
+981,2017,Ing. Sistemas,Ing. Mecanica,Alumno 981,aa00981
+982,2017,Ing. Civil,Ing.Mecanica,Alumno 982,aa00982
+983,2017,Ing. Quimica,Ing. Industrial,Alumno 983,aa00983
+984,2017,Ing. Electrica,Ing. Electrica,Alumno 984,aa00984
+985,2017,Ing. Mecanica,Ing. Civil,Alumno 985,aa00985
+986,2017,Ing.Mecanica,Ing. Industrial,Alumno 986,aa00986
+987,2017,Ing. Industrial,Ing. Electrica,Alumno 987,aa00987
+988,2017,Ing. Electrica,Ing. Sistemas,Alumno 988,aa00988
+989,2017,Ing. Sistemas,Arquitectura,Alumno 989,aa00989
+990,2017,Arquitectura,Ing. Alimentos,Alumno 990,aa00990
+991,2017,Ing. Alimentos,Ing. Sistemas,Alumno 991,aa00991
+992,2017,Ing. Sistemas,Ing. Civil,Alumno 992,aa00992
+993,2017,Ing. Civil,Ing. Quimica,Alumno 993,aa00993
+994,2017,Ing. Quimica,Ing. Electrica,Alumno 994,aa00994
+995,2017,Ing. Electrica,Ing. Mecanica,Alumno 995,aa00995
+996,2017,Ing. Mecanica,Ing.Mecanica,Alumno 996,aa00996
+997,2017,Ing.Mecanica,Ing. Industrial,Alumno 997,aa00997
+998,2017,Ing. Industrial,Ing. Electrica,Alumno 998,aa00998
+999,2017,Ing. Electrica,Ing. Civil,Alumno 999,aa00999
+1000,2017,Ing. Sistemas,Ing. Industrial,Alumno 1000,aa01000
+1001,2017,Arquitectura,Ing. Electrica,Alumno 1001,aa01001
+1002,2017,Ing. Alimentos,Ing. Sistemas,Alumno 1002,aa01002
+1003,2017,Ing. Sistemas,Arquitectura,Alumno 1003,aa01003
+1004,2017,Ing. Civil,Ing. Alimentos,Alumno 1004,aa01004
+1005,2017,Ing. Quimica,Ing. Sistemas,Alumno 1005,aa01005
+1006,2017,Ing. Electrica,Ing. Civil,Alumno 1006,aa01006
+1007,2017,Ing. Mecanica,Ing. Quimica,Alumno 1007,aa01007
+1008,2017,Ing.Mecanica,Ing. Electrica,Alumno 1008,aa01008
+1009,2017,Ing. Industrial,Ing. Mecanica,Alumno 1009,aa01009
+1010,2017,Ing. Electrica,Ing.Mecanica,Alumno 1010,aa01010
+1011,2017,Ing. Sistemas,Ing. Industrial,Alumno 1011,aa01011
+1012,2017,Arquitectura,Ing. Electrica,Alumno 1012,aa01012
+1013,2017,Ing. Alimentos,Ing. Civil,Alumno 1013,aa01013
+1014,2017,Ing. Sistemas,Ing. Industrial,Alumno 1014,aa01014
+1015,2017,Ing. Civil,Ing. Electrica,Alumno 1015,aa01015
+1016,2017,Ing. Quimica,Ing. Sistemas,Alumno 1016,aa01016
+1017,2017,Ing. Electrica,Arquitectura,Alumno 1017,aa01017
+1018,2017,Ing. Mecanica,Ing. Alimentos,Alumno 1018,aa01018
+1019,2017,Ing.Mecanica,Ing. Sistemas,Alumno 1019,aa01019
+1020,2017,Ing. Industrial,Ing. Civil,Alumno 1020,aa01020
+1021,2017,Ing. Electrica,Ing. Quimica,Alumno 1021,aa01021
+1022,2017,Ing. Sistemas,Ing. Electrica,Alumno 1022,aa01022
+1023,2017,Arquitectura,Ing. Mecanica,Alumno 1023,aa01023

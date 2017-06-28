@@ -1,0 +1,58 @@
+@(registros: List[ERep5],carrera:String,anio:Integer,ciclo:Integer)
+@import scala.math.BigDecimal
+@import helper._
+
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" media="print" href="public/stylesheets/bootstrap.min.css">
+    </head>
+    
+    <body>
+        <h4 class="text-center">
+            Resumen de materias más repetidas por Carrera, año, ciclo y materia
+        </h4>
+        <div class="text-center row">
+            <img src="public/images/logo_ues.png">
+        </div>
+
+        <div class="text-center row">
+        <p><strong>Carrera:</strong> @carrera</p>
+        <p><strong>Año:</strong> @anio &nbsp;&nbsp;&nbsp; <strong>Ciclo:</strong> @ciclo</p>
+    </div>
+
+    <div class="text-center row">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-8">
+        <table class="table table-condensed table-bordered table-striped" id="reporte-table">
+            <thead>
+            <tr>
+                <th>No</th>
+                <th>Carrera</th>
+                <th>Materia</th>
+                <th>Año</th>
+                <th>Ciclo</th>
+                <th>Reinscritos</th>
+            </tr>
+            </thead>
+            <tbody>
+
+                @for((row, index) <- registros.reverse.zipWithIndex) {
+                    <tr>
+                        <td>@(index+1)</td>
+                        <td>@row.carrera</td>
+                        <td>@row.materia</td>
+                        <td>@row.ano</td>
+                        <td>@row.ciclo</td>
+                        <td>@row.reinscritos</td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+        </div>
+        <div class="col-sm-2"></div>
+    </div>
+
+</html>

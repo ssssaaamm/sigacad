@@ -1,0 +1,1135 @@
+id,carrera,ano,ciclo,docente,materia,aprobados,reprobados
+1,Ing. Sistemas,2017,1,ingeniero 1,matematica 1,1,1134
+2,Ing. Electrica,2017,2,ingeniero 2,fisica 1,2,1133
+3,Ing. Civil,2017,1,ingeniero 3,quimica,3,1132
+4,Ing. Industrial,2017,2,ingeniero 4,historia,4,1131
+5,Ing. Quimica,2017,1,ingeniero 5,psicologia,5,1130
+6,Ing. de Alimentos,2017,2,ingeniero 6,introduccion a la informatica,6,1129
+7,Ing. Mecanica,2017,1,ingeniero 7,programacion,7,1128
+8,Arquitectura,2017,2,arquiteco 8,sistemas gerenciales,8,1127
+9,Ing. Sistemas,2017,1,ingeniero 9,sistemas geograficos,9,1126
+10,Ing. Electrica,2017,2,ingeniero 10,herramientas de productivadad,10,1125
+11,Ing. Civil,2017,1,ingeniero 11,arquitectura de software,11,1124
+12,Ing. Industrial,2017,2,ingeniero 12,matematica 2,12,1123
+13,Ing. Quimica,2017,1,ingeniero 13,fisica 2,13,1122
+14,Ing. de Alimentos,2017,2,ingeniero 14,quimica,14,1121
+15,Ing. Mecanica,2017,1,ingeniero 15,historia,15,1120
+16,Arquitectura,2017,2,arquiteco 16,psicologia,16,1119
+17,Ing. Sistemas,2017,1,ingeniero 17,introduccion a la informatica,17,1118
+18,Ing. Electrica,2017,2,ingeniero 18,programacion,18,1117
+19,Ing. Civil,2017,1,ingeniero 19,sistemas gerenciales,19,1116
+20,Ing. Industrial,2017,2,ingeniero 20,sistemas geograficos,20,1115
+21,Ing. Quimica,2017,1,ingeniero 21,herramientas de productivadad,21,1114
+22,Ing. de Alimentos,2017,2,ingeniero 22,arquitectura de software,22,1113
+23,Ing. Mecanica,2017,1,ingeniero 23,matematica 3,23,1112
+24,Arquitectura,2017,2,arquiteco 24,fisica 3,24,1111
+25,Ing. Sistemas,2017,1,ingeniero 25,quimica,25,1110
+26,Ing. Electrica,2017,2,ingeniero 26,historia,26,1109
+27,Ing. Civil,2017,1,ingeniero 27,psicologia,27,1108
+28,Ing. Industrial,2017,2,ingeniero 28,introduccion a la informatica,28,1107
+29,Ing. Quimica,2017,1,ingeniero 29,programacion,29,1106
+30,Ing. de Alimentos,2017,2,ingeniero 30,sistemas gerenciales,30,1105
+31,Ing. Mecanica,2017,1,ingeniero 31,sistemas geograficos,31,1104
+32,Arquitectura,2017,2,arquiteco 32,herramientas de productivadad,32,1103
+33,Ing. Sistemas,2017,1,ingeniero 33,arquitectura de software,33,1102
+34,Ing. Electrica,2017,2,ingeniero 34,matematica 4,34,1101
+35,Ing. Civil,2017,1,ingeniero 35,fisica 4,35,1100
+36,Ing. Industrial,2017,2,ingeniero 36,quimica,36,1099
+37,Ing. Quimica,2017,1,ingeniero 37,historia,37,1098
+38,Ing. de Alimentos,2017,2,ingeniero 38,psicologia,38,1097
+39,Ing. Mecanica,2017,1,ingeniero 39,introduccion a la informatica,39,1096
+40,Arquitectura,2017,2,arquiteco 40,programacion,40,1095
+41,Ing. Sistemas,2017,1,ingeniero 41,sistemas gerenciales,41,1094
+42,Ing. Electrica,2017,2,ingeniero 42,sistemas geograficos,42,1093
+43,Ing. Civil,2017,1,ingeniero 43,herramientas de productivadad,43,1092
+44,Ing. Industrial,2017,2,ingeniero 44,arquitectura de software,44,1091
+45,Ing. Quimica,2017,1,ingeniero 45,matematica 5,45,1090
+46,Ing. de Alimentos,2017,2,ingeniero 46,fisica 5,46,1089
+47,Ing. Mecanica,2017,1,ingeniero 47,quimica,47,1088
+48,Arquitectura,2017,2,arquiteco 48,historia,48,1087
+49,Ing. Sistemas,2017,1,ingeniero 49,psicologia,49,1086
+50,Ing. Electrica,2017,2,ingeniero 50,introduccion a la informatica,50,1085
+51,Ing. Civil,2017,1,ingeniero 51,programacion,51,1084
+52,Ing. Industrial,2017,2,ingeniero 52,sistemas gerenciales,52,1083
+53,Ing. Quimica,2017,1,ingeniero 53,sistemas geograficos,53,1082
+54,Ing. de Alimentos,2017,2,ingeniero 54,herramientas de productivadad,54,1081
+55,Ing. Mecanica,2017,1,ingeniero 55,arquitectura de software,55,1080
+56,Arquitectura,2017,2,arquiteco 56,matematica 6,56,1079
+57,Ing. Sistemas,2017,1,ingeniero 57,fisica 6,57,1078
+58,Ing. Electrica,2017,2,ingeniero 58,quimica,58,1077
+59,Ing. Civil,2017,1,ingeniero 59,historia,59,1076
+60,Ing. Industrial,2017,2,ingeniero 60,psicologia,60,1075
+61,Ing. Quimica,2017,1,ingeniero 61,introduccion a la informatica,61,1074
+62,Ing. de Alimentos,2017,2,ingeniero 62,programacion,62,1073
+63,Ing. Mecanica,2017,1,ingeniero 63,sistemas gerenciales,63,1072
+64,Arquitectura,2017,2,arquiteco 64,sistemas geograficos,64,1071
+65,Ing. Sistemas,2017,1,ingeniero 65,herramientas de productivadad,65,1070
+66,Ing. Electrica,2017,2,ingeniero 66,arquitectura de software,66,1069
+67,Ing. Civil,2017,1,ingeniero 67,matematica 7,67,1068
+68,Ing. Industrial,2017,2,ingeniero 68,fisica 7,68,1067
+69,Ing. Quimica,2017,1,ingeniero 69,quimica,69,1066
+70,Ing. de Alimentos,2017,2,ingeniero 70,historia,70,1065
+71,Ing. Mecanica,2017,1,ingeniero 71,psicologia,71,1064
+72,Arquitectura,2017,2,arquiteco 72,introduccion a la informatica,72,1063
+73,Ing. Sistemas,2017,1,ingeniero 73,programacion,73,1062
+74,Ing. Electrica,2017,2,ingeniero 74,sistemas gerenciales,74,1061
+75,Ing. Civil,2017,1,ingeniero 75,sistemas geograficos,75,1060
+76,Ing. Industrial,2017,2,ingeniero 76,herramientas de productivadad,76,1059
+77,Ing. Quimica,2017,1,ingeniero 77,arquitectura de software,77,1058
+78,Ing. de Alimentos,2017,2,ingeniero 78,matematica 8,78,1057
+79,Ing. Mecanica,2017,1,ingeniero 79,fisica 8,79,1056
+80,Arquitectura,2017,2,arquiteco 80,quimica,80,1055
+81,Ing. Sistemas,2017,1,ingeniero 81,historia,81,1054
+82,Ing. Electrica,2017,2,ingeniero 82,psicologia,82,1053
+83,Ing. Civil,2017,1,ingeniero 83,introduccion a la informatica,83,1052
+84,Ing. Industrial,2017,2,ingeniero 84,programacion,84,1051
+85,Ing. Quimica,2017,1,ingeniero 85,sistemas gerenciales,85,1050
+86,Ing. de Alimentos,2017,2,ingeniero 86,sistemas geograficos,86,1049
+87,Ing. Mecanica,2017,1,ingeniero 87,herramientas de productivadad,87,1048
+88,Arquitectura,2017,2,arquiteco 88,arquitectura de software,88,1047
+89,Ing. Sistemas,2017,1,ingeniero 89,matematica 9,89,1046
+90,Ing. Electrica,2017,2,ingeniero 90,fisica 9,90,1045
+91,Ing. Civil,2017,1,ingeniero 91,quimica,91,1044
+92,Ing. Industrial,2017,2,ingeniero 92,historia,92,1043
+93,Ing. Quimica,2017,1,ingeniero 93,psicologia,93,1042
+94,Ing. de Alimentos,2017,2,ingeniero 94,introduccion a la informatica,94,1041
+95,Ing. Mecanica,2017,1,ingeniero 95,programacion,95,1040
+96,Arquitectura,2017,2,arquiteco 96,sistemas gerenciales,96,1039
+97,Ing. Sistemas,2017,1,ingeniero 97,sistemas geograficos,97,1038
+98,Ing. Electrica,2017,2,ingeniero 98,herramientas de productivadad,98,1037
+99,Ing. Civil,2017,1,ingeniero 99,arquitectura de software,99,1036
+100,Ing. Industrial,2017,2,ingeniero 100,matematica 10,100,1035
+101,Ing. Quimica,2017,1,ingeniero 101,fisica 10,101,1034
+102,Ing. de Alimentos,2017,2,ingeniero 102,quimica,102,1033
+103,Ing. Mecanica,2017,1,ingeniero 103,historia,103,1032
+104,Arquitectura,2017,2,arquiteco 104,psicologia,104,1031
+105,Ing. Sistemas,2017,1,ingeniero 105,introduccion a la informatica,105,1030
+106,Ing. Electrica,2017,2,ingeniero 106,programacion,106,1029
+107,Ing. Civil,2017,1,ingeniero 107,sistemas gerenciales,107,1028
+108,Ing. Industrial,2017,2,ingeniero 108,sistemas geograficos,108,1027
+109,Ing. Quimica,2017,1,ingeniero 109,herramientas de productivadad,109,1026
+110,Ing. de Alimentos,2017,2,ingeniero 110,arquitectura de software,110,1025
+111,Ing. Mecanica,2017,1,ingeniero 111,matematica 11,111,1024
+112,Arquitectura,2017,2,arquiteco 112,fisica 11,112,1023
+113,Ing. Sistemas,2017,1,ingeniero 113,quimica,113,1022
+114,Ing. Electrica,2017,2,ingeniero 114,historia,114,1021
+115,Ing. Civil,2017,1,ingeniero 115,psicologia,115,1020
+116,Ing. Industrial,2017,2,ingeniero 116,introduccion a la informatica,116,1019
+117,Ing. Quimica,2017,1,ingeniero 117,programacion,117,1018
+118,Ing. de Alimentos,2017,2,ingeniero 118,sistemas gerenciales,118,1017
+119,Ing. Mecanica,2017,1,ingeniero 119,sistemas geograficos,119,1016
+120,Arquitectura,2017,2,arquiteco 120,herramientas de productivadad,120,1015
+121,Ing. Sistemas,2017,1,ingeniero 121,arquitectura de software,121,1014
+122,Ing. Electrica,2017,2,ingeniero 122,matematica 12,122,1013
+123,Ing. Civil,2017,1,ingeniero 123,fisica 12,123,1012
+124,Ing. Industrial,2017,2,ingeniero 124,quimica,124,1011
+125,Ing. Quimica,2017,1,ingeniero 125,historia,125,1010
+126,Ing. de Alimentos,2017,2,ingeniero 126,psicologia,126,1009
+127,Ing. Mecanica,2017,1,ingeniero 127,introduccion a la informatica,127,1008
+128,Arquitectura,2017,2,arquiteco 128,programacion,128,1007
+129,Ing. Sistemas,2017,1,ingeniero 129,sistemas gerenciales,129,1006
+130,Ing. Electrica,2017,2,ingeniero 130,sistemas geograficos,130,1005
+131,Ing. Civil,2017,1,ingeniero 131,herramientas de productivadad,131,1004
+132,Ing. Industrial,2017,2,ingeniero 132,arquitectura de software,132,1003
+133,Ing. Quimica,2017,1,ingeniero 133,matematica 13,133,1002
+134,Ing. de Alimentos,2017,2,ingeniero 134,fisica 13,134,1001
+135,Ing. Mecanica,2017,1,ingeniero 135,quimica,135,1000
+136,Arquitectura,2017,2,arquiteco 136,historia,136,999
+137,Ing. Sistemas,2017,1,ingeniero 137,psicologia,137,998
+138,Ing. Electrica,2017,2,ingeniero 138,introduccion a la informatica,138,997
+139,Ing. Civil,2017,1,ingeniero 139,programacion,139,996
+140,Ing. Industrial,2017,2,ingeniero 140,sistemas gerenciales,140,995
+141,Ing. Quimica,2017,1,ingeniero 141,sistemas geograficos,141,994
+142,Ing. de Alimentos,2017,2,ingeniero 142,herramientas de productivadad,142,993
+143,Ing. Mecanica,2017,1,ingeniero 143,arquitectura de software,143,992
+144,Arquitectura,2017,2,arquiteco 144,matematica 14,144,991
+145,Ing. Sistemas,2017,1,ingeniero 145,fisica 14,145,990
+146,Ing. Electrica,2017,2,ingeniero 146,quimica,146,989
+147,Ing. Civil,2017,1,ingeniero 147,historia,147,988
+148,Ing. Industrial,2017,2,ingeniero 148,psicologia,148,987
+149,Ing. Quimica,2017,1,ingeniero 149,introduccion a la informatica,149,986
+150,Ing. de Alimentos,2017,2,ingeniero 150,programacion,150,985
+151,Ing. Mecanica,2017,1,ingeniero 151,sistemas gerenciales,151,984
+152,Arquitectura,2017,2,arquiteco 152,sistemas geograficos,152,983
+153,Ing. Sistemas,2017,1,ingeniero 153,herramientas de productivadad,153,982
+154,Ing. Electrica,2017,2,ingeniero 154,arquitectura de software,154,981
+155,Ing. Civil,2017,1,ingeniero 155,matematica 15,155,980
+156,Ing. Industrial,2017,2,ingeniero 156,fisica 15,156,979
+157,Ing. Quimica,2017,1,ingeniero 157,quimica,157,978
+158,Ing. de Alimentos,2017,2,ingeniero 158,historia,158,977
+159,Ing. Mecanica,2017,1,ingeniero 159,psicologia,159,976
+160,Arquitectura,2017,2,arquiteco 160,introduccion a la informatica,160,975
+161,Ing. Sistemas,2017,1,ingeniero 161,programacion,161,974
+162,Ing. Electrica,2017,2,ingeniero 162,sistemas gerenciales,162,973
+163,Ing. Civil,2017,1,ingeniero 163,sistemas geograficos,163,972
+164,Ing. Industrial,2017,2,ingeniero 164,herramientas de productivadad,164,971
+165,Ing. Quimica,2017,1,ingeniero 165,arquitectura de software,165,970
+166,Ing. de Alimentos,2017,2,ingeniero 166,matematica 16,166,969
+167,Ing. Mecanica,2017,1,ingeniero 167,fisica 16,167,968
+168,Arquitectura,2017,2,arquiteco 168,quimica,168,967
+169,Ing. Sistemas,2017,1,ingeniero 169,historia,169,966
+170,Ing. Electrica,2017,2,ingeniero 170,psicologia,170,965
+171,Ing. Civil,2017,1,ingeniero 171,introduccion a la informatica,171,964
+172,Ing. Industrial,2017,2,ingeniero 172,programacion,172,963
+173,Ing. Quimica,2017,1,ingeniero 173,sistemas gerenciales,173,962
+174,Ing. de Alimentos,2017,2,ingeniero 174,sistemas geograficos,174,961
+175,Ing. Mecanica,2017,1,ingeniero 175,herramientas de productivadad,175,960
+176,Arquitectura,2017,2,arquiteco 176,arquitectura de software,176,959
+177,Ing. Sistemas,2017,1,ingeniero 177,matematica 17,177,958
+178,Ing. Electrica,2017,2,ingeniero 178,fisica 17,178,957
+179,Ing. Civil,2017,1,ingeniero 179,quimica,179,956
+180,Ing. Industrial,2017,2,ingeniero 180,historia,180,955
+181,Ing. Quimica,2017,1,ingeniero 181,psicologia,181,954
+182,Ing. de Alimentos,2017,2,ingeniero 182,introduccion a la informatica,182,953
+183,Ing. Mecanica,2017,1,ingeniero 183,programacion,183,952
+184,Arquitectura,2017,2,arquiteco 184,sistemas gerenciales,184,951
+185,Ing. Sistemas,2017,1,ingeniero 185,sistemas geograficos,185,950
+186,Ing. Electrica,2017,2,ingeniero 186,herramientas de productivadad,186,949
+187,Ing. Civil,2017,1,ingeniero 187,arquitectura de software,187,948
+188,Ing. Industrial,2017,2,ingeniero 188,matematica 18,188,947
+189,Ing. Quimica,2017,1,ingeniero 189,fisica 18,189,946
+190,Ing. de Alimentos,2017,2,ingeniero 190,quimica,190,945
+191,Ing. Mecanica,2017,1,ingeniero 191,historia,191,944
+192,Arquitectura,2017,2,arquiteco 192,psicologia,192,943
+193,Ing. Sistemas,2017,1,ingeniero 193,introduccion a la informatica,193,942
+194,Ing. Electrica,2017,2,ingeniero 194,programacion,194,941
+195,Ing. Civil,2017,1,ingeniero 195,sistemas gerenciales,195,940
+196,Ing. Industrial,2017,2,ingeniero 196,sistemas geograficos,196,939
+197,Ing. Quimica,2017,1,ingeniero 197,herramientas de productivadad,197,938
+198,Ing. de Alimentos,2017,2,ingeniero 198,arquitectura de software,198,937
+199,Ing. Mecanica,2017,1,ingeniero 199,matematica 19,199,936
+200,Arquitectura,2017,2,arquiteco 200,fisica 19,200,935
+201,Ing. Sistemas,2017,1,ingeniero 201,quimica,201,934
+202,Ing. Electrica,2017,2,ingeniero 202,historia,202,933
+203,Ing. Civil,2017,1,ingeniero 203,psicologia,203,932
+204,Ing. Industrial,2017,2,ingeniero 204,introduccion a la informatica,204,931
+205,Ing. Quimica,2017,1,ingeniero 205,programacion,205,930
+206,Ing. de Alimentos,2017,2,ingeniero 206,sistemas gerenciales,206,929
+207,Ing. Mecanica,2017,1,ingeniero 207,sistemas geograficos,207,928
+208,Arquitectura,2017,2,arquiteco 208,herramientas de productivadad,208,927
+209,Ing. Sistemas,2017,1,ingeniero 209,arquitectura de software,209,926
+210,Ing. Electrica,2017,2,ingeniero 210,matematica 20,210,925
+211,Ing. Civil,2017,1,ingeniero 211,fisica 20,211,924
+212,Ing. Industrial,2017,2,ingeniero 212,quimica,212,923
+213,Ing. Quimica,2017,1,ingeniero 213,historia,213,922
+214,Ing. de Alimentos,2017,2,ingeniero 214,psicologia,214,921
+215,Ing. Mecanica,2017,1,ingeniero 215,introduccion a la informatica,215,920
+216,Arquitectura,2017,2,arquiteco 216,programacion,216,919
+217,Ing. Sistemas,2017,1,ingeniero 217,sistemas gerenciales,217,918
+218,Ing. Electrica,2017,2,ingeniero 218,sistemas geograficos,218,917
+219,Ing. Civil,2017,1,ingeniero 219,herramientas de productivadad,219,916
+220,Ing. Industrial,2017,2,ingeniero 220,arquitectura de software,220,915
+221,Ing. Quimica,2017,1,ingeniero 221,matematica 21,221,914
+222,Ing. de Alimentos,2017,2,ingeniero 222,fisica 21,222,913
+223,Ing. Mecanica,2017,1,ingeniero 223,quimica,223,912
+224,Arquitectura,2017,2,arquiteco 224,historia,224,911
+225,Ing. Sistemas,2017,1,ingeniero 225,psicologia,225,910
+226,Ing. Electrica,2017,2,ingeniero 226,introduccion a la informatica,226,909
+227,Ing. Civil,2017,1,ingeniero 227,programacion,227,908
+228,Ing. Industrial,2017,2,ingeniero 228,sistemas gerenciales,228,907
+229,Ing. Quimica,2017,1,ingeniero 229,sistemas geograficos,229,906
+230,Ing. de Alimentos,2017,2,ingeniero 230,herramientas de productivadad,230,905
+231,Ing. Mecanica,2017,1,ingeniero 231,arquitectura de software,231,904
+232,Arquitectura,2017,2,arquiteco 232,matematica 22,232,903
+233,Ing. Sistemas,2017,1,ingeniero 233,fisica 22,233,902
+234,Ing. Electrica,2017,2,ingeniero 234,quimica,234,901
+235,Ing. Civil,2017,1,ingeniero 235,historia,235,900
+236,Ing. Industrial,2017,2,ingeniero 236,psicologia,236,899
+237,Ing. Quimica,2017,1,ingeniero 237,introduccion a la informatica,237,898
+238,Ing. de Alimentos,2017,2,ingeniero 238,programacion,238,897
+239,Ing. Mecanica,2017,1,ingeniero 239,sistemas gerenciales,239,896
+240,Arquitectura,2017,2,arquiteco 240,sistemas geograficos,240,895
+241,Ing. Sistemas,2017,1,ingeniero 241,herramientas de productivadad,241,894
+242,Ing. Electrica,2017,2,ingeniero 242,arquitectura de software,242,893
+243,Ing. Civil,2017,1,ingeniero 243,matematica 23,243,892
+244,Ing. Industrial,2017,2,ingeniero 244,fisica 23,244,891
+245,Ing. Quimica,2017,1,ingeniero 245,quimica,245,890
+246,Ing. de Alimentos,2017,2,ingeniero 246,historia,246,889
+247,Ing. Mecanica,2017,1,ingeniero 247,psicologia,247,888
+248,Arquitectura,2017,2,arquiteco 248,introduccion a la informatica,248,887
+249,Ing. Sistemas,2017,1,ingeniero 249,programacion,249,886
+250,Ing. Electrica,2017,2,ingeniero 250,sistemas gerenciales,250,885
+251,Ing. Civil,2017,1,ingeniero 251,sistemas geograficos,251,884
+252,Ing. Industrial,2017,2,ingeniero 252,herramientas de productivadad,252,883
+253,Ing. Quimica,2017,1,ingeniero 253,arquitectura de software,253,882
+254,Ing. de Alimentos,2017,2,ingeniero 254,matematica 24,254,881
+255,Ing. Mecanica,2017,1,ingeniero 255,fisica 24,255,880
+256,Arquitectura,2017,2,arquiteco 256,quimica,256,879
+257,Ing. Sistemas,2017,1,ingeniero 257,historia,257,878
+258,Ing. Electrica,2017,2,ingeniero 258,psicologia,258,877
+259,Ing. Civil,2017,1,ingeniero 259,introduccion a la informatica,259,876
+260,Ing. Industrial,2017,2,ingeniero 260,programacion,260,875
+261,Ing. Quimica,2017,1,ingeniero 261,sistemas gerenciales,261,874
+262,Ing. de Alimentos,2017,2,ingeniero 262,sistemas geograficos,262,873
+263,Ing. Mecanica,2017,1,ingeniero 263,herramientas de productivadad,263,872
+264,Arquitectura,2017,2,arquiteco 264,arquitectura de software,264,871
+265,Ing. Sistemas,2017,1,ingeniero 265,matematica 25,265,870
+266,Ing. Electrica,2017,2,ingeniero 266,fisica 25,266,869
+267,Ing. Civil,2017,1,ingeniero 267,quimica,267,868
+268,Ing. Industrial,2017,2,ingeniero 268,historia,268,867
+269,Ing. Quimica,2017,1,ingeniero 269,psicologia,269,866
+270,Ing. de Alimentos,2017,2,ingeniero 270,introduccion a la informatica,270,865
+271,Ing. Mecanica,2017,1,ingeniero 271,programacion,271,864
+272,Arquitectura,2017,2,arquiteco 272,sistemas gerenciales,272,863
+273,Ing. Sistemas,2017,1,ingeniero 273,sistemas geograficos,273,862
+274,Ing. Electrica,2016,2,ingeniero 274,herramientas de productivadad,274,861
+275,Ing. Civil,2016,1,ingeniero 275,arquitectura de software,275,860
+276,Ing. Industrial,2016,2,ingeniero 276,matematica 26,276,859
+277,Ing. Quimica,2016,1,ingeniero 277,fisica 26,277,858
+278,Ing. de Alimentos,2016,2,ingeniero 278,quimica,278,857
+279,Ing. Mecanica,2016,1,ingeniero 279,historia,279,856
+280,Arquitectura,2016,2,arquiteco 280,psicologia,280,855
+281,Ing. Sistemas,2016,1,ingeniero 281,introduccion a la informatica,281,854
+282,Ing. Electrica,2016,2,ingeniero 282,programacion,282,853
+283,Ing. Civil,2016,1,ingeniero 283,sistemas gerenciales,283,852
+284,Ing. Industrial,2016,2,ingeniero 284,sistemas geograficos,284,851
+285,Ing. Quimica,2016,1,ingeniero 285,herramientas de productivadad,285,850
+286,Ing. de Alimentos,2016,2,ingeniero 286,arquitectura de software,286,849
+287,Ing. Mecanica,2016,1,ingeniero 287,matematica 27,287,848
+288,Arquitectura,2016,2,arquiteco 288,fisica 27,288,847
+289,Ing. Sistemas,2016,1,ingeniero 289,quimica,289,846
+290,Ing. Electrica,2016,2,ingeniero 290,historia,290,845
+291,Ing. Civil,2016,1,ingeniero 291,psicologia,291,844
+292,Ing. Industrial,2016,2,ingeniero 292,introduccion a la informatica,292,843
+293,Ing. Quimica,2016,1,ingeniero 293,programacion,293,842
+294,Ing. de Alimentos,2016,2,ingeniero 294,sistemas gerenciales,294,841
+295,Ing. Mecanica,2016,1,ingeniero 295,sistemas geograficos,295,840
+296,Arquitectura,2016,2,arquiteco 296,herramientas de productivadad,296,839
+297,Ing. Sistemas,2016,1,ingeniero 297,arquitectura de software,297,838
+298,Ing. Electrica,2016,2,ingeniero 298,matematica 28,298,837
+299,Ing. Civil,2016,1,ingeniero 299,fisica 28,299,836
+300,Ing. Industrial,2016,2,ingeniero 300,quimica,300,835
+301,Ing. Quimica,2016,1,ingeniero 301,historia,301,834
+302,Ing. de Alimentos,2016,2,ingeniero 302,psicologia,302,833
+303,Ing. Mecanica,2016,1,ingeniero 303,introduccion a la informatica,303,832
+304,Arquitectura,2016,2,arquiteco 304,programacion,304,831
+305,Ing. Sistemas,2016,1,ingeniero 305,sistemas gerenciales,305,830
+306,Ing. Electrica,2016,2,ingeniero 306,sistemas geograficos,306,829
+307,Ing. Civil,2016,1,ingeniero 307,herramientas de productivadad,307,828
+308,Ing. Industrial,2016,2,ingeniero 308,arquitectura de software,308,827
+309,Ing. Quimica,2016,1,ingeniero 309,matematica 29,309,826
+310,Ing. de Alimentos,2016,2,ingeniero 310,fisica 29,310,825
+311,Ing. Mecanica,2016,1,ingeniero 311,quimica,311,824
+312,Arquitectura,2016,2,arquiteco 312,historia,312,823
+313,Ing. Sistemas,2016,1,ingeniero 313,psicologia,313,822
+314,Ing. Electrica,2016,2,ingeniero 314,introduccion a la informatica,314,821
+315,Ing. Civil,2016,1,ingeniero 315,programacion,315,820
+316,Ing. Industrial,2016,2,ingeniero 316,sistemas gerenciales,316,819
+317,Ing. Quimica,2016,1,ingeniero 317,sistemas geograficos,317,818
+318,Ing. de Alimentos,2016,2,ingeniero 318,herramientas de productivadad,318,817
+319,Ing. Mecanica,2016,1,ingeniero 319,arquitectura de software,319,816
+320,Arquitectura,2016,2,arquiteco 320,matematica 30,320,815
+321,Ing. Sistemas,2016,1,ingeniero 321,fisica 30,321,814
+322,Ing. Electrica,2016,2,ingeniero 322,quimica,322,813
+323,Ing. Civil,2016,1,ingeniero 323,historia,323,812
+324,Ing. Industrial,2016,2,ingeniero 324,psicologia,324,811
+325,Ing. Quimica,2016,1,ingeniero 325,introduccion a la informatica,325,810
+326,Ing. de Alimentos,2016,2,ingeniero 326,programacion,326,809
+327,Ing. Mecanica,2016,1,ingeniero 327,sistemas gerenciales,327,808
+328,Arquitectura,2016,2,arquiteco 328,sistemas geograficos,328,807
+329,Ing. Sistemas,2016,1,ingeniero 329,herramientas de productivadad,329,806
+330,Ing. Electrica,2016,2,ingeniero 330,arquitectura de software,330,805
+331,Ing. Civil,2016,1,ingeniero 331,matematica 31,331,804
+332,Ing. Industrial,2016,2,ingeniero 332,fisica 31,332,803
+333,Ing. Quimica,2016,1,ingeniero 333,quimica,333,802
+334,Ing. de Alimentos,2016,2,ingeniero 334,historia,334,801
+335,Ing. Mecanica,2016,1,ingeniero 335,psicologia,335,800
+336,Arquitectura,2016,2,arquiteco 336,introduccion a la informatica,336,799
+337,Ing. Sistemas,2016,1,ingeniero 337,programacion,337,798
+338,Ing. Electrica,2016,2,ingeniero 338,sistemas gerenciales,338,797
+339,Ing. Civil,2016,1,ingeniero 339,sistemas geograficos,339,796
+340,Ing. Industrial,2016,2,ingeniero 340,herramientas de productivadad,340,795
+341,Ing. Quimica,2016,1,ingeniero 341,arquitectura de software,341,794
+342,Ing. de Alimentos,2016,2,ingeniero 342,matematica 32,342,793
+343,Ing. Mecanica,2016,1,ingeniero 343,fisica 32,343,792
+344,Arquitectura,2016,2,arquiteco 344,quimica,344,791
+345,Ing. Sistemas,2016,1,ingeniero 345,historia,345,790
+346,Ing. Electrica,2016,2,ingeniero 346,psicologia,346,789
+347,Ing. Civil,2016,1,ingeniero 347,introduccion a la informatica,347,788
+348,Ing. Industrial,2016,2,ingeniero 348,programacion,348,787
+349,Ing. Quimica,2016,1,ingeniero 349,sistemas gerenciales,349,786
+350,Ing. de Alimentos,2016,2,ingeniero 350,sistemas geograficos,350,785
+351,Ing. Mecanica,2016,1,ingeniero 351,herramientas de productivadad,351,784
+352,Arquitectura,2016,2,arquiteco 352,arquitectura de software,352,783
+353,Ing. Sistemas,2016,1,ingeniero 353,matematica 33,353,782
+354,Ing. Electrica,2016,2,ingeniero 354,fisica 33,354,781
+355,Ing. Civil,2016,1,ingeniero 355,quimica,355,780
+356,Ing. Industrial,2016,2,ingeniero 356,historia,356,779
+357,Ing. Quimica,2016,1,ingeniero 357,psicologia,357,778
+358,Ing. de Alimentos,2016,2,ingeniero 358,introduccion a la informatica,358,777
+359,Ing. Mecanica,2016,1,ingeniero 359,programacion,359,776
+360,Arquitectura,2016,2,arquiteco 360,sistemas gerenciales,360,775
+361,Ing. Sistemas,2016,1,ingeniero 361,sistemas geograficos,361,774
+362,Ing. Electrica,2016,2,ingeniero 362,herramientas de productivadad,362,773
+363,Ing. Civil,2016,1,ingeniero 363,arquitectura de software,363,772
+364,Ing. Industrial,2016,2,ingeniero 364,matematica 34,364,771
+365,Ing. Quimica,2016,1,ingeniero 365,fisica 34,365,770
+366,Ing. de Alimentos,2016,2,ingeniero 366,quimica,366,769
+367,Ing. Mecanica,2016,1,ingeniero 367,historia,367,768
+368,Arquitectura,2016,2,arquiteco 368,psicologia,368,767
+369,Ing. Sistemas,2016,1,ingeniero 369,introduccion a la informatica,369,766
+370,Ing. Electrica,2016,2,ingeniero 370,programacion,370,765
+371,Ing. Civil,2016,1,ingeniero 371,sistemas gerenciales,371,764
+372,Ing. Industrial,2016,2,ingeniero 372,sistemas geograficos,372,763
+373,Ing. Quimica,2016,1,ingeniero 373,herramientas de productivadad,373,762
+374,Ing. de Alimentos,2016,2,ingeniero 374,arquitectura de software,374,761
+375,Ing. Mecanica,2016,1,ingeniero 375,matematica 35,375,760
+376,Arquitectura,2016,2,arquiteco 376,fisica 35,376,759
+377,Ing. Sistemas,2016,1,ingeniero 377,quimica,377,758
+378,Ing. Electrica,2016,2,ingeniero 378,historia,378,757
+379,Ing. Civil,2016,1,ingeniero 379,psicologia,379,756
+380,Ing. Industrial,2016,2,ingeniero 380,introduccion a la informatica,380,755
+381,Ing. Quimica,2016,1,ingeniero 381,programacion,381,754
+382,Ing. de Alimentos,2016,2,ingeniero 382,sistemas gerenciales,382,753
+383,Ing. Mecanica,2016,1,ingeniero 383,sistemas geograficos,383,752
+384,Arquitectura,2016,2,arquiteco 384,herramientas de productivadad,384,751
+385,Ing. Sistemas,2016,1,ingeniero 385,arquitectura de software,385,750
+386,Ing. Electrica,2016,2,ingeniero 386,matematica 36,386,749
+387,Ing. Civil,2016,1,ingeniero 387,fisica 36,387,748
+388,Ing. Industrial,2016,2,ingeniero 388,quimica,388,747
+389,Ing. Quimica,2016,1,ingeniero 389,historia,389,746
+390,Ing. de Alimentos,2016,2,ingeniero 390,psicologia,390,745
+391,Ing. Mecanica,2016,1,ingeniero 391,introduccion a la informatica,391,744
+392,Arquitectura,2016,2,arquiteco 392,programacion,392,743
+393,Ing. Sistemas,2016,1,ingeniero 393,sistemas gerenciales,393,742
+394,Ing. Electrica,2016,2,ingeniero 394,sistemas geograficos,394,741
+395,Ing. Civil,2016,1,ingeniero 395,herramientas de productivadad,395,740
+396,Ing. Industrial,2016,2,ingeniero 396,arquitectura de software,396,739
+397,Ing. Quimica,2016,1,ingeniero 397,matematica 37,397,738
+398,Ing. de Alimentos,2016,2,ingeniero 398,fisica 37,398,737
+399,Ing. Mecanica,2016,1,ingeniero 399,quimica,399,736
+400,Arquitectura,2016,2,arquiteco 400,historia,400,735
+401,Ing. Sistemas,2016,1,ingeniero 401,psicologia,401,734
+402,Ing. Electrica,2016,2,ingeniero 402,introduccion a la informatica,402,733
+403,Ing. Civil,2016,1,ingeniero 403,programacion,403,732
+404,Ing. Industrial,2016,2,ingeniero 404,sistemas gerenciales,404,731
+405,Ing. Quimica,2016,1,ingeniero 405,sistemas geograficos,405,730
+406,Ing. de Alimentos,2016,2,ingeniero 406,herramientas de productivadad,406,729
+407,Ing. Mecanica,2016,1,ingeniero 407,arquitectura de software,407,728
+408,Arquitectura,2016,2,arquiteco 408,matematica 38,408,727
+409,Ing. Sistemas,2016,1,ingeniero 409,fisica 38,409,726
+410,Ing. Electrica,2016,2,ingeniero 410,quimica,410,725
+411,Ing. Civil,2016,1,ingeniero 411,historia,411,724
+412,Ing. Industrial,2016,2,ingeniero 412,psicologia,412,723
+413,Ing. Quimica,2016,1,ingeniero 413,introduccion a la informatica,413,722
+414,Ing. de Alimentos,2016,2,ingeniero 414,programacion,414,721
+415,Ing. Mecanica,2016,1,ingeniero 415,sistemas gerenciales,415,720
+416,Arquitectura,2016,2,arquiteco 416,sistemas geograficos,416,719
+417,Ing. Sistemas,2016,1,ingeniero 417,herramientas de productivadad,417,718
+418,Ing. Electrica,2016,2,ingeniero 418,arquitectura de software,418,717
+419,Ing. Civil,2016,1,ingeniero 419,matematica 39,419,716
+420,Ing. Industrial,2016,2,ingeniero 420,fisica 39,420,715
+421,Ing. Quimica,2016,1,ingeniero 421,quimica,421,714
+422,Ing. de Alimentos,2016,2,ingeniero 422,historia,422,713
+423,Ing. Mecanica,2016,1,ingeniero 423,psicologia,423,712
+424,Arquitectura,2016,2,arquiteco 424,introduccion a la informatica,424,711
+425,Ing. Sistemas,2016,1,ingeniero 425,programacion,425,710
+426,Ing. Electrica,2016,2,ingeniero 426,sistemas gerenciales,426,709
+427,Ing. Civil,2016,1,ingeniero 427,sistemas geograficos,427,708
+428,Ing. Industrial,2016,2,ingeniero 428,herramientas de productivadad,428,707
+429,Ing. Quimica,2016,1,ingeniero 429,arquitectura de software,429,706
+430,Ing. de Alimentos,2016,2,ingeniero 430,matematica 40,430,705
+431,Ing. Mecanica,2016,1,ingeniero 431,fisica 40,431,704
+432,Arquitectura,2016,2,arquiteco 432,quimica,432,703
+433,Ing. Sistemas,2016,1,ingeniero 433,historia,433,702
+434,Ing. Electrica,2016,2,ingeniero 434,psicologia,434,701
+435,Ing. Civil,2016,1,ingeniero 435,introduccion a la informatica,435,700
+436,Ing. Industrial,2016,2,ingeniero 436,programacion,436,699
+437,Ing. Quimica,2016,1,ingeniero 437,sistemas gerenciales,437,698
+438,Ing. de Alimentos,2016,2,ingeniero 438,sistemas geograficos,438,697
+439,Ing. Mecanica,2016,1,ingeniero 439,herramientas de productivadad,439,696
+440,Arquitectura,2016,2,arquiteco 440,arquitectura de software,440,695
+441,Ing. Sistemas,2016,1,ingeniero 441,matematica 41,441,694
+442,Ing. Electrica,2016,2,ingeniero 442,fisica 41,442,693
+443,Ing. Civil,2016,1,ingeniero 443,quimica,443,692
+444,Ing. Industrial,2016,2,ingeniero 444,historia,444,691
+445,Ing. Quimica,2016,1,ingeniero 445,psicologia,445,690
+446,Ing. de Alimentos,2016,2,ingeniero 446,introduccion a la informatica,446,689
+447,Ing. Mecanica,2016,1,ingeniero 447,programacion,447,688
+448,Arquitectura,2016,2,arquiteco 448,sistemas gerenciales,448,687
+449,Ing. Sistemas,2016,1,ingeniero 449,sistemas geograficos,449,686
+450,Ing. Electrica,2016,2,ingeniero 450,herramientas de productivadad,450,685
+451,Ing. Civil,2016,1,ingeniero 451,arquitectura de software,451,684
+452,Ing. Industrial,2016,2,ingeniero 452,matematica 42,452,683
+453,Ing. Quimica,2016,1,ingeniero 453,fisica 42,453,682
+454,Ing. de Alimentos,2016,2,ingeniero 454,quimica,454,681
+455,Ing. Mecanica,2016,1,ingeniero 455,historia,455,680
+456,Arquitectura,2016,2,arquiteco 456,psicologia,456,679
+457,Ing. Sistemas,2016,1,ingeniero 457,introduccion a la informatica,457,678
+458,Ing. Electrica,2016,2,ingeniero 458,programacion,458,677
+459,Ing. Civil,2016,1,ingeniero 459,sistemas gerenciales,459,676
+460,Ing. Industrial,2016,2,ingeniero 460,sistemas geograficos,460,675
+461,Ing. Quimica,2016,1,ingeniero 461,herramientas de productivadad,461,674
+462,Ing. de Alimentos,2016,2,ingeniero 462,arquitectura de software,462,673
+463,Ing. Mecanica,2016,1,ingeniero 463,matematica 43,463,672
+464,Arquitectura,2016,2,arquiteco 464,fisica 43,464,671
+465,Ing. Sistemas,2016,1,ingeniero 465,quimica,465,670
+466,Ing. Electrica,2016,2,ingeniero 466,historia,466,669
+467,Ing. Civil,2016,1,ingeniero 467,psicologia,467,668
+468,Ing. Industrial,2016,2,ingeniero 468,introduccion a la informatica,468,667
+469,Ing. Quimica,2016,1,ingeniero 469,programacion,469,666
+470,Ing. de Alimentos,2016,2,ingeniero 470,sistemas gerenciales,470,665
+471,Ing. Mecanica,2016,1,ingeniero 471,sistemas geograficos,471,664
+472,Arquitectura,2016,2,arquiteco 472,herramientas de productivadad,472,663
+473,Ing. Sistemas,2016,1,ingeniero 473,arquitectura de software,473,662
+474,Ing. Electrica,2016,2,ingeniero 474,matematica 44,474,661
+475,Ing. Civil,2016,1,ingeniero 475,fisica 44,475,660
+476,Ing. Industrial,2016,2,ingeniero 476,quimica,476,659
+477,Ing. Quimica,2016,1,ingeniero 477,historia,477,658
+478,Ing. de Alimentos,2016,2,ingeniero 478,psicologia,478,657
+479,Ing. Mecanica,2016,1,ingeniero 479,introduccion a la informatica,479,656
+480,Arquitectura,2016,2,arquiteco 480,programacion,480,655
+481,Ing. Sistemas,2016,1,ingeniero 481,sistemas gerenciales,481,654
+482,Ing. Electrica,2016,2,ingeniero 482,sistemas geograficos,482,653
+483,Ing. Civil,2016,1,ingeniero 483,herramientas de productivadad,483,652
+484,Ing. Industrial,2016,2,ingeniero 484,arquitectura de software,484,651
+485,Ing. Quimica,2016,1,ingeniero 485,matematica 45,485,650
+486,Ing. de Alimentos,2016,2,ingeniero 486,fisica 45,486,649
+487,Ing. Mecanica,2016,1,ingeniero 487,quimica,487,648
+488,Arquitectura,2016,2,arquiteco 488,historia,488,647
+489,Ing. Sistemas,2016,1,ingeniero 489,psicologia,489,646
+490,Ing. Electrica,2016,2,ingeniero 490,introduccion a la informatica,490,645
+491,Ing. Civil,2016,1,ingeniero 491,programacion,491,644
+492,Ing. Industrial,2016,2,ingeniero 492,sistemas gerenciales,492,643
+493,Ing. Quimica,2016,1,ingeniero 493,sistemas geograficos,493,642
+494,Ing. de Alimentos,2016,2,ingeniero 494,herramientas de productivadad,494,641
+495,Ing. Mecanica,2016,1,ingeniero 495,arquitectura de software,495,640
+496,Arquitectura,2016,2,arquiteco 496,matematica 46,496,639
+497,Ing. Sistemas,2016,1,ingeniero 497,fisica 46,497,638
+498,Ing. Electrica,2016,2,ingeniero 498,quimica,498,637
+499,Ing. Civil,2016,1,ingeniero 499,historia,499,636
+500,Ing. Industrial,2016,2,ingeniero 500,psicologia,500,635
+501,Ing. Quimica,2016,1,ingeniero 501,introduccion a la informatica,501,634
+502,Ing. de Alimentos,2016,2,ingeniero 502,programacion,502,633
+503,Ing. Mecanica,2016,1,ingeniero 503,sistemas gerenciales,503,632
+504,Arquitectura,2016,2,arquiteco 504,sistemas geograficos,504,631
+505,Ing. Sistemas,2016,1,ingeniero 505,herramientas de productivadad,505,630
+506,Ing. Electrica,2016,2,ingeniero 506,arquitectura de software,506,629
+507,Ing. Civil,2016,1,ingeniero 507,matematica 47,507,628
+508,Ing. Industrial,2016,2,ingeniero 508,fisica 47,508,627
+509,Ing. Quimica,2016,1,ingeniero 509,quimica,509,626
+510,Ing. de Alimentos,2016,2,ingeniero 510,historia,510,625
+511,Ing. Mecanica,2016,1,ingeniero 511,psicologia,511,624
+512,Arquitectura,2016,2,arquiteco 512,introduccion a la informatica,512,623
+513,Ing. Sistemas,2016,1,ingeniero 513,programacion,513,622
+514,Ing. Electrica,2016,2,ingeniero 514,sistemas gerenciales,514,621
+515,Ing. Civil,2016,1,ingeniero 515,sistemas geograficos,515,620
+516,Ing. Industrial,2016,2,ingeniero 516,herramientas de productivadad,516,619
+517,Ing. Quimica,2016,1,ingeniero 517,arquitectura de software,517,618
+518,Ing. de Alimentos,2016,2,ingeniero 518,matematica 48,518,617
+519,Ing. Mecanica,2016,1,ingeniero 519,fisica 48,519,616
+520,Arquitectura,2016,2,arquiteco 520,quimica,520,615
+521,Ing. Sistemas,2016,1,ingeniero 521,historia,521,614
+522,Ing. Electrica,2016,2,ingeniero 522,psicologia,522,613
+523,Ing. Civil,2016,1,ingeniero 523,introduccion a la informatica,523,612
+524,Ing. Industrial,2016,2,ingeniero 524,programacion,524,611
+525,Ing. Quimica,2016,1,ingeniero 525,sistemas gerenciales,525,610
+526,Ing. de Alimentos,2016,2,ingeniero 526,sistemas geograficos,526,609
+527,Ing. Mecanica,2016,1,ingeniero 527,herramientas de productivadad,527,608
+528,Arquitectura,2016,2,arquiteco 528,arquitectura de software,528,607
+529,Ing. Sistemas,2016,1,ingeniero 529,matematica 49,529,606
+530,Ing. Electrica,2016,2,ingeniero 530,fisica 49,530,605
+531,Ing. Civil,2016,1,ingeniero 531,quimica,531,604
+532,Ing. Industrial,2016,2,ingeniero 532,historia,532,603
+533,Ing. Quimica,2016,1,ingeniero 533,psicologia,533,602
+534,Ing. de Alimentos,2016,2,ingeniero 534,introduccion a la informatica,534,601
+535,Ing. Mecanica,2016,1,ingeniero 535,programacion,535,600
+536,Arquitectura,2016,2,arquiteco 536,sistemas gerenciales,536,599
+537,Ing. Sistemas,2016,1,ingeniero 537,sistemas geograficos,537,598
+538,Ing. Electrica,2016,2,ingeniero 538,herramientas de productivadad,538,597
+539,Ing. Civil,2016,1,ingeniero 539,arquitectura de software,539,596
+540,Ing. Industrial,2016,2,ingeniero 540,matematica 50,540,595
+541,Ing. Quimica,2016,1,ingeniero 541,fisica 50,541,594
+542,Ing. de Alimentos,2016,2,ingeniero 542,quimica,542,593
+543,Ing. Mecanica,2016,1,ingeniero 543,historia,543,592
+544,Arquitectura,2016,2,arquiteco 544,psicologia,544,591
+545,Ing. Sistemas,2017,1,ingeniero 545,introduccion a la informatica,545,590
+546,Ing. Electrica,2017,2,ingeniero 546,programacion,546,589
+547,Ing. Civil,2017,1,ingeniero 547,sistemas gerenciales,547,588
+548,Ing. Industrial,2017,2,ingeniero 548,sistemas geograficos,548,587
+549,Ing. Quimica,2017,1,ingeniero 549,herramientas de productivadad,549,586
+550,Ing. de Alimentos,2017,2,ingeniero 550,arquitectura de software,550,585
+551,Ing. Mecanica,2017,1,ingeniero 551,matematica 51,551,584
+552,Arquitectura,2017,2,arquiteco 552,fisica 51,552,583
+553,Ing. Sistemas,2017,1,ingeniero 553,quimica,553,582
+554,Ing. Electrica,2017,2,ingeniero 554,historia,554,581
+555,Ing. Civil,2017,1,ingeniero 555,psicologia,555,580
+556,Ing. Industrial,2017,2,ingeniero 556,introduccion a la informatica,556,579
+557,Ing. Quimica,2017,1,ingeniero 557,programacion,557,578
+558,Ing. de Alimentos,2017,2,ingeniero 558,sistemas gerenciales,558,577
+559,Ing. Mecanica,2017,1,ingeniero 559,sistemas geograficos,559,576
+560,Arquitectura,2017,2,arquiteco 560,herramientas de productivadad,560,575
+561,Ing. Sistemas,2017,1,ingeniero 561,arquitectura de software,561,574
+562,Ing. Electrica,2017,2,ingeniero 562,matematica 52,562,573
+563,Ing. Civil,2017,1,ingeniero 563,fisica 52,563,572
+564,Ing. Industrial,2017,2,ingeniero 564,quimica,564,571
+565,Ing. Quimica,2017,1,ingeniero 565,historia,565,570
+566,Ing. de Alimentos,2017,2,ingeniero 566,psicologia,566,569
+567,Ing. Mecanica,2017,1,ingeniero 567,introduccion a la informatica,567,568
+568,Arquitectura,2017,2,arquiteco 568,programacion,568,567
+569,Ing. Sistemas,2017,1,ingeniero 569,sistemas gerenciales,569,566
+570,Ing. Electrica,2017,2,ingeniero 570,sistemas geograficos,570,565
+571,Ing. Civil,2017,1,ingeniero 571,herramientas de productivadad,571,564
+572,Ing. Industrial,2017,2,ingeniero 572,arquitectura de software,572,563
+573,Ing. Quimica,2017,1,ingeniero 573,matematica 53,573,562
+574,Ing. de Alimentos,2017,2,ingeniero 574,fisica 53,574,561
+575,Ing. Mecanica,2017,1,ingeniero 575,quimica,575,560
+576,Arquitectura,2017,2,arquiteco 576,historia,576,559
+577,Ing. Sistemas,2017,1,ingeniero 577,psicologia,577,558
+578,Ing. Electrica,2017,2,ingeniero 578,introduccion a la informatica,578,557
+579,Ing. Civil,2017,1,ingeniero 579,programacion,579,556
+580,Ing. Industrial,2017,2,ingeniero 580,sistemas gerenciales,580,555
+581,Ing. Quimica,2017,1,ingeniero 581,sistemas geograficos,581,554
+582,Ing. de Alimentos,2017,2,ingeniero 582,herramientas de productivadad,582,553
+583,Ing. Mecanica,2017,1,ingeniero 583,arquitectura de software,583,552
+584,Arquitectura,2017,2,arquiteco 584,matematica 54,584,551
+585,Ing. Sistemas,2017,1,ingeniero 585,fisica 54,585,550
+586,Ing. Electrica,2017,2,ingeniero 586,quimica,586,549
+587,Ing. Civil,2017,1,ingeniero 587,historia,587,548
+588,Ing. Industrial,2017,2,ingeniero 588,psicologia,588,547
+589,Ing. Quimica,2017,1,ingeniero 589,introduccion a la informatica,589,546
+590,Ing. de Alimentos,2017,2,ingeniero 590,programacion,590,545
+591,Ing. Mecanica,2017,1,ingeniero 591,sistemas gerenciales,591,544
+592,Arquitectura,2017,2,arquiteco 592,sistemas geograficos,592,543
+593,Ing. Sistemas,2017,1,ingeniero 593,herramientas de productivadad,593,542
+594,Ing. Electrica,2017,2,ingeniero 594,arquitectura de software,594,541
+595,Ing. Civil,2017,1,ingeniero 595,matematica 55,595,540
+596,Ing. Industrial,2017,2,ingeniero 596,fisica 55,596,539
+597,Ing. Quimica,2017,1,ingeniero 597,quimica,597,538
+598,Ing. de Alimentos,2017,2,ingeniero 598,historia,598,537
+599,Ing. Mecanica,2017,1,ingeniero 599,psicologia,599,536
+600,Arquitectura,2017,2,arquiteco 600,introduccion a la informatica,600,535
+601,Ing. Sistemas,2017,1,ingeniero 601,programacion,601,534
+602,Ing. Electrica,2017,2,ingeniero 602,sistemas gerenciales,602,533
+603,Ing. Civil,2017,1,ingeniero 603,sistemas geograficos,603,532
+604,Ing. Industrial,2017,2,ingeniero 604,herramientas de productivadad,604,531
+605,Ing. Quimica,2017,1,ingeniero 605,arquitectura de software,605,530
+606,Ing. de Alimentos,2017,2,ingeniero 606,matematica 56,606,529
+607,Ing. Mecanica,2017,1,ingeniero 607,fisica 56,607,528
+608,Arquitectura,2017,2,arquiteco 608,quimica,608,527
+609,Ing. Sistemas,2017,1,ingeniero 609,historia,609,526
+610,Ing. Electrica,2017,2,ingeniero 610,psicologia,610,525
+611,Ing. Civil,2017,1,ingeniero 611,introduccion a la informatica,611,524
+612,Ing. Industrial,2017,2,ingeniero 612,programacion,612,523
+613,Ing. Quimica,2017,1,ingeniero 613,sistemas gerenciales,613,522
+614,Ing. de Alimentos,2017,2,ingeniero 614,sistemas geograficos,614,521
+615,Ing. Mecanica,2017,1,ingeniero 615,herramientas de productivadad,615,520
+616,Arquitectura,2017,2,arquiteco 616,arquitectura de software,616,519
+617,Ing. Sistemas,2017,1,ingeniero 617,matematica 57,617,518
+618,Ing. Electrica,2017,2,ingeniero 618,fisica 57,618,517
+619,Ing. Civil,2017,1,ingeniero 619,quimica,619,516
+620,Ing. Industrial,2017,2,ingeniero 620,historia,620,515
+621,Ing. Quimica,2017,1,ingeniero 621,psicologia,621,514
+622,Ing. de Alimentos,2017,2,ingeniero 622,introduccion a la informatica,622,513
+623,Ing. Mecanica,2017,1,ingeniero 623,programacion,623,512
+624,Arquitectura,2017,2,arquiteco 624,sistemas gerenciales,624,511
+625,Ing. Sistemas,2017,1,ingeniero 625,sistemas geograficos,625,510
+626,Ing. Electrica,2017,2,ingeniero 626,herramientas de productivadad,626,509
+627,Ing. Civil,2017,1,ingeniero 627,arquitectura de software,627,508
+628,Ing. Industrial,2017,2,ingeniero 628,matematica 58,628,507
+629,Ing. Quimica,2017,1,ingeniero 629,fisica 58,629,506
+630,Ing. de Alimentos,2017,2,ingeniero 630,quimica,630,505
+631,Ing. Mecanica,2017,1,ingeniero 631,historia,631,504
+632,Arquitectura,2017,2,arquiteco 632,psicologia,632,503
+633,Ing. Sistemas,2017,1,ingeniero 633,introduccion a la informatica,633,502
+634,Ing. Electrica,2017,2,ingeniero 634,programacion,634,501
+635,Ing. Civil,2017,1,ingeniero 635,sistemas gerenciales,635,500
+636,Ing. Industrial,2017,2,ingeniero 636,sistemas geograficos,636,499
+637,Ing. Quimica,2017,1,ingeniero 637,herramientas de productivadad,637,498
+638,Ing. de Alimentos,2017,2,ingeniero 638,arquitectura de software,638,497
+639,Ing. Mecanica,2017,1,ingeniero 639,matematica 59,639,496
+640,Arquitectura,2017,2,arquiteco 640,fisica 59,640,495
+641,Ing. Sistemas,2017,1,ingeniero 641,quimica,641,494
+642,Ing. Electrica,2017,2,ingeniero 642,historia,642,493
+643,Ing. Civil,2017,1,ingeniero 643,psicologia,643,492
+644,Ing. Industrial,2017,2,ingeniero 644,introduccion a la informatica,644,491
+645,Ing. Quimica,2017,1,ingeniero 645,programacion,645,490
+646,Ing. de Alimentos,2017,2,ingeniero 646,sistemas gerenciales,646,489
+647,Ing. Mecanica,2017,1,ingeniero 647,sistemas geograficos,647,488
+648,Arquitectura,2017,2,arquiteco 648,herramientas de productivadad,648,487
+649,Ing. Sistemas,2017,1,ingeniero 649,arquitectura de software,649,486
+650,Ing. Electrica,2017,2,ingeniero 650,matematica 60,650,485
+651,Ing. Civil,2017,1,ingeniero 651,fisica 60,651,484
+652,Ing. Industrial,2017,2,ingeniero 652,quimica,652,483
+653,Ing. Quimica,2017,1,ingeniero 653,historia,653,482
+654,Ing. de Alimentos,2017,2,ingeniero 654,psicologia,654,481
+655,Ing. Mecanica,2017,1,ingeniero 655,introduccion a la informatica,655,480
+656,Arquitectura,2017,2,arquiteco 656,programacion,656,479
+657,Ing. Sistemas,2017,1,ingeniero 657,sistemas gerenciales,657,478
+658,Ing. Electrica,2017,2,ingeniero 658,sistemas geograficos,658,477
+659,Ing. Civil,2017,1,ingeniero 659,herramientas de productivadad,659,476
+660,Ing. Industrial,2017,2,ingeniero 660,arquitectura de software,660,475
+661,Ing. Quimica,2017,1,ingeniero 661,matematica 61,661,474
+662,Ing. de Alimentos,2017,2,ingeniero 662,fisica 61,662,473
+663,Ing. Mecanica,2017,1,ingeniero 663,quimica,663,472
+664,Arquitectura,2017,2,arquiteco 664,historia,664,471
+665,Ing. Sistemas,2017,1,ingeniero 665,psicologia,665,470
+666,Ing. Electrica,2017,2,ingeniero 666,introduccion a la informatica,666,469
+667,Ing. Civil,2017,1,ingeniero 667,programacion,667,468
+668,Ing. Industrial,2017,2,ingeniero 668,sistemas gerenciales,668,467
+669,Ing. Quimica,2017,1,ingeniero 669,sistemas geograficos,669,466
+670,Ing. de Alimentos,2017,2,ingeniero 670,herramientas de productivadad,670,465
+671,Ing. Mecanica,2017,1,ingeniero 671,arquitectura de software,671,464
+672,Arquitectura,2017,2,arquiteco 672,matematica 62,672,463
+673,Ing. Sistemas,2017,1,ingeniero 673,fisica 62,673,462
+674,Ing. Electrica,2017,2,ingeniero 674,quimica,674,461
+675,Ing. Civil,2017,1,ingeniero 675,historia,675,460
+676,Ing. Industrial,2017,2,ingeniero 676,psicologia,676,459
+677,Ing. Quimica,2017,1,ingeniero 677,introduccion a la informatica,677,458
+678,Ing. de Alimentos,2017,2,ingeniero 678,programacion,678,457
+679,Ing. Mecanica,2017,1,ingeniero 679,sistemas gerenciales,679,456
+680,Arquitectura,2017,2,arquiteco 680,sistemas geograficos,680,455
+681,Ing. Sistemas,2017,1,ingeniero 681,herramientas de productivadad,681,454
+682,Ing. Electrica,2017,2,ingeniero 682,arquitectura de software,682,453
+683,Ing. Civil,2017,1,ingeniero 683,matematica 63,683,452
+684,Ing. Industrial,2017,2,ingeniero 684,fisica 63,684,451
+685,Ing. Quimica,2017,1,ingeniero 685,quimica,685,450
+686,Ing. de Alimentos,2017,2,ingeniero 686,historia,686,449
+687,Ing. Mecanica,2017,1,ingeniero 687,psicologia,687,448
+688,Arquitectura,2017,2,arquiteco 688,introduccion a la informatica,688,447
+689,Ing. Sistemas,2017,1,ingeniero 689,programacion,689,446
+690,Ing. Electrica,2017,2,ingeniero 690,sistemas gerenciales,690,445
+691,Ing. Civil,2017,1,ingeniero 691,sistemas geograficos,691,444
+692,Ing. Industrial,2017,2,ingeniero 692,herramientas de productivadad,692,443
+693,Ing. Quimica,2017,1,ingeniero 693,arquitectura de software,693,442
+694,Ing. de Alimentos,2017,2,ingeniero 694,matematica 64,694,441
+695,Ing. Mecanica,2017,1,ingeniero 695,fisica 64,695,440
+696,Arquitectura,2017,2,arquiteco 696,quimica,696,439
+697,Ing. Sistemas,2017,1,ingeniero 697,historia,697,438
+698,Ing. Electrica,2017,2,ingeniero 698,psicologia,698,437
+699,Ing. Civil,2017,1,ingeniero 699,introduccion a la informatica,699,436
+700,Ing. Industrial,2017,2,ingeniero 700,programacion,700,435
+701,Ing. Quimica,2017,1,ingeniero 701,sistemas gerenciales,701,434
+702,Ing. de Alimentos,2017,2,ingeniero 702,sistemas geograficos,702,433
+703,Ing. Mecanica,2017,1,ingeniero 703,herramientas de productivadad,703,432
+704,Arquitectura,2017,2,arquiteco 704,arquitectura de software,704,431
+705,Ing. Sistemas,2017,1,ingeniero 705,matematica 65,705,430
+706,Ing. Electrica,2017,2,ingeniero 706,fisica 65,706,429
+707,Ing. Civil,2017,1,ingeniero 707,quimica,707,428
+708,Ing. Industrial,2017,2,ingeniero 708,historia,708,427
+709,Ing. Quimica,2017,1,ingeniero 709,psicologia,709,426
+710,Ing. de Alimentos,2017,2,ingeniero 710,introduccion a la informatica,710,425
+711,Ing. Mecanica,2017,1,ingeniero 711,programacion,711,424
+712,Arquitectura,2017,2,arquiteco 712,sistemas gerenciales,712,423
+713,Ing. Sistemas,2017,1,ingeniero 713,sistemas geograficos,713,422
+714,Ing. Electrica,2017,2,ingeniero 714,herramientas de productivadad,714,421
+715,Ing. Civil,2017,1,ingeniero 715,arquitectura de software,715,420
+716,Ing. Industrial,2017,2,ingeniero 716,matematica 66,716,419
+717,Ing. Quimica,2017,1,ingeniero 717,fisica 66,717,418
+718,Ing. de Alimentos,2017,2,ingeniero 718,quimica,718,417
+719,Ing. Mecanica,2017,1,ingeniero 719,historia,719,416
+720,Arquitectura,2017,2,arquiteco 720,psicologia,720,415
+721,Ing. Sistemas,2017,1,ingeniero 721,introduccion a la informatica,721,414
+722,Ing. Electrica,2017,2,ingeniero 722,programacion,722,413
+723,Ing. Civil,2017,1,ingeniero 723,sistemas gerenciales,723,412
+724,Ing. Industrial,2017,2,ingeniero 724,sistemas geograficos,724,411
+725,Ing. Quimica,2017,1,ingeniero 725,herramientas de productivadad,725,410
+726,Ing. de Alimentos,2017,2,ingeniero 726,arquitectura de software,726,409
+727,Ing. Mecanica,2017,1,ingeniero 727,matematica 67,727,408
+728,Arquitectura,2017,2,arquiteco 728,fisica 67,728,407
+729,Ing. Sistemas,2017,1,ingeniero 729,quimica,729,406
+730,Ing. Electrica,2017,2,ingeniero 730,historia,730,405
+731,Ing. Civil,2017,1,ingeniero 731,psicologia,731,404
+732,Ing. Industrial,2017,2,ingeniero 732,introduccion a la informatica,732,403
+733,Ing. Quimica,2017,1,ingeniero 733,programacion,733,402
+734,Ing. de Alimentos,2017,2,ingeniero 734,sistemas gerenciales,734,401
+735,Ing. Mecanica,2017,1,ingeniero 735,sistemas geograficos,735,400
+736,Arquitectura,2017,2,arquiteco 736,herramientas de productivadad,736,399
+737,Ing. Sistemas,2017,1,ingeniero 737,arquitectura de software,737,398
+738,Ing. Electrica,2017,2,ingeniero 738,matematica 68,738,397
+739,Ing. Civil,2017,1,ingeniero 739,fisica 68,739,396
+740,Ing. Industrial,2017,2,ingeniero 740,quimica,740,395
+741,Ing. Quimica,2017,1,ingeniero 741,historia,741,394
+742,Ing. de Alimentos,2017,2,ingeniero 742,psicologia,742,393
+743,Ing. Mecanica,2017,1,ingeniero 743,introduccion a la informatica,743,392
+744,Arquitectura,2017,2,arquiteco 744,programacion,744,391
+745,Ing. Sistemas,2017,1,ingeniero 745,sistemas gerenciales,745,390
+746,Ing. Electrica,2017,2,ingeniero 746,sistemas geograficos,746,389
+747,Ing. Civil,2017,1,ingeniero 747,herramientas de productivadad,747,388
+748,Ing. Industrial,2017,2,ingeniero 748,arquitectura de software,748,387
+749,Ing. Quimica,2017,1,ingeniero 749,matematica 69,749,386
+750,Ing. de Alimentos,2017,2,ingeniero 750,fisica 69,750,385
+751,Ing. Mecanica,2017,1,ingeniero 751,quimica,751,384
+752,Arquitectura,2017,2,arquiteco 752,historia,752,383
+753,Ing. Sistemas,2017,1,ingeniero 753,psicologia,753,382
+754,Ing. Electrica,2017,2,ingeniero 754,introduccion a la informatica,754,381
+755,Ing. Civil,2017,1,ingeniero 755,programacion,755,380
+756,Ing. Industrial,2017,2,ingeniero 756,sistemas gerenciales,756,379
+757,Ing. Quimica,2017,1,ingeniero 757,sistemas geograficos,757,378
+758,Ing. de Alimentos,2017,2,ingeniero 758,herramientas de productivadad,758,377
+759,Ing. Mecanica,2017,1,ingeniero 759,arquitectura de software,759,376
+760,Arquitectura,2017,2,arquiteco 760,matematica 70,760,375
+761,Ing. Sistemas,2017,1,ingeniero 761,fisica 70,761,374
+762,Ing. Electrica,2017,2,ingeniero 762,quimica,762,373
+763,Ing. Civil,2017,1,ingeniero 763,historia,763,372
+764,Ing. Industrial,2017,2,ingeniero 764,psicologia,764,371
+765,Ing. Quimica,2017,1,ingeniero 765,introduccion a la informatica,765,370
+766,Ing. de Alimentos,2017,2,ingeniero 766,programacion,766,369
+767,Ing. Mecanica,2017,1,ingeniero 767,sistemas gerenciales,767,368
+768,Arquitectura,2017,2,arquiteco 768,sistemas geograficos,768,367
+769,Ing. Sistemas,2017,1,ingeniero 769,herramientas de productivadad,769,366
+770,Ing. Electrica,2017,2,ingeniero 770,arquitectura de software,770,365
+771,Ing. Civil,2017,1,ingeniero 771,matematica 71,771,364
+772,Ing. Industrial,2017,2,ingeniero 772,fisica 71,772,363
+773,Ing. Quimica,2017,1,ingeniero 773,quimica,773,362
+774,Ing. de Alimentos,2017,2,ingeniero 774,historia,774,361
+775,Ing. Mecanica,2017,1,ingeniero 775,psicologia,775,360
+776,Arquitectura,2017,2,arquiteco 776,introduccion a la informatica,776,359
+777,Ing. Sistemas,2017,1,ingeniero 777,programacion,777,358
+778,Ing. Electrica,2017,2,ingeniero 778,sistemas gerenciales,778,357
+779,Ing. Civil,2017,1,ingeniero 779,sistemas geograficos,779,356
+780,Ing. Industrial,2017,2,ingeniero 780,herramientas de productivadad,780,355
+781,Ing. Quimica,2017,1,ingeniero 781,arquitectura de software,781,354
+782,Ing. de Alimentos,2017,2,ingeniero 782,matematica 72,782,353
+783,Ing. Mecanica,2017,1,ingeniero 783,fisica 72,783,352
+784,Arquitectura,2017,2,arquiteco 784,quimica,784,351
+785,Ing. Sistemas,2017,1,ingeniero 785,historia,785,350
+786,Ing. Electrica,2017,2,ingeniero 786,psicologia,786,349
+787,Ing. Civil,2017,1,ingeniero 787,introduccion a la informatica,787,348
+788,Ing. Industrial,2017,2,ingeniero 788,programacion,788,347
+789,Ing. Quimica,2017,1,ingeniero 789,sistemas gerenciales,789,346
+790,Ing. de Alimentos,2017,2,ingeniero 790,sistemas geograficos,790,345
+791,Ing. Mecanica,2017,1,ingeniero 791,herramientas de productivadad,791,344
+792,Arquitectura,2017,2,arquiteco 792,arquitectura de software,792,343
+793,Ing. Sistemas,2017,1,ingeniero 793,matematica 73,793,342
+794,Ing. Electrica,2017,2,ingeniero 794,fisica 73,794,341
+795,Ing. Civil,2017,1,ingeniero 795,quimica,795,340
+796,Ing. Industrial,2017,2,ingeniero 796,historia,796,339
+797,Ing. Quimica,2017,1,ingeniero 797,psicologia,797,338
+798,Ing. de Alimentos,2017,2,ingeniero 798,introduccion a la informatica,798,337
+799,Ing. Mecanica,2017,1,ingeniero 799,programacion,799,336
+800,Arquitectura,2017,2,arquiteco 800,sistemas gerenciales,800,335
+801,Ing. Sistemas,2017,1,ingeniero 801,sistemas geograficos,801,334
+802,Ing. Electrica,2017,2,ingeniero 802,herramientas de productivadad,802,333
+803,Ing. Civil,2017,1,ingeniero 803,arquitectura de software,803,332
+804,Ing. Industrial,2017,2,ingeniero 804,matematica 74,804,331
+805,Ing. Quimica,2017,1,ingeniero 805,fisica 74,805,330
+806,Ing. de Alimentos,2017,2,ingeniero 806,quimica,806,329
+807,Ing. Mecanica,2017,1,ingeniero 807,historia,807,328
+808,Arquitectura,2017,2,arquiteco 808,psicologia,808,327
+809,Ing. Sistemas,2017,1,ingeniero 809,introduccion a la informatica,809,326
+810,Ing. Electrica,2017,2,ingeniero 810,programacion,810,325
+811,Ing. Civil,2017,1,ingeniero 811,sistemas gerenciales,811,324
+812,Ing. Industrial,2017,2,ingeniero 812,sistemas geograficos,812,323
+813,Ing. Quimica,2017,1,ingeniero 813,herramientas de productivadad,813,322
+814,Ing. de Alimentos,2017,2,ingeniero 814,arquitectura de software,814,321
+815,Ing. Mecanica,2017,1,ingeniero 815,matematica 75,815,320
+816,Arquitectura,2017,2,arquiteco 816,fisica 75,816,319
+817,Ing. Sistemas,2017,1,ingeniero 817,quimica,817,318
+818,Ing. Electrica,2017,2,ingeniero 818,historia,818,317
+819,Ing. Civil,2017,1,ingeniero 819,psicologia,819,316
+820,Ing. Industrial,2017,2,ingeniero 820,introduccion a la informatica,820,315
+821,Ing. Quimica,2017,1,ingeniero 821,programacion,821,314
+822,Ing. de Alimentos,2017,2,ingeniero 822,sistemas gerenciales,822,313
+823,Ing. Mecanica,2017,1,ingeniero 823,sistemas geograficos,823,312
+824,Arquitectura,2017,2,arquiteco 824,herramientas de productivadad,824,311
+825,Ing. Sistemas,2017,1,ingeniero 825,arquitectura de software,825,310
+826,Ing. Electrica,2017,2,ingeniero 826,matematica 76,826,309
+827,Ing. Civil,2017,1,ingeniero 827,fisica 76,827,308
+828,Ing. Industrial,2017,2,ingeniero 828,quimica,828,307
+829,Ing. Quimica,2017,1,ingeniero 829,historia,829,306
+830,Ing. de Alimentos,2017,2,ingeniero 830,psicologia,830,305
+831,Ing. Mecanica,2017,1,ingeniero 831,introduccion a la informatica,831,304
+832,Arquitectura,2017,2,arquiteco 832,programacion,832,303
+833,Ing. Sistemas,2017,1,ingeniero 833,sistemas gerenciales,833,302
+834,Ing. Electrica,2017,2,ingeniero 834,sistemas geograficos,834,301
+835,Ing. Civil,2017,1,ingeniero 835,herramientas de productivadad,835,300
+836,Ing. Industrial,2017,2,ingeniero 836,arquitectura de software,836,299
+837,Ing. Quimica,2017,1,ingeniero 837,matematica 77,837,298
+838,Ing. de Alimentos,2017,2,ingeniero 838,fisica 77,838,297
+839,Ing. Mecanica,2017,1,ingeniero 839,quimica,839,296
+840,Arquitectura,2017,2,arquiteco 840,historia,840,295
+841,Ing. Sistemas,2017,1,ingeniero 841,psicologia,841,294
+842,Ing. Electrica,2017,2,ingeniero 842,introduccion a la informatica,842,293
+843,Ing. Civil,2017,1,ingeniero 843,programacion,843,292
+844,Ing. Industrial,2017,2,ingeniero 844,sistemas gerenciales,844,291
+845,Ing. Quimica,2017,1,ingeniero 845,sistemas geograficos,845,290
+846,Ing. de Alimentos,2017,2,ingeniero 846,herramientas de productivadad,846,289
+847,Ing. Mecanica,2017,1,ingeniero 847,arquitectura de software,847,288
+848,Arquitectura,2017,2,arquiteco 848,matematica 78,848,287
+849,Ing. Sistemas,2017,1,ingeniero 849,fisica 78,849,286
+850,Ing. Electrica,2017,2,ingeniero 850,quimica,850,285
+851,Ing. Civil,2017,1,ingeniero 851,historia,851,284
+852,Ing. Industrial,2017,2,ingeniero 852,psicologia,852,283
+853,Ing. Quimica,2017,1,ingeniero 853,introduccion a la informatica,853,282
+854,Ing. de Alimentos,2017,2,ingeniero 854,programacion,854,281
+855,Ing. Mecanica,2017,1,ingeniero 855,sistemas gerenciales,855,280
+856,Arquitectura,2017,2,arquiteco 856,sistemas geograficos,856,279
+857,Ing. Sistemas,2017,1,ingeniero 857,herramientas de productivadad,857,278
+858,Ing. Electrica,2017,2,ingeniero 858,arquitectura de software,858,277
+859,Ing. Civil,2017,1,ingeniero 859,matematica 79,859,276
+860,Ing. Industrial,2017,2,ingeniero 860,fisica 79,860,275
+861,Ing. Quimica,2017,1,ingeniero 861,quimica,861,274
+862,Ing. de Alimentos,2017,2,ingeniero 862,historia,862,273
+863,Ing. Mecanica,2017,1,ingeniero 863,psicologia,863,272
+864,Arquitectura,2017,2,arquiteco 864,introduccion a la informatica,864,271
+865,Ing. Sistemas,2017,1,ingeniero 865,programacion,865,270
+866,Ing. Electrica,2017,2,ingeniero 866,sistemas gerenciales,866,269
+867,Ing. Civil,2017,1,ingeniero 867,sistemas geograficos,867,268
+868,Ing. Industrial,2015,2,ingeniero 868,herramientas de productivadad,868,267
+869,Ing. Quimica,2015,1,ingeniero 869,arquitectura de software,869,266
+870,Ing. de Alimentos,2015,2,ingeniero 870,matematica 80,870,265
+871,Ing. Mecanica,2015,1,ingeniero 871,fisica 80,871,264
+872,Arquitectura,2015,2,arquiteco 872,quimica,872,263
+873,Ing. Sistemas,2015,1,ingeniero 873,historia,873,262
+874,Ing. Electrica,2015,2,ingeniero 874,psicologia,874,261
+875,Ing. Civil,2015,1,ingeniero 875,introduccion a la informatica,875,260
+876,Ing. Industrial,2015,2,ingeniero 876,programacion,876,259
+877,Ing. Quimica,2015,1,ingeniero 877,sistemas gerenciales,877,258
+878,Ing. de Alimentos,2015,2,ingeniero 878,sistemas geograficos,878,257
+879,Ing. Mecanica,2015,1,ingeniero 879,herramientas de productivadad,879,256
+880,Arquitectura,2015,2,arquiteco 880,arquitectura de software,880,255
+881,Ing. Sistemas,2015,1,ingeniero 881,matematica 81,881,254
+882,Ing. Electrica,2015,2,ingeniero 882,fisica 81,882,253
+883,Ing. Civil,2015,1,ingeniero 883,quimica,883,252
+884,Ing. Industrial,2015,2,ingeniero 884,historia,884,251
+885,Ing. Quimica,2015,1,ingeniero 885,psicologia,885,250
+886,Ing. de Alimentos,2015,2,ingeniero 886,introduccion a la informatica,886,249
+887,Ing. Mecanica,2015,1,ingeniero 887,programacion,887,248
+888,Arquitectura,2015,2,arquiteco 888,sistemas gerenciales,888,247
+889,Ing. Sistemas,2015,1,ingeniero 889,sistemas geograficos,889,246
+890,Ing. Electrica,2015,2,ingeniero 890,herramientas de productivadad,890,245
+891,Ing. Civil,2015,1,ingeniero 891,arquitectura de software,891,244
+892,Ing. Industrial,2015,2,ingeniero 892,matematica 82,892,243
+893,Ing. Quimica,2015,1,ingeniero 893,fisica 82,893,242
+894,Ing. de Alimentos,2015,2,ingeniero 894,quimica,894,241
+895,Ing. Mecanica,2015,1,ingeniero 895,historia,895,240
+896,Arquitectura,2015,2,arquiteco 896,psicologia,896,239
+897,Ing. Sistemas,2015,1,ingeniero 897,introduccion a la informatica,897,238
+898,Ing. Electrica,2015,2,ingeniero 898,programacion,898,237
+899,Ing. Civil,2015,1,ingeniero 899,sistemas gerenciales,899,236
+900,Ing. Industrial,2015,2,ingeniero 900,sistemas geograficos,900,235
+901,Ing. Quimica,2015,1,ingeniero 901,herramientas de productivadad,901,234
+902,Ing. de Alimentos,2015,2,ingeniero 902,arquitectura de software,902,233
+903,Ing. Mecanica,2015,1,ingeniero 903,matematica 83,903,232
+904,Arquitectura,2015,2,arquiteco 904,fisica 83,904,231
+905,Ing. Sistemas,2015,1,ingeniero 905,quimica,905,230
+906,Ing. Electrica,2015,2,ingeniero 906,historia,906,229
+907,Ing. Civil,2015,1,ingeniero 907,psicologia,907,228
+908,Ing. Industrial,2015,2,ingeniero 908,introduccion a la informatica,908,227
+909,Ing. Quimica,2015,1,ingeniero 909,programacion,909,226
+910,Ing. de Alimentos,2015,2,ingeniero 910,sistemas gerenciales,910,225
+911,Ing. Mecanica,2015,1,ingeniero 911,sistemas geograficos,911,224
+912,Arquitectura,2015,2,arquiteco 912,herramientas de productivadad,912,223
+913,Ing. Sistemas,2015,1,ingeniero 913,arquitectura de software,913,222
+914,Ing. Electrica,2015,2,ingeniero 914,matematica 84,914,221
+915,Ing. Civil,2015,1,ingeniero 915,fisica 84,915,220
+916,Ing. Industrial,2015,2,ingeniero 916,quimica,916,219
+917,Ing. Quimica,2015,1,ingeniero 917,historia,917,218
+918,Ing. de Alimentos,2015,2,ingeniero 918,psicologia,918,217
+919,Ing. Mecanica,2015,1,ingeniero 919,introduccion a la informatica,919,216
+920,Arquitectura,2015,2,arquiteco 920,programacion,920,215
+921,Ing. Sistemas,2015,1,ingeniero 921,sistemas gerenciales,921,214
+922,Ing. Electrica,2015,2,ingeniero 922,sistemas geograficos,922,213
+923,Ing. Civil,2015,1,ingeniero 923,herramientas de productivadad,923,212
+924,Ing. Industrial,2015,2,ingeniero 924,arquitectura de software,924,211
+925,Ing. Quimica,2015,1,ingeniero 925,matematica 85,925,210
+926,Ing. de Alimentos,2015,2,ingeniero 926,fisica 85,926,209
+927,Ing. Mecanica,2015,1,ingeniero 927,quimica,927,208
+928,Arquitectura,2015,2,arquiteco 928,historia,928,207
+929,Ing. Sistemas,2015,1,ingeniero 929,psicologia,929,206
+930,Ing. Electrica,2015,2,ingeniero 930,introduccion a la informatica,930,205
+931,Ing. Civil,2015,1,ingeniero 931,programacion,931,204
+932,Ing. Industrial,2015,2,ingeniero 932,sistemas gerenciales,932,203
+933,Ing. Quimica,2015,1,ingeniero 933,sistemas geograficos,933,202
+934,Ing. de Alimentos,2015,2,ingeniero 934,herramientas de productivadad,934,201
+935,Ing. Mecanica,2015,1,ingeniero 935,arquitectura de software,935,200
+936,Arquitectura,2015,2,arquiteco 936,matematica 86,936,199
+937,Ing. Sistemas,2015,1,ingeniero 937,fisica 86,937,198
+938,Ing. Electrica,2015,2,ingeniero 938,quimica,938,197
+939,Ing. Civil,2015,1,ingeniero 939,historia,939,196
+940,Ing. Industrial,2015,2,ingeniero 940,psicologia,940,195
+941,Ing. Quimica,2015,1,ingeniero 941,introduccion a la informatica,941,194
+942,Ing. de Alimentos,2015,2,ingeniero 942,programacion,942,193
+943,Ing. Mecanica,2015,1,ingeniero 943,sistemas gerenciales,943,192
+944,Arquitectura,2015,2,arquiteco 944,sistemas geograficos,944,191
+945,Ing. Sistemas,2015,1,ingeniero 945,herramientas de productivadad,945,190
+946,Ing. Electrica,2015,2,ingeniero 946,arquitectura de software,946,189
+947,Ing. Civil,2015,1,ingeniero 947,matematica 87,947,188
+948,Ing. Industrial,2015,2,ingeniero 948,fisica 87,948,187
+949,Ing. Quimica,2015,1,ingeniero 949,quimica,949,186
+950,Ing. de Alimentos,2015,2,ingeniero 950,historia,950,185
+951,Ing. Mecanica,2015,1,ingeniero 951,psicologia,951,184
+952,Arquitectura,2015,2,arquiteco 952,introduccion a la informatica,952,183
+953,Ing. Sistemas,2015,1,ingeniero 953,programacion,953,182
+954,Ing. Electrica,2015,2,ingeniero 954,sistemas gerenciales,954,181
+955,Ing. Civil,2015,1,ingeniero 955,sistemas geograficos,955,180
+956,Ing. Industrial,2015,2,ingeniero 956,herramientas de productivadad,956,179
+957,Ing. Quimica,2015,1,ingeniero 957,arquitectura de software,957,178
+958,Ing. de Alimentos,2015,2,ingeniero 958,matematica 88,958,177
+959,Ing. Mecanica,2015,1,ingeniero 959,fisica 88,959,176
+960,Arquitectura,2015,2,arquiteco 960,quimica,960,175
+961,Ing. Sistemas,2015,1,ingeniero 961,historia,961,174
+962,Ing. Electrica,2015,2,ingeniero 962,psicologia,962,173
+963,Ing. Civil,2015,1,ingeniero 963,introduccion a la informatica,963,172
+964,Ing. Industrial,2015,2,ingeniero 964,programacion,964,171
+965,Ing. Quimica,2015,1,ingeniero 965,sistemas gerenciales,965,170
+966,Ing. de Alimentos,2015,2,ingeniero 966,sistemas geograficos,966,169
+967,Ing. Mecanica,2015,1,ingeniero 967,herramientas de productivadad,967,168
+968,Arquitectura,2015,2,arquiteco 968,arquitectura de software,968,167
+969,Ing. Sistemas,2015,1,ingeniero 969,matematica 89,969,166
+970,Ing. Electrica,2015,2,ingeniero 970,fisica 89,970,165
+971,Ing. Civil,2015,1,ingeniero 971,quimica,971,164
+972,Ing. Industrial,2015,2,ingeniero 972,historia,972,163
+973,Ing. Quimica,2015,1,ingeniero 973,psicologia,973,162
+974,Ing. de Alimentos,2015,2,ingeniero 974,introduccion a la informatica,974,161
+975,Ing. Mecanica,2015,1,ingeniero 975,programacion,975,160
+976,Arquitectura,2015,2,arquiteco 976,sistemas gerenciales,976,159
+977,Ing. Sistemas,2015,1,ingeniero 977,sistemas geograficos,977,158
+978,Ing. Electrica,2015,2,ingeniero 978,herramientas de productivadad,978,157
+979,Ing. Civil,2015,1,ingeniero 979,arquitectura de software,979,156
+980,Ing. Industrial,2015,2,ingeniero 980,matematica 90,980,155
+981,Ing. Quimica,2015,1,ingeniero 981,fisica 90,981,154
+982,Ing. de Alimentos,2015,2,ingeniero 982,quimica,982,153
+983,Ing. Mecanica,2015,1,ingeniero 983,historia,983,152
+984,Arquitectura,2015,2,arquiteco 984,psicologia,984,151
+985,Ing. Sistemas,2015,1,ingeniero 985,introduccion a la informatica,985,150
+986,Ing. Electrica,2015,2,ingeniero 986,programacion,986,149
+987,Ing. Civil,2015,1,ingeniero 987,sistemas gerenciales,987,148
+988,Ing. Industrial,2015,2,ingeniero 988,sistemas geograficos,988,147
+989,Ing. Quimica,2015,1,ingeniero 989,herramientas de productivadad,989,146
+990,Ing. de Alimentos,2015,2,ingeniero 990,arquitectura de software,990,145
+991,Ing. Mecanica,2015,1,ingeniero 991,matematica 91,991,144
+992,Arquitectura,2015,2,arquiteco 992,fisica 91,992,143
+993,Ing. Sistemas,2015,1,ingeniero 993,quimica,993,142
+994,Ing. Electrica,2015,2,ingeniero 994,historia,994,141
+995,Ing. Civil,2015,1,ingeniero 995,psicologia,995,140
+996,Ing. Industrial,2015,2,ingeniero 996,introduccion a la informatica,996,139
+997,Ing. Quimica,2015,1,ingeniero 997,programacion,997,138
+998,Ing. de Alimentos,2015,2,ingeniero 998,sistemas gerenciales,998,137
+999,Ing. Mecanica,2015,1,ingeniero 999,sistemas geograficos,999,136
+1000,Arquitectura,2015,2,arquiteco 1000,herramientas de productivadad,1000,135
+1001,Ing. Sistemas,2015,1,ingeniero 1001,arquitectura de software,1001,134
+1002,Ing. Electrica,2015,2,ingeniero 1002,matematica 92,1002,133
+1003,Ing. Civil,2015,1,ingeniero 1003,fisica 92,1003,132
+1004,Ing. Industrial,2015,2,ingeniero 1004,quimica,1004,131
+1005,Ing. Quimica,2015,1,ingeniero 1005,historia,1005,130
+1006,Ing. de Alimentos,2015,2,ingeniero 1006,psicologia,1006,129
+1007,Ing. Mecanica,2015,1,ingeniero 1007,introduccion a la informatica,1007,128
+1008,Arquitectura,2015,2,arquiteco 1008,programacion,1008,127
+1009,Ing. Sistemas,2015,1,ingeniero 1009,sistemas gerenciales,1009,126
+1010,Ing. Electrica,2015,2,ingeniero 1010,sistemas geograficos,1010,125
+1011,Ing. Civil,2015,1,ingeniero 1011,herramientas de productivadad,1011,124
+1012,Ing. Industrial,2015,2,ingeniero 1012,arquitectura de software,1012,123
+1013,Ing. Quimica,2015,1,ingeniero 1013,matematica 93,1013,122
+1014,Ing. de Alimentos,2015,2,ingeniero 1014,fisica 93,1014,121
+1015,Ing. Mecanica,2015,1,ingeniero 1015,quimica,1015,120
+1016,Arquitectura,2015,2,arquiteco 1016,historia,1016,119
+1017,Ing. Sistemas,2015,1,ingeniero 1017,psicologia,1017,118
+1018,Ing. Electrica,2015,2,ingeniero 1018,introduccion a la informatica,1018,117
+1019,Ing. Civil,2015,1,ingeniero 1019,programacion,1019,116
+1020,Ing. Industrial,2015,2,ingeniero 1020,sistemas gerenciales,1020,115
+1021,Ing. Quimica,2015,1,ingeniero 1021,sistemas geograficos,1021,114
+1022,Ing. de Alimentos,2015,2,ingeniero 1022,herramientas de productivadad,1022,113
+1023,Ing. Mecanica,2015,1,ingeniero 1023,arquitectura de software,1023,112
+1024,Arquitectura,2015,2,arquiteco 1024,matematica 94,1024,111
+1025,Ing. Sistemas,2015,1,ingeniero 1025,fisica 94,1025,110
+1026,Ing. Electrica,2015,2,ingeniero 1026,quimica,1026,109
+1027,Ing. Civil,2015,1,ingeniero 1027,historia,1027,108
+1028,Ing. Industrial,2015,2,ingeniero 1028,psicologia,1028,107
+1029,Ing. Quimica,2015,1,ingeniero 1029,introduccion a la informatica,1029,106
+1030,Ing. de Alimentos,2015,2,ingeniero 1030,programacion,1030,105
+1031,Ing. Mecanica,2015,1,ingeniero 1031,sistemas gerenciales,1031,104
+1032,Arquitectura,2015,2,arquiteco 1032,sistemas geograficos,1032,103
+1033,Ing. Sistemas,2015,1,ingeniero 1033,herramientas de productivadad,1033,102
+1034,Ing. Electrica,2015,2,ingeniero 1034,arquitectura de software,1034,101
+1035,Ing. Civil,2015,1,ingeniero 1035,matematica 95,1035,100
+1036,Ing. Industrial,2015,2,ingeniero 1036,fisica 95,1036,99
+1037,Ing. Quimica,2015,1,ingeniero 1037,quimica,1037,98
+1038,Ing. de Alimentos,2015,2,ingeniero 1038,historia,1038,97
+1039,Ing. Mecanica,2015,1,ingeniero 1039,psicologia,1039,96
+1040,Arquitectura,2015,2,arquiteco 1040,introduccion a la informatica,1040,95
+1041,Ing. Sistemas,2015,1,ingeniero 1041,programacion,1041,94
+1042,Ing. Electrica,2015,2,ingeniero 1042,sistemas gerenciales,1042,93
+1043,Ing. Civil,2015,1,ingeniero 1043,sistemas geograficos,1043,92
+1044,Ing. Industrial,2015,2,ingeniero 1044,herramientas de productivadad,1044,91
+1045,Ing. Quimica,2015,1,ingeniero 1045,arquitectura de software,1045,90
+1046,Ing. de Alimentos,2015,2,ingeniero 1046,matematica 96,1046,89
+1047,Ing. Mecanica,2015,1,ingeniero 1047,fisica 96,1047,88
+1048,Arquitectura,2015,2,arquiteco 1048,quimica,1048,87
+1049,Ing. Sistemas,2016,1,ingeniero 1049,historia,1049,86
+1050,Ing. Electrica,2016,2,ingeniero 1050,psicologia,1050,85
+1051,Ing. Civil,2016,1,ingeniero 1051,introduccion a la informatica,1051,84
+1052,Ing. Industrial,2016,2,ingeniero 1052,programacion,1052,83
+1053,Ing. Quimica,2016,1,ingeniero 1053,sistemas gerenciales,1053,82
+1054,Ing. de Alimentos,2016,2,ingeniero 1054,sistemas geograficos,1054,81
+1055,Ing. Mecanica,2016,1,ingeniero 1055,herramientas de productivadad,1055,80
+1056,Arquitectura,2016,2,arquiteco 1056,arquitectura de software,1056,79
+1057,Ing. Sistemas,2016,1,ingeniero 1057,matematica 97,1057,78
+1058,Ing. Electrica,2016,2,ingeniero 1058,fisica 97,1058,77
+1059,Ing. Civil,2016,1,ingeniero 1059,quimica,1059,76
+1060,Ing. Industrial,2016,2,ingeniero 1060,historia,1060,75
+1061,Ing. Quimica,2016,1,ingeniero 1061,psicologia,1061,74
+1062,Ing. de Alimentos,2016,2,ingeniero 1062,introduccion a la informatica,1062,73
+1063,Ing. Mecanica,2016,1,ingeniero 1063,programacion,1063,72
+1064,Arquitectura,2016,2,arquiteco 1064,sistemas gerenciales,1064,71
+1065,Ing. Sistemas,2016,1,ingeniero 1065,sistemas geograficos,1065,70
+1066,Ing. Electrica,2016,2,ingeniero 1066,herramientas de productivadad,1066,69
+1067,Ing. Civil,2016,1,ingeniero 1067,arquitectura de software,1067,68
+1068,Ing. Industrial,2016,2,ingeniero 1068,matematica 98,1068,67
+1069,Ing. Quimica,2016,1,ingeniero 1069,fisica 98,1069,66
+1070,Ing. de Alimentos,2016,2,ingeniero 1070,quimica,1070,65
+1071,Ing. Mecanica,2016,1,ingeniero 1071,historia,1071,64
+1072,Arquitectura,2016,2,arquiteco 1072,psicologia,1072,63
+1073,Ing. Sistemas,2016,1,ingeniero 1073,introduccion a la informatica,1073,62
+1074,Ing. Electrica,2016,2,ingeniero 1074,programacion,1074,61
+1075,Ing. Civil,2016,1,ingeniero 1075,sistemas gerenciales,1075,60
+1076,Ing. Industrial,2016,2,ingeniero 1076,sistemas geograficos,1076,59
+1077,Ing. Quimica,2016,1,ingeniero 1077,herramientas de productivadad,1077,58
+1078,Ing. de Alimentos,2016,2,ingeniero 1078,arquitectura de software,1078,57
+1079,Ing. Mecanica,2016,1,ingeniero 1079,matematica 99,1079,56
+1080,Arquitectura,2016,2,arquiteco 1080,fisica 99,1080,55
+1081,Ing. Sistemas,2015,1,ingeniero 1081,quimica,1081,54
+1082,Ing. Electrica,2015,2,ingeniero 1082,historia,1082,53
+1083,Ing. Civil,2015,1,ingeniero 1083,psicologia,1083,52
+1084,Ing. Industrial,2015,2,ingeniero 1084,introduccion a la informatica,1084,51
+1085,Ing. Quimica,2015,1,ingeniero 1085,programacion,1085,50
+1086,Ing. de Alimentos,2015,2,ingeniero 1086,sistemas gerenciales,1086,49
+1087,Ing. Mecanica,2015,1,ingeniero 1087,sistemas geograficos,1087,48
+1088,Arquitectura,2015,2,arquiteco 1088,herramientas de productivadad,1088,47
+1089,Ing. Sistemas,2015,1,ingeniero 1089,arquitectura de software,1089,46
+1090,Ing. Electrica,2015,2,ingeniero 1090,matematica 100,1090,45
+1091,Ing. Civil,2015,1,ingeniero 1091,fisica 100,1091,44
+1092,Ing. Industrial,2015,2,ingeniero 1092,quimica,1092,43
+1093,Ing. Quimica,2015,1,ingeniero 1093,historia,1093,42
+1094,Ing. de Alimentos,2015,2,ingeniero 1094,psicologia,1094,41
+1095,Ing. Mecanica,2015,1,ingeniero 1095,introduccion a la informatica,1095,40
+1096,Arquitectura,2015,2,arquiteco 1096,programacion,1096,39
+1097,Ing. Sistemas,2015,1,ingeniero 1097,sistemas gerenciales,1097,38
+1098,Ing. Electrica,2015,2,ingeniero 1098,sistemas geograficos,1098,37
+1099,Ing. Civil,2015,1,ingeniero 1099,herramientas de productivadad,1099,36
+1100,Ing. Industrial,2015,2,ingeniero 1100,arquitectura de software,1100,35
+1101,Ing. Quimica,2017,1,ingeniero 1101,matematica 101,1101,34
+1102,Ing. de Alimentos,2017,2,ingeniero 1102,fisica 101,1102,33
+1103,Ing. Mecanica,2017,1,ingeniero 1103,quimica,1103,32
+1104,Arquitectura,2017,2,arquiteco 1104,historia,1104,31
+1105,Ing. Sistemas,2017,1,ingeniero 1105,psicologia,1105,30
+1106,Ing. Electrica,2017,2,ingeniero 1106,introduccion a la informatica,1106,29
+1107,Ing. Civil,2017,1,ingeniero 1107,programacion,1107,28
+1108,Ing. Industrial,2017,2,ingeniero 1108,sistemas gerenciales,1108,27
+1109,Ing. Quimica,2017,1,ingeniero 1109,sistemas geograficos,1109,26
+1110,Ing. de Alimentos,2017,2,ingeniero 1110,herramientas de productivadad,1110,25
+1111,Ing. Mecanica,2017,1,ingeniero 1111,arquitectura de software,1111,24
+1112,Arquitectura,2017,2,arquiteco 1112,matematica 102,1112,23
+1113,Ing. Sistemas,2017,1,ingeniero 1113,fisica 102,1113,22
+1114,Ing. Electrica,2017,2,ingeniero 1114,quimica,1114,21
+1115,Ing. Civil,2017,1,ingeniero 1115,historia,1115,20
+1116,Ing. Industrial,2017,2,ingeniero 1116,psicologia,1116,19
+1117,Ing. Quimica,2017,1,ingeniero 1117,introduccion a la informatica,1117,18
+1118,Ing. de Alimentos,2017,2,ingeniero 1118,programacion,1118,17
+1119,Ing. Mecanica,2017,1,ingeniero 1119,sistemas gerenciales,1119,16
+1120,Arquitectura,2017,2,arquiteco 1120,sistemas geograficos,1120,15
+1121,Ing. Sistemas,2017,1,ingeniero 1121,herramientas de productivadad,1121,14
+1122,Ing. Electrica,2017,2,ingeniero 1122,arquitectura de software,1122,13
+1123,Ing. Civil,2017,1,ingeniero 1123,matematica 103,1123,12
+1124,Ing. Industrial,2017,2,ingeniero 1124,fisica 103,1124,11
+1125,Ing. Quimica,2017,1,ingeniero 1125,quimica,1125,10
+1126,Ing. de Alimentos,2017,2,ingeniero 1126,historia,1126,9
+1127,Ing. Mecanica,2017,1,ingeniero 1127,psicologia,1127,8
+1128,Arquitectura,2017,2,arquiteco 1128,introduccion a la informatica,1128,7
+1129,Ing. Sistemas,2017,1,ingeniero 1129,programacion,1129,6
+1130,Ing. Electrica,2017,2,ingeniero 1130,sistemas gerenciales,1130,5
+1131,Ing. Civil,2017,1,ingeniero 1131,sistemas geograficos,1131,4
+1132,Ing. Industrial,2017,2,ingeniero 1132,herramientas de productivadad,1132,3
+1133,Ing. Quimica,2017,1,ingeniero 1133,arquitectura de software,1133,2
+1134,Ing. de Alimentos,2017,2,ingeniero 1134,matematica 104,1134,1

@@ -1,0 +1,57 @@
+@(registros: List[TRep3],carrera:String)
+@import scala.math.BigDecimal
+@import helper._
+
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" media="print" href="public/stylesheets/bootstrap.min.css">
+    </head>
+    
+    <body>
+        <h4  class="text-center">
+           Semi-Resumen de Estudiantes que deben cursar PERA a la fecha actual.
+        </h4>
+        <div class="text-center row">
+            <img src="public/images/logo_ues.png">
+        </div>
+
+        <div class="text-center row">
+        <p><strong>Año Actual</strong></p>
+    </div>
+
+    <div class="text-center row">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-8">
+        <table class="table table-condensed table-bordered table-striped" id="reporte-table">
+            <thead>
+            <tr>
+                <th>No</th>
+                <th>Carrera</th>
+                <th>Alumno</th>
+                <th>Carnet</th>
+                <th>Cum</th>
+            </tr>
+            </thead>
+            <tbody>
+
+                @for((row, index) <- registros.reverse.zipWithIndex) {
+                    <tr>
+                        <td>@(index+1)</td>
+                        <td>@row.carrera</td>
+                        <td>@row.alumno</td>
+                        <td>@row.carne</td>
+                        <td>@row.cum</td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+        </div>
+        <div class="col-sm-2"></div>
+    </div>
+
+    </body>
+
+</html>
